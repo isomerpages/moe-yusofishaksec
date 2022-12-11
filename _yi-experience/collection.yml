@@ -2,6 +2,7 @@ collections:
   yi-experience:
     output: true
     order:
+      - Academic Programmes/Art Unit.md
       - Academic Programmes/.keep
       - Direct School Admissions into Secondary Schools (DSA SEC).md
       - CCE/.keep
