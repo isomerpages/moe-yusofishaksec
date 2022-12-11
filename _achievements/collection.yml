@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Academic Achievements/Historical Scene Investigation Challenge 2022.md
       - Academic Achievements/13th Singapore Junior Physics Olympiad Competition
         2020.md
       - Academic Achievements/Inter Secondary School Translation Competition
