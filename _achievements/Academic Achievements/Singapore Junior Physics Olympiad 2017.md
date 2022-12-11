@@ -26,3 +26,7 @@ The names of the students, classes and category they participated in are as foll
 | Bu Jiawen 	| 3/1 	| Main 	| Certificate of Participation 	|
 | Hur Juhee 	| 3/1 	| Main 	| Certificate of Participation 	|
 | Lin Lijing 	| 3/1 	| Main 	| Certificate of Participation 	|
+
+![](/images/SJPO.jpg)
+
+We look forward to the 11th SJPO 2018.
