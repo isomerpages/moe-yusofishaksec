@@ -10,6 +10,6 @@ third_nav_title: Community & Environment
 
 [Singapore Philatelic Museum Draw My Stamp Competition](/yi-stories/achievements/2019/singapore-philatelic-museum-draw-my-stamp-competition)
 
-[National Youth Business Challenge 2016](/yi-stories/achievements/2016/national-youth-business-challenge-2016)
+[National Youth Business Challenge 2016](/yi-stories/achievements/community-n-environment/singapore-green-award-yellow-flame/)
 
-[Let’s Bread & Roll Competition 2016 (23 July 2016)](/achievements/2016/let-s-bread-n-roll-competition-2016-23-july-2016)
+[Let’s Bread & Roll Competition 2016 (23 July 2016)](/yi-stories/achievements/community-n-environment/lets-bread-n-roll-competition-2016-23-july-2016/)
