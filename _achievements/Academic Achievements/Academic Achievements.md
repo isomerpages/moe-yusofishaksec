@@ -16,11 +16,11 @@ third_nav_title: Academic Achievements
 
 * [13th Singapore Junior Physics Olympiad Competition](/yi-stories/achievements/academic/13th-singapore-junior-physics-olympiad-competition-2020/) 
 
-* [Inter-Secondary School Translation Competition](https://yusofishaksec.moe.edu.sg/yi-stories/achievements/academic-achievements/inter-secondary-school-translation-competition-2020) 
+* [Inter-Secondary School Translation Competition](/yi-stories/achievements/academic/inter-secondary-school-translation-competition-2020/) 
  
-* [Live on Design Competition Awards](https://yusofishaksec.moe.edu.sg/yi-stories/achievements/academic-achievements/live-on-design-competition-awards-2020) 
+* [Live on Design Competition Awards](/yi-stories/achievements/academic/live-on-design-competition-awards-2020/) 
 
-* [Malay Language Competitions](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2020/malay-language-competitions)
+* [Malay Language Competitions](/yi-stories/achievements/academic/malay-language-competitions/)
 
 * [Saya Boleh Mengarang Essay Writing Competition](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2019/saya-boleh-mengarang-essay-writing-competition)
 
