@@ -110,3 +110,15 @@ Mr Williams shared many interesting facts, beautiful photographs and video clips
 MOE SiS aims to provide interested schools, and A\*STAR researchers an avenue to engage youth in research and activities to cultivate their interest in Science, Technology, Engineering and Mathematics (STEM). YISS is glad to work in partnership with Dr Micheal Chuah, Research Scientist in Robotics and Autonomous Systems, Institute for Infocomm Research, to organise activities to enthuse out students in real-world STEM.
 
 Dr Chuah shared his journey and experiences in A\*Star with Yusoffians through a virtual assembly programme, showing them various applications of legged-robots in surveillance systems, search and rescue missions, building site inspections among others. Our STEM Club and Robotics Club CCA members had the opportunity to learn how to code and 3D print their own DIY Robot through a series of workshops conducted by Dr Chuah.
+
+![](/images/sci4.jpg)
+
+* **STEM Playground 2022**
+
+STEM Playground is organised by CPDD, MOE to encourage students’ interest, curiosity, and creativity in STEM activities. Our Sec 1 Yusoffians courageously took up the challenge to explore and understand STEM concepts through the hands-on activities. They were creative in designing their prototypes and their active participation has led our school to emerge top 5 among at least 36 other schools in two consecutive challenges:
+
+o   2nd in Challenge #2: Dome Sweet Dome    
+o   4th in STEM Playground 2022 Challenge #1: So Car So Good!
+
+
+![](/images/sci5.jpg)
