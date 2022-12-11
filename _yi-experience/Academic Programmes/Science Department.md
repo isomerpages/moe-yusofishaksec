@@ -102,3 +102,5 @@ Students understood more about Energy Sustainability: Solar vs Other Sources thr
 Our pioneering students were thrilled when they learnt that they would be able to meet retired NASA Astronaut Jeffrey Williams in-person during his physical visit to our campus! Students enthusiastically signed up to learn more about space exploration and to hear about space experiences from the astronaut himself ([https://go.gov.sg/spacejwjune2022](https://go.gov.sg/spacejwjune2022)) in this event organised in partnership with NEO Aeronautics.
 
 Mr Williams shared many interesting facts, beautiful photographs and video clips taken during his past missions into space, address many questions raised by students and inspired our Yusoffians to work hard and reach for the stars.
+
+![](/images/sci3.jpg)
