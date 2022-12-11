@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Academic Achievements/Singapore Mathematical Olympiad 2017.md
       - Academic Achievements/2017 National On the Spot Chinese Story Writing
         Competition.md
       - Academic Achievements/.keep
