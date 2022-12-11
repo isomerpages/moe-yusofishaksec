@@ -35,8 +35,7 @@ Urban Farming
 Assembly Talks on STEM and Sustainability-related issues
 ![](/images/ALP5.png)
 
-* **NParks Biodiversity Partnership**
-
+* **NParks Biodiversity Partnership**   
 o   Greening Workshop for STEM Club members    
 o   GreenWave during Biodiversity Week 2022    
 o   EMA Singapore Energy Grand Challenge (Youth)   
