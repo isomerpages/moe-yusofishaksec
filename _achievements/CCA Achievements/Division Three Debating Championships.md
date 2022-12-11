@@ -10,4 +10,5 @@ On 14th January, 14 students from YISS Debate Club took part in the annual Divis
 
 ![](/images/2b.png)
 
-![](/images/1b.jpg)
+<img src="/images/1b.jpg" 
+     style="width:50%">
