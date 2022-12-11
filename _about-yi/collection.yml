@@ -2,6 +2,7 @@ collections:
   about-yi:
     output: true
     order:
+      - Our BIG Family/Student Support Staff.md
       - Our BIG Family/.keep
       - Join our YI Family/We Spark Curiosity and Ignite Passion.md
       - Join our YI Family/We Embrace Innovation.md
