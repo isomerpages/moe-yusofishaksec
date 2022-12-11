@@ -4,7 +4,7 @@ permalink: /yi-stories/achievements/academic/
 description: ""
 third_nav_title: Academic Achievements
 ---
- # **Academic Achievements**
+# **Academic Achievements**
 
 * [STEM challenge](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/academic-achievements/stem-challenge)  
 
@@ -48,8 +48,8 @@ third_nav_title: Academic Achievements
 
 * [National Champion Title for National Story Challenge](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2017/national-champion-title-for-national-story-challenge)
 
-* [14th National Secondary School Chinese Creative Writing Competition 2016](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2016/14th-national-secondary-school-chinese-creative-writing-competition-2016)
+* [14th National Secondary School Chinese Creative Writing Competition 2016](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2016/14th-national-secondary-school-chinese-creative-writing-competition-2016) - not found
 
-* [National Children Chinese Story Writing Competition](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2016/national-children-chinese-story-writing-competition)
+* [National Children Chinese Story Writing Competition](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2016/national-children-chinese-story-writing-competition) - not found
 
-* [Arif Budiman Malay Language Teacher Award](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2016/arif-budiman-malay-language-teacher-award)
+* [Arif Budiman Malay Language Teacher Award](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2016/arif-budiman-malay-language-teacher-award) - not found
