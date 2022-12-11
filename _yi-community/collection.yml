@@ -2,4 +2,5 @@ collections:
   yi-community:
     output: true
     order:
+      - Parent Support Group (PSG).md
       - Alumni.md
