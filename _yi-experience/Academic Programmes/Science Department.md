@@ -96,3 +96,9 @@ Our inaugural YISS STEM Learning Fest, organised in partnership with the Singapo
 Students understood more about Energy Sustainability: Solar vs Other Sources through a presentation by Prof Ricky Ang, Head (Science, Mathematics and Technology), and Ng Teng Fong Chair Professor For SUTD-ZJU IDEA. Our pioneering cohort also learned about sustainability (including solar energy and biodegradable materials) through hands-on workshops conducted by faculty members of SUTD.
 
 ![](/images/sci2.jpg)
+
+* **Space Exploration by NASA Astronaut Jeffrey Williams (6 June 2022)**
+
+Our pioneering students were thrilled when they learnt that they would be able to meet retired NASA Astronaut Jeffrey Williams in-person during his physical visit to our campus! Students enthusiastically signed up to learn more about space exploration and to hear about space experiences from the astronaut himself ([https://go.gov.sg/spacejwjune2022](https://go.gov.sg/spacejwjune2022)) in this event organised in partnership with NEO Aeronautics.
+
+Mr Williams shared many interesting facts, beautiful photographs and video clips taken during his past missions into space, address many questions raised by students and inspired our Yusoffians to work hard and reach for the stars.
