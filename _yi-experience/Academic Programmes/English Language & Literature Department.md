@@ -48,7 +48,14 @@ They will be able to:
 **Talent development**   
 *   Young Writers Circle
 
-Multimodal Text Creation
-------------------------
+### Multimodal Text Creation
 
 Students take on the role as content creators (eg. vloggers, podcasters, travel writers, Instagrammers etc.) after learning about persuasive techniques and semiotic modes and how they impact audiences.
+
+![](/images/eng.jpg)
+
+### SGEM HUM Week
+
+Students are eager to learn about language and the humanities through the fun activities curated by teachers to enthuse and excite them!
+
+![](/images/eng1.jpg)
