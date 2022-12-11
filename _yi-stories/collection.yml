@@ -2,4 +2,5 @@ collections:
   yi-stories:
     output: true
     order:
+      - Acheivements/.keep
       - Highlights.md
