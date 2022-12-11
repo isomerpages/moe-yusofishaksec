@@ -2,4 +2,5 @@ collections:
   yi-connect:
     output: true
     order:
+      - Useful Links for Students/Book appointment with School Counsellor.md
       - Useful Links for Students/.keep
