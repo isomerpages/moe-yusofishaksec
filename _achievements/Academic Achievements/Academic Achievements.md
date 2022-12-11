@@ -28,7 +28,7 @@ third_nav_title: Academic Achievements
 
 * [Singapore Junior Water Prize Competition](/yi-stories/achievements/academic/singapore-junior-water-prize-competition/)
 
-* [National Schools Literature Festival](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2018/national-schools-literature-festival-2018)
+* [National Schools Literature Festival](/yi-stories/achievements/academic/national-schools-literature-festival-2018/)
 
 * [Ngee Ann Poly Math Challenge](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2017/ngee-ann-poly-math-challenge-2017)
 
