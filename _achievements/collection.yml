@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - CCA Achievements/Division Three Debating Championships.md
       - CCA Achievements/Speak Venture Debating Championships.md
       - CCA Achievements/National Youth Business Challenge Finals.md
       - CCA Achievements/Semi finalists for Orator’s Trophy.md
