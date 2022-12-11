@@ -2,6 +2,8 @@ collections:
   achievements:
     output: true
     order:
+      - CCA Achievements/Yusoffian featured in CNA upon release of O Level
+        results.md
       - CCA Achievements/Division Three Debating Championships.md
       - CCA Achievements/Speak Venture Debating Championships.md
       - CCA Achievements/National Youth Business Challenge Finals.md
