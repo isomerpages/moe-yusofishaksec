@@ -25,3 +25,8 @@ The leadership camp served to equip Yusofians with The Five Practices of Exempla
 *   Community Eco-Stewardship
 
 ![](/images/LLP3.png)
+![](/images/LLP4.png)
+
+*   Sec 1 Student Leaders Training
+
+![](/images/LLP5.png)
