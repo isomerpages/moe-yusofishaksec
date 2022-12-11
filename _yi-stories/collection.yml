@@ -2,4 +2,4 @@ collections:
   yi-stories:
     output: true
     order:
-      - example-page.md
+      - Highlights.md
