@@ -22,3 +22,12 @@ Through the STEMx IPW learning experience, our students will be able to better a
 * **YI Sustainability Month (22 March – 22 April 2022)**
 
 ![](/images/ALP1.png)
+
+* **STEM Experiences (STEMx)**
+
+Drones with AI Workshop
+![](/images/ALP2.png)
+
+Urban Farming
+![](/images/ALP3.png)
+![](/images/ALP4.png)
