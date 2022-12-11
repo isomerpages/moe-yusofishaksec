@@ -20,20 +20,25 @@ Khairul Izzan B Razali from 3/4 has done the school proud and won one of the ten
 
 Khairul Izzan B Razali, from Class 3/4 was one of the top 10 recipients to receive the Gold and Platinum Award.
 
-![](/images/Photo%201.jpg)
-Khairul winning the Gold Award
+<img src="/images/Photo%201.jpg" 
+     style="width:60%">
+<center>Khairul winning the Gold Award</center>
 
-![](/images/Photo%203.jpg)
-Khairul winning the Platinum Award
+<img src="/images/Photo%203.jpg" 
+     style="width:60%">
+<center>Khairul winning the Platinum Award</center>
 
-![](/images/Photo%202.jpg)
-Khairul after the Oral Presentation Judging session
+<img src="/images/Photo%203.jpg" 
+     style="width:60%">
+<center>Khairul after the Oral Presentation Judging session</center>
 
-![](/images/Photo%204.jpg)
-Screenshot 1 of Khairul's winning Game entry
+<img src="/images/Photo%204.jpg" 
+     style="width:60%">
+<center>Screenshot 1 of Khairul's winning Game entry</center>
 
-![](/images/Photo%205.jpg)
-Screenshot 2 of Khairul's winning Game entry
+<img src="/images/Photo%205.jpg" 
+     style="width:60%">
+<center>Screenshot 2 of Khairul's winning Game entry</center>
 
 It was a proud moment for Khairul as well as his CPA teachers Mr Foo And Mdm Ow-Yong who had worked hard with the students for the competition. It was a great experience for both teachers and students.
 
