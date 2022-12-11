@@ -6,13 +6,13 @@ third_nav_title: CCA Achievements
 ---
 # **CCA-related Achievements**
 
-* [NCC Outstanding Cadet Award](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2020/ncc-outstanding-cadet-award-2020) 
+* [NCC Outstanding Cadet Award](/yi-stories/achievements/cca-achievements/ncc-outstanding-cadet-award-2020/) 
 
-* [Netball Schools Challenge League](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2019/netball-schools-challenge-league)
+* [Netball Schools Challenge League](/yi-stories/achievements/cca-achievements/netball-schools-challenge-league/)
 
-* [NCC Annual Unit Recognition Award](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2019/ncc-annual-unit-recognition-award-ur)
+* [NCC Annual Unit Recognition Award](/yi-stories/achievements/cca-achievements/ncc-annual-unit-recognition-award-ur/)
 
-* [Australian Mathematics Competition 2017](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2017/australian-mathematics-competition-2017)
+* [Australian Mathematics Competition 2017](/yi-stories/achievements/cca-achievements/australian-mathematics-competition/)
 
 * [Yusoffian featured in Channel NewsAsia upon release of O-Level results](/yi-stories/achievements/cca-achievements/yusoffian-featured-in-cna-upon-release-of-o-level-results/)
 
