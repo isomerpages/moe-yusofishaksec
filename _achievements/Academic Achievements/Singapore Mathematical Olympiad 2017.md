@@ -26,3 +26,13 @@ The names of the students, classes and the category they participated in are sho
 | Pwint Thiri Ko 	| 3/1 	| Senior 	| Bronze 	|
 | Wang Zichen 	| 4/1 	| Open 	| Honourable Mention 	|
 | Hur Juhee 	| 3/1 	| Senior 	| Honourable Mention 	|
+
+<img src="/images/SMO%202017.jpg" 
+     style="width:50%">
+<center>Photo of Team</center>
+
+  
+
+Teachers and students gained valuable knowledge and skills in tackling Mathematical Olympiad questions.
+
+Many students relished in the satisfaction of attempting to solve tough questions and are looking forward to the challenge again in next year’s SMO.
