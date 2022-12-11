@@ -74,3 +74,13 @@ Across the country, 42 000 primary school students have received the first dose 
 (Source: **8视界新闻** **© Mediacorp Pte Ltd)**
 
 ##### **4万多小一新生开学 中小学高中将恢复更多活动**
+
+
+<img src="/images/Picture7.png" style="width:300px;height:200px;margin-left:15px;" align = "right">
+
+Our school relocated from Bukit Batok to Punggol at the end of 2021 and held our first flag-raising ceremony at the new school building on 4 January. Our students sang the national anthem and recited the pledge while maintaining a safe distance throughout the proceeding.
+
+Click [here](https://www.zaobao.com.sg/news/singapore/story20220105-1229642) to view article.
+
+  
+(Source: **联合早报** **© Singapore Press Holdings Limited )**
