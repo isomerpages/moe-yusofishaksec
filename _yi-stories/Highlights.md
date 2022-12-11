@@ -51,3 +51,5 @@ More than half of Singapore’s primary school students have signed up to get th
 **(Source: Channel NewsAsia © Mediacorp Pte Ltd )**
 	
 ##### **陈振声：** **约伴数小学生已预约接种疫苗**
+
+<img src="/images/Picture5.png" style="width:300px;height:200px;margin-left:15px;" align = "right">
