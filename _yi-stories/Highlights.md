@@ -32,7 +32,8 @@ Click [here](https://www.todayonline.com/singapore/despite-health-setbacks-two-
 
 
 **Peperiksaan GCE ‘O’: Dua pelajar lawan penyakit barah untuk catat kejayaan, seorang lagi ingin ceburi bidang perniagaan lakar kerjaya masa depan**
-![](/images/Picture3.png)
+
+<img src="/images/Picture3.png" style="width:300px;height:180px;margin-left:15px;" align = "right">
 
 Nur Irdina(middle) was first diagnosed with a brain tumor in Secondary 2. Despite the setbacks and obstacles she faced, she pressed on to complete her O levels with the support of her family and school.
 
