@@ -35,3 +35,5 @@ These programmes include:
 *   Public Art Exhibitions
 *   Representing school in Art Competitions
 *   Overseas Learning Journeys
+
+![](/images/Art%20Programme.jpg)
