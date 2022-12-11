@@ -16,13 +16,18 @@ locations:
     title: Address
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - phone: +65 6500 9800
+      - email: ""
+      - other: ""
+    title: "Tel:"
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: yiss@moe.edu.sg
       - other: ""
-    title: Careers
+    title: "Email:"
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "MRT: Punggol (NE17)<br>Buses: 117, 382W, 43"
+    title: "Getting here:"
 ---
