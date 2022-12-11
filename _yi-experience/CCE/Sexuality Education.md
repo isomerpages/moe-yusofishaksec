@@ -53,3 +53,13 @@ b.    Character and Citizenship Education (CCE)
 
 ##### SECONDARY 1
 ![](/images/220118-sexuality_ed.jpg)
+
+**INFORMATION FOR PARENTS**
+
+10.      Parents may opt their children out of the Sexuality Education lessons.
+
+11.      Parents who wish to withdraw their children out of the Sexuality Education are to complete the Parent Opt-out Form in FormSG form, accessible via Parents Gateway.  The completed form is to be submitted by 31/01/2022.
+
+12.      Parents can contact the school at Tel.: 65009800 for discussion or to seek clarification about the school’s sexuality education programme.
+
+13.      Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
