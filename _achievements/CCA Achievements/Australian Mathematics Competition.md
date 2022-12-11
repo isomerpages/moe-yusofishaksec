@@ -34,3 +34,14 @@ Our students did us proud as 6 students obtained Distinctions, 21 obtained Credi
 | Name 	| Level 	| Class 	| Award 	|
 |---	|---	|---	|---	|
 | Wang Zichen 	| Sec 4 	| 4/1 	| Distinction 	|
+
+##### Student Participation
+
+| Level 	| Category 	| No. of students 	| Award 	|
+|---	|---	|---	|---	|
+| Sec 1 Express 	| Junior 	| 40 	| Distinction 	|
+| Sec 2 Express 	| Junior 	| 36 	|  	|
+| Sec 3 Express 	| Intermediate 	| 35 	|  	|
+| Sec 4 Express 	| Intermediate 	| 9 	|  	|
+| Sec 5 NA 	| Intermediate 	| 4 	|  	|
+| Sec 3 NA 	| Intermediate 	| 2 	|  	|
