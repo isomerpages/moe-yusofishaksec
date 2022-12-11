@@ -82,3 +82,15 @@ This was complemented by a series of STEM Experience (STEMx) where students buil
 In our collaboration with the Singapore Institute of Technology (SIT), a selected group of Yusoffians were invited to work with SIT undergraduates on hands-on, community-linked projects. This strategic partnership gives our Yusoffians exposure to STEM-related projects and allows them to be mentored by SIT undergraduates in the design thinking process.
 
 Guided by their SIT mentors, our Secondary 4 students participated in this year’s collaborative project with Yio Chu Kang Single Member Constituency (YCK SMC) to address a need highlighted by the community.
+
+![](/images/sci1.jpg)
+
+*   **Electrochemistry Hands-on Activity on Fruit Battery (17 Mar 2021)**
+
+Beyond the regular chemistry lesson, our Yusoffians had the opportunity to attend a hands-on activity conducted by Dr Apple Koh and Dr Maggie Pee from Singapore University of Technology and Design (SUTD). In this electrochemistry fruit battery activity that has been modified with design thinking, cost consideration and optimisation, students learnt and applied the concepts of electrochemistry and redox reactions. Our students worked in groups in a challenge to build a fruit battery that was able to achieve cost and performance optimisation.
+
+* **STEM Learning Fest (24 May 2022)**
+
+Our inaugural YISS STEM Learning Fest, organised in partnership with the Singapore University of Technology and Design (SUTD), served to raise awareness in issues related to sustainability and engage students in exploring roles they can play as eco-stewards.
+
+Students understood more about Energy Sustainability: Solar vs Other Sources through a presentation by Prof Ricky Ang, Head (Science, Mathematics and Technology), and Ng Teng Fong Chair Professor For SUTD-ZJU IDEA. Our pioneering cohort also learned about sustainability (including solar energy and biodegradable materials) through hands-on workshops conducted by faculty members of SUTD.
