@@ -31,3 +31,6 @@ Our students did us proud as 6 students obtained Distinctions, 21 obtained Credi
 | Luo Jin 	| Sec 4 	| 4/1 	| Credit 	|
 
 ##### Best in School Award Winner
+| Name 	| Level 	| Class 	| Award 	|
+|---	|---	|---	|---	|
+| Wang Zichen 	| Sec 4 	| 4/1 	| Distinction 	|
