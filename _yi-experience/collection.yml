@@ -2,5 +2,6 @@ collections:
   yi-experience:
     output: true
     order:
+      - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - Home Based Learning.md
