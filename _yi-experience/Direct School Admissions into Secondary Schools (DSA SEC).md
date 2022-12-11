@@ -31,3 +31,6 @@ For DSA 2022, YISS will offer the following talents for Primary 6 students.
 |  14 	| Fencing 	| Boys, Girls 	|
 |  15 	| Table Tennis 	| Boys, Girls 	|
 |  16 	| Wushu 	| Boys, Girls 	|
+
+
+### DSA-Sec Selection Criteria for Talent Categories
