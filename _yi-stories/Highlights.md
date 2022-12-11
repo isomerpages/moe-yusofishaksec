@@ -46,3 +46,6 @@ Click [here](https://berita.mediacorp.sg/singapura/peperiksaan-gce-o-dua-pelaja
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uIq3c-7joXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+More than half of Singapore’s primary school students have signed up to get their COVID-19 vaccination. Education Minister Chan Chun Sing gave this update at Yusof Ishak Secondary School, which will be an upcoming vaccination centre dedicated for children. It will be the first such centre in Singapore’s north-eastern Punggol and Sengkang areas and will be able to administer 600 jabs a day. Altogether, the country’s 15 pediatric vaccination centres can inoculate over 11,000 children daily.
+
+  **(Source: Channel NewsAsia © Mediacorp Pte Ltd )**
