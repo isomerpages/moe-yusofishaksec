@@ -2,6 +2,7 @@ collections:
   yi-experience:
     output: true
     order:
+      - Direct School Admissions into Secondary Schools (DSA SEC).md
       - CCE/.keep
       - CCE/Character & Citizenship Education (CCE).md
       - CCE/Education and Career Guidance.md
