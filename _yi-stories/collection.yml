@@ -1,4 +1,5 @@
 collections:
   yi-stories:
     output: true
-    order: []
+    order:
+      - example-page.md
