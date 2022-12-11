@@ -11,7 +11,7 @@ Our school has been featured across a variety of media publications. Find out mo
 
 **尤索夫依萨中学新校舍新体验**
 
-<img src="/images/Picture1.png" style="width:300px;height:200px;margin-left:15px;" align = "right">
+<img src="/images/Picture1.png" style="width:300px;height:230px;margin-left:15px;" align = "right">
 
 Our pioneering cohort of students shared their aspirations and hopes for the school and how they were inspired by the innovative learning space that supported their learning.  
 
@@ -29,3 +29,7 @@ Nur Irdina(left) was first diagnosed with a brain tumor in Secondary 2. Despite 
 Click [here](https://www.todayonline.com/singapore/despite-health-setbacks-two-o-level-students-push-further-their-studies-1789286) to view article.
 
 (Source: **TODAY © Mediacorp Pte Ltd )**
+
+
+**Peperiksaan GCE ‘O’: Dua pelajar lawan penyakit barah untuk catat kejayaan, seorang lagi ingin ceburi bidang perniagaan lakar kerjaya masa depan**
+![](/images/Picture3.png)
