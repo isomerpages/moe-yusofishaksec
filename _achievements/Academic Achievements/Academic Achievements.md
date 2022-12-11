@@ -26,7 +26,7 @@ third_nav_title: Academic Achievements
 
 * [Student Reporters for Chinese Publication Zb Comma (早報逗號)2019](/yi-stories/achievements/academic/student-reporters-for-chinese-publication-zb-comma-2019/)
 
-* [Singapore Junior Water Prize Competition](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2019/singapore-junior-water-prize-competition)
+* [Singapore Junior Water Prize Competition](/yi-stories/achievements/academic/singapore-junior-water-prize-competition/)
 
 * [National Schools Literature Festival](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2018/national-schools-literature-festival-2018)
 
