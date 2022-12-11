@@ -2,6 +2,7 @@ collections:
   yi-experience:
     output: true
     order:
+      - Academic Programmes/Mother Tongue Languages Department.md
       - Academic Programmes/Mathematics Department.md
       - Academic Programmes/Science Department.md
       - Academic Programmes/Humanities Department.md
