@@ -1,0 +1,6 @@
+---
+title: Book appointment with School Counsellor
+permalink: /yi-connect/useful-links-for-students/book-appointment-with-school-counsellor/
+description: ""
+third_nav_title: Useful Links for Students
+---
