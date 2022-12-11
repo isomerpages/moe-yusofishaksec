@@ -1,4 +1,5 @@
 collections:
   yi-community:
     output: true
-    order: []
+    order:
+      - Alumni.md
