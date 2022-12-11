@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Technology & Coding/Aspire Aeronautics Challenge 2021.md
       - "Technology & Coding/MEC Competition 2016: Animation category 26 August
         2016.md"
       - Technology & Coding/Media Computing (MEC) Competition.md
