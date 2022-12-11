@@ -42,3 +42,16 @@ To ignite students' interest and curiosity in Mathematics, and nurture resilienc
 
 **Singapore Mathematical Olympiad (SMO)**
 ![](/images/photo1.png)
+
+![](/images/math.jpg)
+
+**Ngee Ann Math Challenge**
+![](/images/PHOTO-2019-10-29-09-36-10.jpg)
+
+![](/images/PHOTO-2019-10-29-09-36-11_3.jpg)
+
+
+**Pi-Force Challenge 2019**
+![](/images/Pri%20Students%20working%20-%20escape%20room.jpg)
+
+![](/images/Pri%20Students%20working.jpg)
