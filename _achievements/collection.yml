@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Technology & Coding/Technology & Coding Related Achievements.md
       - Technology & Coding/Design for Good Youth Competition.md
       - Technology & Coding/Aspire Aeronautics Challenge 2021.md
       - "Technology & Coding/MEC Competition 2016: Animation category 26 August
