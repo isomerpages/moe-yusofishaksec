@@ -21,3 +21,4 @@ CCA is compulsory for all students in secondary schools. The CCAs offered by the
 |  	| Chinese Orchestra  	| Basketball (Boys)  	| ELDDS 	|
 |  	|  	| Fencing 	| Art  	|
 
+CCAs are mainly conducted on Fridays between 2:30 pm and 5:30 pm. Additional training may be scheduled on Wednesdays between 2:30 pm and 5:30 pm to prepare students for competitions and performances.
