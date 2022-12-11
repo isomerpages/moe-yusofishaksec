@@ -2,6 +2,7 @@ collections:
   yi-experience:
     output: true
     order:
+      - Academic Programmes/Humanities Department.md
       - Academic Programmes/Craft and Technology Department.md
       - Academic Programmes/PE Department.md
       - Academic Programmes/Art Unit.md
