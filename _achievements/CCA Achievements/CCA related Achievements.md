@@ -20,8 +20,8 @@ third_nav_title: CCA Achievements
 
 * [Speak Venture Debating Championships 2017](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2017/speak-venture-debating-championships-2017)
 
-* [National Youth Business Challenge Finals 2017](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2017/national-youth-business-challenge-finals-2017)
+* [National Youth Business Challenge Finals 2017](/yi-stories/achievements/cca-achievements/national-youth-business-challenge-finals/)
 
-* [Semi-finalists for Orator’s Trophy 2017](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2017/semi-finalists-for-orator-s-trophy-2017)
+* [Semi-finalists for Orator’s Trophy 2017](/yi-stories/achievements/cca-achievements/semi-finalists-for-orators-trophy/)
 
-* [NPCC UOPA 2016](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2016/npcc-uopa-2016)
+* [NPCC UOPA 2016](/yi-stories/achievements/cca-achievements/npcc-uopa-2016/)
