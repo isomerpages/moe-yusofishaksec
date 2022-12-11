@@ -74,3 +74,11 @@ The Upper Secondary Biology syllabus seeks to develop in students the understand
 At YI, our dream is for our Yusoffians to soar and expand their horizons! To help them realise this dream, we invited entrepreneur, engineer and educator, Professor Neo Kok Beng to share his wealth of experiences and inspire our Secondary 4 students.
 
 This was complemented by a series of STEM Experience (STEMx) where students built gliders and had an up close experience with drones.
+
+![](/images/sci.jpg)
+
+*   **Young Engineers’ Space (YES!) Programme (Feb – May 2021)**
+
+In our collaboration with the Singapore Institute of Technology (SIT), a selected group of Yusoffians were invited to work with SIT undergraduates on hands-on, community-linked projects. This strategic partnership gives our Yusoffians exposure to STEM-related projects and allows them to be mentored by SIT undergraduates in the design thinking process.
+
+Guided by their SIT mentors, our Secondary 4 students participated in this year’s collaborative project with Yio Chu Kang Single Member Constituency (YCK SMC) to address a need highlighted by the community.
