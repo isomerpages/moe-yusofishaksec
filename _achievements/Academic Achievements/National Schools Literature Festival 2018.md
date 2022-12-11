@@ -16,3 +16,5 @@ Congratulations to the following teams that participated in the National Schools
 ![](/images/WhatsApp%20Image%202018-07-21.jpeg)
 
 ![](/images/WhatsApp%20Image%202018-07-21-1.jpeg)
+
+![](/images/WhatsApp%20Image%202018-07-21-2.jpeg)
