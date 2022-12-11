@@ -44,3 +44,5 @@ Click [here](https://berita.mediacorp.sg/singapura/peperiksaan-gce-o-dua-pelaja
 
 **Over half of primary school students have signed up for COVID-19 vaccination: Chan Chun Sing**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uIq3c-7joXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
