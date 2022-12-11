@@ -18,7 +18,7 @@ third_nav_title: CCA Achievements
 
 * [Division Three Debating Championships 2017](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2017/division-three-debating-championships-2017)
 
-* [Speak Venture Debating Championships 2017](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2017/speak-venture-debating-championships-2017)
+* [Speak Venture Debating Championships 2017](/yi-stories/achievements/cca-achievements/speak-venture-debating-championships/)
 
 * [National Youth Business Challenge Finals 2017](/yi-stories/achievements/cca-achievements/national-youth-business-challenge-finals/)
 
