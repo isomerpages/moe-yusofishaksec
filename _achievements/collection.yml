@@ -2,6 +2,8 @@ collections:
   achievements:
     output: true
     order:
+      - "Technology & Coding/MEC Competition 2016: Animation category 26 August
+        2016.md"
       - Technology & Coding/Media Computing (MEC) Competition.md
       - Technology & Coding/.keep
       - Community & Environment/Community & Environment Related Achievements.md
