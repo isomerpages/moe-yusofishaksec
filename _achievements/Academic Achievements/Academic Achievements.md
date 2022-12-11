@@ -24,7 +24,7 @@ third_nav_title: Academic Achievements
 
 * [Saya Boleh Mengarang Essay Writing Competition](/yi-stories/achievements/academic/saya-boleh-mengarang-essay-writing-competition/)
 
-* [Student Reporters for Chinese Publication Zb Comma (早報逗號)2019](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2019/student-reporters-for-chinese-publication-zb-comma-2019)
+* [Student Reporters for Chinese Publication Zb Comma (早報逗號)2019](/yi-stories/achievements/academic/student-reporters-for-chinese-publication-zb-comma-2019/)
 
 * [Singapore Junior Water Prize Competition](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2019/singapore-junior-water-prize-competition)
 
