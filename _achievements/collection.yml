@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - CCA Achievements/NCC Outstanding Cadet Award 2020.md
       - CCA Achievements/Netball Schools Challenge League.md
       - CCA Achievements/NCC Annual Unit Recognition Award (UR).md
       - CCA Achievements/Australian Mathematics Competition.md
