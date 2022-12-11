@@ -104,3 +104,9 @@ Our pioneering students were thrilled when they learnt that they would be able t
 Mr Williams shared many interesting facts, beautiful photographs and video clips taken during his past missions into space, address many questions raised by students and inspired our Yusoffians to work hard and reach for the stars.
 
 ![](/images/sci3.jpg)
+
+*  **A\*Star – MOE Scientist-In-School Programme (SiS) 2022**
+
+MOE SiS aims to provide interested schools, and A\*STAR researchers an avenue to engage youth in research and activities to cultivate their interest in Science, Technology, Engineering and Mathematics (STEM). YISS is glad to work in partnership with Dr Micheal Chuah, Research Scientist in Robotics and Autonomous Systems, Institute for Infocomm Research, to organise activities to enthuse out students in real-world STEM.
+
+Dr Chuah shared his journey and experiences in A\*Star with Yusoffians through a virtual assembly programme, showing them various applications of legged-robots in surveillance systems, search and rescue missions, building site inspections among others. Our STEM Club and Robotics Club CCA members had the opportunity to learn how to code and 3D print their own DIY Robot through a series of workshops conducted by Dr Chuah.
