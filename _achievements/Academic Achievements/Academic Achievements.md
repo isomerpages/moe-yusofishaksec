@@ -6,15 +6,15 @@ third_nav_title: Academic Achievements
 ---
 # **Academic Achievements**
 
-* [STEM challenge](/yi-stories/achievements/academic-achievements/stem-challenge)  
+* [STEM challenge](/yi-stories/achievements/academic/stem-challenge)  
 
-* [Science Fiction Contest by ASPIRE!](/yi-stories/achievements/academic-achievements/science-fiction-contest-by-aspire)  
+* [Science Fiction Contest by ASPIRE!](/yi-stories/achievements/academic/science-fiction-contest-by-aspire)  
 
-* [Nodes at Park Initiative](/yi-stories/achievements/academic-achievements/nodes-at-park-initiative)  
+* [Nodes at Park Initiative](/yi-stories/achievements/academic/nodes-at-park-initiative)  
 
-* [Historical Scene Investigation Challenge 2022](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/academic-achievements/historical-scene-investigation-challenge-2022)  
+* [Historical Scene Investigation Challenge 2022](/yi-stories/achievements/academic/historical-scene-investigation-challenge-2022/)  
 
-* [13th Singapore Junior Physics Olympiad Competition](https://yusofishaksec.moe.edu.sg/yi-stories/achievements/academic-achievements/13th-singapore-junior-physics-olympiad-competition-2020) 
+* [13th Singapore Junior Physics Olympiad Competition](/yi-stories/achievements/academic/13th-singapore-junior-physics-olympiad-competition-2020/) 
 
 * [Inter-Secondary School Translation Competition](https://yusofishaksec.moe.edu.sg/yi-stories/achievements/academic-achievements/inter-secondary-school-translation-competition-2020) 
  
