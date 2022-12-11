@@ -2,4 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - Community & Environment/Let’s Bread & Roll Competition 2016 (23 July
+        2016).md
       - Community & Environment/.keep
