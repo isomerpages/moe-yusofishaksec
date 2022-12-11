@@ -16,7 +16,7 @@ third_nav_title: CCA Achievements
 
 * [Yusoffian featured in Channel NewsAsia upon release of O-Level results](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2017/yusoffian-featured-in-channel-newsasia-upon-release-of-o-level-results)
 
-* [Division Three Debating Championships 2017](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2017/division-three-debating-championships-2017)
+* [Division Three Debating Championships 2017](/yi-stories/achievements/cca-achievements/division-three-debating-championships/)
 
 * [Speak Venture Debating Championships 2017](/yi-stories/achievements/cca-achievements/speak-venture-debating-championships/)
 
