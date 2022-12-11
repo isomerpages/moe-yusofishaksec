@@ -6,11 +6,11 @@ third_nav_title: Academic Achievements
 ---
 # **Academic Achievements**
 
-* [STEM challenge](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/academic-achievements/stem-challenge)  
+* [STEM challenge](/yi-stories/achievements/academic-achievements/stem-challenge)  
 
-* [Science Fiction Contest by ASPIRE!](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/academic-achievements/science-fiction-contest-by-aspire)  
+* [Science Fiction Contest by ASPIRE!](/yi-stories/achievements/academic-achievements/science-fiction-contest-by-aspire)  
 
-* [Nodes at Park Initiative](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/academic-achievements/nodes-at-park-initiative)  
+* [Nodes at Park Initiative](/yi-stories/achievements/academic-achievements/nodes-at-park-initiative)  
 
 * [Historical Scene Investigation Challenge 2022](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/academic-achievements/historical-scene-investigation-challenge-2022)  
 
