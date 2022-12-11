@@ -2,5 +2,6 @@ collections:
   yi-community:
     output: true
     order:
+      - School Advisory Committee.md
       - Parent Support Group (PSG).md
       - Alumni.md
