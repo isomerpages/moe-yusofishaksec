@@ -17,3 +17,12 @@ It also aims to spur students’ continued interest in the study and appreciatio
 Two students received the Bronze award and Honourable Mention.
 
 The names of the students, classes and category they participated in are as follows:
+
+| Name 	| Class 	| Category 	| Award 	|
+|---	|---	|---	|---	|
+| Pu Yi Xuan 	| 4/1 	| Main 	| Bronze 	|
+| Premananth Lavanya 	| 3/1 	| Main 	| Honourable Mention 	|
+| Wang Zichen 	| 4/1 	| Open 	| Certificate of Participation 	|
+| Bu Jiawen 	| 3/1 	| Main 	| Certificate of Participation 	|
+| Hur Juhee 	| 3/1 	| Main 	| Certificate of Participation 	|
+| Lin Lijing 	| 3/1 	| Main 	| Certificate of Participation 	|
