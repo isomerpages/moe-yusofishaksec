@@ -11,3 +11,5 @@ On 28 March, 22 students from Yusof Ishak Secondary School took part in the Ngee
 Both our teams performed well in this competition. In the Games segment, our two teams came in 1st runner-up and 2nd runner-up respectively while in the Quiz segment, our Sec 4/1 team won the 1st position.
 
 Overall, our school came in 2nd runner-up. Congratulations to our students who took part in this competition!
+
+![](/images/academicachievement.jpg)
