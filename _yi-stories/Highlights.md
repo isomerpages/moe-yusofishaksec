@@ -71,5 +71,6 @@ Click [here](https://www.zaobao.com.sg/news/singapore/story20220108-1230682) t
 
 Across the country, 42 000 primary school students have received the first dose of the COVID-19 vaccine. Our school, the first school in Singapore’s north-eastern Punggol and Sengkang areas to set up a pediatric vaccination centre, will be running its first trial to vaccinate about 70 children today.
 
-(Source: **8****视界新闻** **© Mediacorp Pte Ltd)**
+(Source: **8视界新闻** **© Mediacorp Pte Ltd)**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OVTg--0h8T8?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
