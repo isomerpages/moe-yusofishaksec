@@ -16,6 +16,6 @@ third_nav_title: Useful Links for Teachers
 *   [Human Resource Management System](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-connect/useful-links-for-teachers/human-resource-management-system) - link not found
 *   [Academy of Singapore Teachers](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-connect/useful-links-for-teachers/academy-of-singapore-teachers)
 *   [One Portal All Learners (OPAL 2.0)](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-connect/useful-links-for-teachers/one-portal-all-learners-opal-2-0)
-*   [PaC@Gov](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-connect/useful-links-for-teachers/pac-at-gov)
-*   [iExams](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-connect/useful-links-for-teachers/iexams)
+*   [PaC@Gov](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-connect/useful-links-for-teachers/pac-at-gov) - link not found
+*   [iExams](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-connect/useful-links-for-teachers/iexams) - link not found
 *   [Form SG](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-connect/useful-links-for-teachers/form-sg)
