@@ -2,6 +2,8 @@ collections:
   achievements:
     output: true
     order:
+      - Academic Achievements/2017 National On the Spot Chinese Story Writing
+        Competition.md
       - Academic Achievements/.keep
       - CCA Achievements/CCA related Achievements.md
       - CCA Achievements/NCC Outstanding Cadet Award 2020.md
