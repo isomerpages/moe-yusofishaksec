@@ -12,4 +12,6 @@ Both our teams performed well in this competition. In the Games segment, our two
 
 Overall, our school came in 2nd runner-up. Congratulations to our students who took part in this competition!
 
-![](/images/academicachievement.jpg)
+![](/images/academicachievement1.jpg)
+
+![](/images/academicachievement2.jpg)
