@@ -1,4 +1,5 @@
 collections:
   yi-connect:
     output: true
-    order: []
+    order:
+      - Useful Links for Students/.keep
