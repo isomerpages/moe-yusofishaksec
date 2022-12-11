@@ -35,3 +35,7 @@ Our Heritage Gallery is made possible through the generosity of our School Advis
 During the official opening, our former school leaders and long-serving staff were also present to mark the momentous occasion. Their pioneering spirit, strength and resilience have laid the firm foundation for Yusof Ishak Secondary School, upon which we shall continue to forge ahead and scale new heights.
 
 Let us look forward to our next 50 years ahead!
+
+![](/images/collabDraft6.jpg)
+
+![](/images/heritage5.jpg)
