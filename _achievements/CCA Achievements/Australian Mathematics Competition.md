@@ -45,3 +45,8 @@ Our students did us proud as 6 students obtained Distinctions, 21 obtained Credi
 | Sec 4 Express 	| Intermediate 	| 9 	|  	|
 | Sec 5 NA 	| Intermediate 	| 4 	|  	|
 | Sec 3 NA 	| Intermediate 	| 2 	|  	|
+
+![](/images/AMC%202017.jpeg)
+Sec 4 and 5 Award Winners
+
+It was a rewarding and enriching experience for the students. We look forward to another successful and improved year in 2018!
