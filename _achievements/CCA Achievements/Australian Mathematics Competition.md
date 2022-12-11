@@ -13,3 +13,5 @@ A total of 126 students took part in the annual competition which is meant to en
 This year, the competition was extended to all Secondary One to Three students in the Express stream and selected students from classes 3/3, 4/1 and 5/1. To prepare the students for the competition, the Mathematics Department had infused selected questions from past AMC competition papers into the Mathematics Scheme of Works (SOWs).
 
 Our students did us proud as 6 students obtained Distinctions, 21 obtained Credits and 83 obtained Proficiency Awards. The Best in School Award Winner was awarded to Wang Zichen from class 4/1.
+
+##### Top Students by Level
