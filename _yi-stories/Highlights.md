@@ -53,3 +53,9 @@ More than half of Singapore’s primary school students have signed up to get th
 ##### **陈振声：** **约伴数小学生已预约接种疫苗**
 
 <img src="/images/Picture5.png" style="width:300px;height:200px;margin-left:15px;" align = "right">
+
+More than half of Singapore’s primary school students have signed up to get their COVID-19 vaccination. Education Minister Chan Chun Sing gave this update at Yusof Ishak Secondary School, which will be an upcoming vaccination centre dedicated for children. It will be the first such centre in Singapore’s north-eastern Punggol and Sengkang area, and will be able to administer 600 jabs a day. Altogether, the country’s 15 pediatric vaccination centres can inoculate over 11,000 children daily.
+
+Click [here](https://www.zaobao.com.sg/news/singapore/story20220108-1230682) to view article. 
+
+(Source: **联合早报** **© Singapore Press Holdings Limited )**
