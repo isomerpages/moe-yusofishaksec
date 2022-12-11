@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Community & Environment/Community & Environment Related Achievements.md
       - Community & Environment/Singapore Philatelic Museum ‘Draw my Stamp’
         Competition.md
       - Community & Environment/National Youth Business Challenge 2016.md
