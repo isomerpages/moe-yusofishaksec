@@ -20,13 +20,18 @@ Students were also presented with vouchers.
 |---	|---	|---	|
 | LIM SI YING NICOLE<br>LUO JIN<br>PU YIXUAN<br>SHANNEN STEPHEN<br>WONG QI HUI<br>ZHANG YIMEI<br>GLADYS GOH JIA EN<br>LEW TAY PING, JUSTIN<br>WANG ZICHEN<br>MUHAMMED FARIS B MOHD MASLAN<br>SIVANI SIVAKUMAR<br>HEE CHEE SENG 	| FRANCIS ONG XING LONG<br>LEE YI YANG<br>LAU ZHI YU<br>TAN YAN ZHANG<br>LRVEL LEE MAN NING<br>NUR AHMEED FAD B YUSOF<br>TAUFIQ HAADY B MD JAMAL LULIL<br>CRYSTAL LEE CHAU 	| MUHAMMAD AQIB B MUHAMMAD RAMLI<br>GE HANWEN<br>SIVABALAN S/O SUBRAMANIAM<br>HEE KIT YEE 	|
 
-![](/images/classchampion.jpg)
-Class 4/1 team: Quiz Champion
 
-![](/images/Sec5.jpg)
-Class 5/1 and 4/2A,B team: Games 1st runner-up
 
-![](/images/teampicture.jpg)
-Class 4/1 team: Games 2nd runner-up
+<img src="/images/classchampion.jpg" 
+     style="width:60%">
+<center>Class 4/1 team: Quiz Champion</center>
+
+<img src="/images/Sec5.jpg" 
+     style="width:60%">
+<center>Class 5/1 and 4/2A,B team: Games 1st runner-up</center>
+
+<img src="/images/teampicture.jpg" 
+     style="width:60%">
+<center>Class 4/1 team: Games 2nd runner-up</center>
 
 It was a great experience for both teachers and students.
