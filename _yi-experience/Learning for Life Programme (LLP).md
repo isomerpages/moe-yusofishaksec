@@ -19,3 +19,9 @@ Our LLP serves to broaden students’ global outlook and deepen students’ acqu
 *   Sec 1 Leadership Camp
 
 The leadership camp served to equip Yusofians with The Five Practices of Exemplary Leadership from The Student Leadership Challenge Model and motivate them to seize opportunities to apply the leadership practices in their daily life, and through the numerous leadership opportunities during their time at YI.
+
+![](/images/LLP2.png)
+
+*   Community Eco-Stewardship
+
+![](/images/LLP3.png)
