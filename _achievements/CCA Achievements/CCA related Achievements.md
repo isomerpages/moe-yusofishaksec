@@ -14,7 +14,7 @@ third_nav_title: CCA Achievements
 
 * [Australian Mathematics Competition 2017](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2017/australian-mathematics-competition-2017)
 
-* [Yusoffian featured in Channel NewsAsia upon release of O-Level results](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2017/yusoffian-featured-in-channel-newsasia-upon-release-of-o-level-results)
+* [Yusoffian featured in Channel NewsAsia upon release of O-Level results](/yi-stories/achievements/cca-achievements/yusoffian-featured-in-cna-upon-release-of-o-level-results/)
 
 * [Division Three Debating Championships 2017](/yi-stories/achievements/cca-achievements/division-three-debating-championships/)
 
