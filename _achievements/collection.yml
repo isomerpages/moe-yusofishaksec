@@ -2,6 +2,8 @@ collections:
   achievements:
     output: true
     order:
+      - Academic Achievements/Student Reporters for Chinese Publication Zb Comma
+        (早報逗號)2019.md
       - Academic Achievements/Singapore Junior Water Prize Competition.md
       - Academic Achievements/National Schools Literature Festival 2018.md
       - Academic Achievements/Ngee Ann Polytechnic Math Challenge 2017.md
