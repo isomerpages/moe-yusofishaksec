@@ -15,3 +15,11 @@ The students were taught essential practical business skills and knowledge to se
 The business proposal of the school’s Interact Club was shortlisted for the Finals. Members of The Interact Club had the opportunity to market their eco-friendly business and sell the eco-friendly products through an effective sales pitch. 
 
 The Interact Club did our school proud by clinching Silver Award and the Most Creative & Innovative Award.
+
+![](/images/cca-achievements.jpg)
+
+Representing the school are our Interactors Lin Lijing (3/1), Darius Lim (3/1), Dinie Hasya (3/3), Syazwan Bin Nawawi (3/3), Farah Nadiah (2/4), Sabrina Binte Sani
+
+**_Our proud interactors receiving their awards! Congratulations, Interactors!_**
+
+It was a great learning experience for both students and teachers. The Interact Club looks forward to NYBC 2018.
