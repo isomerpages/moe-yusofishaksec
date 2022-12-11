@@ -12,3 +12,5 @@ Our ECG Counsellor, Ms Priscilla Chong, comes to YISS on **Tuesdays** and **W
 
 Booking link: [https://go.gov.sg/yiss-ecgc](https://go.gov.sg/yiss-ecgc)   
 Email: [chong\_soo\_hui\_priscilla@moe.edu.sg](mailto:chong_soo_hui_priscilla@moe.edu.sg)
+
+![](/images/220407-YISS%20ECGC%20poster%20image.png)
