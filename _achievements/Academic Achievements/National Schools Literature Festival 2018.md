@@ -12,3 +12,7 @@ Congratulations to the following teams that participated in the National Schools
 2\. Sec 2 students, 3rd Place for Literature Book Parade  
 3\. Sec 3 Literature students, Winner for the Unseen Debate   
 4\. Sec 4 Literature students, Winner for the Unseen Debate
+
+![](/images/WhatsApp%20Image%202018-07-21.jpeg)
+
+![](/images/WhatsApp%20Image%202018-07-21-1.jpeg)
