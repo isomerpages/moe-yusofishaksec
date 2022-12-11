@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  about-yi:
     output: true
     order:
       - folder-page.md
