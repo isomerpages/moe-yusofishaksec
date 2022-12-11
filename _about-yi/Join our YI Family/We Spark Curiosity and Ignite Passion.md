@@ -26,3 +26,4 @@ With over 55 years experience in providing quality holistic education and being 
 
 ![](/images/2%20(1).png)
 
+![](/images/3%20(1).png)
