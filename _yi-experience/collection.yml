@@ -2,9 +2,9 @@ collections:
   yi-experience:
     output: true
     order:
-      - CCE/Education and Career Guidance.md
-      - CCE/Character & Citizenship Education (CCE).md
       - CCE/.keep
+      - CCE/Character & Citizenship Education (CCE).md
+      - CCE/Education and Career Guidance.md
       - Co Curricular Activities.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
