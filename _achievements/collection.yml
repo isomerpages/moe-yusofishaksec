@@ -2,6 +2,8 @@ collections:
   achievements:
     output: true
     order:
+      - Academic Achievements/13th Singapore Junior Physics Olympiad Competition
+        2020.md
       - Academic Achievements/Inter Secondary School Translation Competition
         2020.md
       - Academic Achievements/Live on Design Competition Awards 2020.md
