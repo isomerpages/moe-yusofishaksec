@@ -12,6 +12,6 @@ third_nav_title: Technology & Coding
 
 [Design for Good Youth Competition](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2020/design-for-good-youth-competition)
 
-[Media Computing (MEC) Competition](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2017/media-computing-mec-competition-2017)
+[Media Computing (MEC) Competition](/yi-stories/achievements/technology-n-coding/media-computing-mec-competition/)
 
-[MEC Competition- Animation category 26 August](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2016/mec-competition-2016-animation-category-26-august-2016) - not found on original website
+[MEC Competition- Animation category 26 August](/yi-stories/achievements/technology-n-coding/mec-competition-2016-animation-category-26-august-2016/) - not found on original website
