@@ -51,4 +51,5 @@ b.    Character and Citizenship Education (CCE)
 
 **At Yusof Ishak Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2022:**
 
+##### SECONDARY 1
 ![](/images/220118-sexuality_ed.jpg)
