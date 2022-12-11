@@ -2,11 +2,11 @@ collections:
   achievements:
     output: true
     order:
-      - CCA/Speak Venture Debating Championships.md
-      - CCA/National Youth Business Challenge Finals.md
-      - CCA/Semi finalists for Orator’s Trophy.md
-      - CCA/NPCC UOPA 2016.md
-      - CCA/.keep
+      - CCA Achievements/Speak Venture Debating Championships.md
+      - CCA Achievements/National Youth Business Challenge Finals.md
+      - CCA Achievements/Semi finalists for Orator’s Trophy.md
+      - CCA Achievements/NPCC UOPA 2016.md
+      - CCA Achievements/.keep
       - Technology & Coding/.keep
       - Technology & Coding/Technology & Coding Related Achievements.md
       - Technology & Coding/Bronze award at Ignite 2021.md
