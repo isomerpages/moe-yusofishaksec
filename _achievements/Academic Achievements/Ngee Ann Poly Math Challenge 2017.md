@@ -15,3 +15,7 @@ Our students compete as two teams against teams from other secondary schools. Th
 Both teams made us proud. For Session 2 Games, our teams came in 2nd runner-up and 1st runner-up respectively. For Session 2 Quizzes, our Sec 4/1 team won the 1st position.
 
 Students were also presented with vouchers.
+
+| Class 4/1 students 	| Class 5/1 students 	| 4/2A and 4/2B students 	|
+|---	|---	|---	|
+| LIM SI YING NICOLE<br>LUO JIN<br>PU YIXUAN<br>SHANNEN STEPHEN<br>WONG QI HUI<br>ZHANG YIMEI<br>GLADYS GOH JIA EN<br>LEW TAY PING, JUSTIN<br>WANG ZICHEN<br>MUHAMMED FARIS B MOHD MASLAN<br>SIVANI SIVAKUMAR<br>HEE CHEE SENG 	| FRANCIS ONG XING LONG<br>LEE YI YANG<br>LAU ZHI YU<br>TAN YAN ZHANG<br>LRVEL LEE MAN NING<br>NUR AHMEED FAD B YUSOF<br>TAUFIQ HAADY B MD JAMAL LULIL<br>CRYSTAL LEE CHAU 	| MUHAMMAD AQIB B MUHAMMAD RAMLI<br>GE HANWEN<br>SIVABALAN S/O SUBRAMANIAM<br>HEE KIT YEE 	|
