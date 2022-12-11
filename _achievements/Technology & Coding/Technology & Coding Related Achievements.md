@@ -6,7 +6,7 @@ third_nav_title: Technology & Coding
 ---
 # **Technology & Coding Related Achievements**
 
-[Bronze Award @ Ignite 2021](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2021/bronze-award-at-ignite-2021)
+[Bronze Award @ Ignite 2021](/yi-stories/achievements/Technology-and-Coding/bronze-award-at-ignite-2021/)
 
 [Design for Good Youth Competition](/yi-stories/achievements/technology-n-coding/design-for-good-youth-competition/)
 
