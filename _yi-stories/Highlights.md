@@ -40,3 +40,7 @@ Nur Irdina(middle) was first diagnosed with a brain tumor in Secondary 2. Despit
 Click [here](https://berita.mediacorp.sg/singapura/peperiksaan-gce-o-dua-pelajar-lawan-penyakit-barah-untuk-catat-kejayaan-seorang-lagi-ingin-ceburi-bidang-perniagaan-lakar-kerjaya-masa-depan-627416) to view article.
 
 (Source: **BERITA © Mediacorp Pte Ltd )**
+
+
+**Over half of primary school students have signed up for COVID-19 vaccination: Chan Chun Sing**
+
