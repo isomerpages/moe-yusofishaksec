@@ -7,9 +7,9 @@ description: ""
 
 Our school has been featured across a variety of media publications. Find out more about it below.
 
-##### **2022**
+#### **2022**
 
-**尤索夫依萨中学新校舍新体验**
+##### **尤索夫依萨中学新校舍新体验**
 
 <img src="/images/Picture1.png" style="width:300px;height:200px;margin-left:15px;" align = "right">
 
@@ -20,7 +20,7 @@ Click [here](https://www.zbschools.sg/news/school/stories-21313) to view artic
 (Source: 早报校园 **© Singapore Press Holdings Limited )**
 
 
-**Despite health setbacks, two O-Level students push on to further their studies**
+##### **Despite health setbacks, two O-Level students push on to further their studies**
 
 <img src="/images/Picture2.png" style="width:310px;height:230px;margin-left:15px;" align = "right">
 
@@ -31,7 +31,7 @@ Click [here](https://www.todayonline.com/singapore/despite-health-setbacks-two-
 (Source: **TODAY © Mediacorp Pte Ltd )**
 
 
-**Peperiksaan GCE ‘O’: Dua pelajar lawan penyakit barah untuk catat kejayaan, seorang lagi ingin ceburi bidang perniagaan lakar kerjaya masa depan**
+##### **Peperiksaan GCE ‘O’: Dua pelajar lawan penyakit barah untuk catat kejayaan, seorang lagi ingin ceburi bidang perniagaan lakar kerjaya masa depan**
 
 <img src="/images/Picture3.png" style="width:300px;height:180px;margin-left:15px;" align = "right">
 
@@ -48,4 +48,6 @@ Click [here](https://berita.mediacorp.sg/singapura/peperiksaan-gce-o-dua-pelaja
 
 More than half of Singapore’s primary school students have signed up to get their COVID-19 vaccination. Education Minister Chan Chun Sing gave this update at Yusof Ishak Secondary School, which will be an upcoming vaccination centre dedicated for children. It will be the first such centre in Singapore’s north-eastern Punggol and Sengkang areas and will be able to administer 600 jabs a day. Altogether, the country’s 15 pediatric vaccination centres can inoculate over 11,000 children daily.
 
-  **(Source: Channel NewsAsia © Mediacorp Pte Ltd )**
+**(Source: Channel NewsAsia © Mediacorp Pte Ltd )**
+	
+##### **陈振声：** **约伴数小学生已预约接种疫苗**
