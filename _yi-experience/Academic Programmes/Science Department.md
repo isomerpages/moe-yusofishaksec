@@ -31,63 +31,46 @@ Our YI STEM Experiences (STEMx) programme adopts an integrative approach in prov
 <img src="/images/Engage_Explore_Empower_Evaluate.png" 
      style="width:25%">
 
-*   **Engage:** Gain exposure to STEM through learning experiences in school
+*   **Engage:** Gain exposure to STEM through learning experiences in school  
 *   **Explore:** Think critically and be curious in exploring STEM-related topics
 *   **Evaluate:** Reflect on knowledge and learning process
 *   **Empower:** Extend knowledge towards making responsible informed decisions
 
-Learning Outcomes
------------------
+### Learning Outcomes
 
 **Lower Secondary Science**
 
-  
-
 The aims of the Lower Secondary Science E/N(A) syllabuses are to:
 
-1.  cultivate students’ appreciation of Science as a collective human endeavour to understand the natural world, and as a way of thinking rather than just a body of facts.
-2.  inspire students to make informed decisions and take responsible actions in science-related issues that concern their lives, the society and the environment.
-3.  help students develop fundamentals that are integral to scientific inquiry and innovation, including problem-seeking and problem-solving.
-
-  
+1\.  cultivate students’ appreciation of Science as a collective human endeavour to understand the natural world, and as a way of thinking rather than just a body of facts.    
+2\.  inspire students to make informed decisions and take responsible actions in science-related issues that concern their lives, the society and the environment.   
+3\.  help students develop fundamentals that are integral to scientific inquiry and innovation, including problem-seeking and problem-solving.   
 
 The aims of the Lower Secondary Science Normal (Technical) syllabus are to:
 
-1.  develop 21st century competencies in students
-2.  guide students in acquiring knowledge, skills and values for application in their daily lives
-3.  prepare students for future learning and work such that they become lifelong and motivated learners; and develop skills which are useful and relevant for them to be contributing citizens.
-
-  
+1\.  develop 21st century competencies in students    
+2\.  guide students in acquiring knowledge, skills and values for application in their daily lives    
+3\.  prepare students for future learning and work such that they become lifelong and motivated learners; and develop skills which are useful and relevant for them to be contributing citizens.    
 
 **Upper Secondary Biology, Chemistry and Physics**
 
-  
-
 The Upper Secondary Biology syllabus seeks to develop in students the understanding, skills, ethics and attitudes relevant to the practices of science, enabling them to:
 
-1.  appreciate practical applications of Biology/ Chemistry/ Physics in the real world,
-2.  deepen their interest in Biology/ Chemistry/ Physics for future learning and work,
-3.  become scientifically literate citizens who can innovate and seize opportunities in the 21st century, and
+1\.  appreciate practical applications of Biology/ Chemistry/ Physics in the real world,    
+2\.  deepen their interest in Biology/ Chemistry/ Physics for future learning and work,    
+3\.  become scientifically literate citizens who can innovate and seize opportunities in the 21st century, and   
 
-  
 
-_\[Biology\]_ develop a way of thinking to understand how living organisms work to sustain life and use the disciplinary ideas in Biology to approach, analyse and solve problems in biological systems.
+**_\[Biology\]_** develop a way of thinking to understand how living organisms work to sustain life and use the disciplinary ideas in Biology to approach, analyse and solve problems in biological systems.
 
-  
+**_\[Chemistry\]_** develop a way of thinking to approach, analyse and solve problems by explaining macroscopic characteristics and changes in chemical systems through the use of sub-microscopic and symbolic representations.
 
-_\[Chemistry\]_ develop a way of thinking to approach, analyse and solve problems by explaining macroscopic characteristics and changes in chemical systems through the use of sub-microscopic and symbolic representations.
+**_\[Physics\]_** appreciate that a small number of basic principles and disciplinary ideas can be applied to explain, analyse and solve problems in the physical world.
 
-  
-
-_\[Physics\]_ appreciate that a small number of basic principles and disciplinary ideas can be applied to explain, analyse and solve problems in the physical world.
-
-Key Programmes
---------------
+### Key Programmes
 
 *   **Aeronautics Talk and Workshop (14 Jan 2021)**
 
 At YI, our dream is for our Yusoffians to soar and expand their horizons! To help them realise this dream, we invited entrepreneur, engineer and educator, Professor Neo Kok Beng to share his wealth of experiences and inspire our Secondary 4 students.
-
-  
 
 This was complemented by a series of STEM Experience (STEMx) where students built gliders and had an up close experience with drones.
