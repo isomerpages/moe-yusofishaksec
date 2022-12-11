@@ -22,7 +22,7 @@ third_nav_title: Academic Achievements
 
 * [Malay Language Competitions](/yi-stories/achievements/academic/malay-language-competitions/)
 
-* [Saya Boleh Mengarang Essay Writing Competition](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2019/saya-boleh-mengarang-essay-writing-competition)
+* [Saya Boleh Mengarang Essay Writing Competition](/yi-stories/achievements/academic/saya-boleh-mengarang-essay-writing-competition/)
 
 * [Student Reporters for Chinese Publication Zb Comma (早報逗號)2019](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2019/student-reporters-for-chinese-publication-zb-comma-2019)
 
