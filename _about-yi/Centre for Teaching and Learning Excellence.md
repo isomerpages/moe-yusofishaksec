@@ -23,3 +23,7 @@ The benefits of the Centre are expected to accrue not just to our students and t
 
 
 ### CTLE@YISS Events
+
+
+![](/images/220411-CTLE%20metacognition%20mailer.png)
+[Click here to register today!](https://go.gov.sg/metacognition-drlee)
