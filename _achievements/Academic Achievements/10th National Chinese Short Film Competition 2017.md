@@ -26,3 +26,9 @@ A group of students from 2/1 and 2/2 have won the following awards in the **10t
 8.    Zhao Hanyu (2/2)
 
 Congratulations to our students who took part in this competition!
+
+![](/images/pic1%20(1).jpg)
+
+![](/images/pic2%20(1).jpg)
+
+![](/images/pic3.jpg)
