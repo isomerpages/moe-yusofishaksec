@@ -55,3 +55,12 @@ To ignite students' interest and curiosity in Mathematics, and nurture resilienc
 ![](/images/Pri%20Students%20working%20-%20escape%20room.jpg)
 
 ![](/images/Pri%20Students%20working.jpg)
+
+![](/images/Pi%20Force%20Group%20with%20GOH%20Dr%20Joseph%20Yeo.jpg)
+
+**SEARCH Learning Space**
+![](/images/WhatsApp%20Image%202019-04-05.jpeg)
+
+![](/images/IMG_1685.jpg)
+
+![](/images/IMG_1611.jpg)
