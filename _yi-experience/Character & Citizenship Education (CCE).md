@@ -31,3 +31,10 @@ When Yusoffians graduate from the school at Sec 4/5, they will achieve the follo
 | Sec 2 	| A Resilient Sportsman, Embodying Grit and Dare 	|
 | Sec 3 	| A Compassionate Statesman, Leading and Serving with a Heart 	|
 | Sec 4/5 	| A Confident Scholar, Aspiring to Excel 	|
+
+
+**Key Programmes**
+
+Below are some programs that the school has to inculcate values and develop students’ character.
+
+![](/images/CCE2.png)
