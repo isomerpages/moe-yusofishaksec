@@ -10,7 +10,7 @@ third_nav_title: Useful Links for Teachers
 *   [MOE Intranet](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-connect/useful-links-for-teachers/moe-intranet) - link not found
 *   [iCONNECT](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-connect/useful-links-for-teachers/iconnect) - link not found
 *   [SC Mobile](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-connect/useful-links-for-teachers/sc-mobile)
-*   [School Cockpit](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-connect/useful-links-for-teachers/school-cockpit)
+*   [School Cockpit](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-connect/useful-links-for-teachers/school-cockpit) - link not found
 *   [Parents Gateway](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-connect/useful-links-for-teachers/parents-gateway)
 *   [HR Online](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-connect/useful-links-for-teachers/hr-online)
 *   [Human Resource Management System](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-connect/useful-links-for-teachers/human-resource-management-system)
