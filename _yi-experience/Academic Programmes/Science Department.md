@@ -94,3 +94,5 @@ Beyond the regular chemistry lesson, our Yusoffians had the opportunity to atten
 Our inaugural YISS STEM Learning Fest, organised in partnership with the Singapore University of Technology and Design (SUTD), served to raise awareness in issues related to sustainability and engage students in exploring roles they can play as eco-stewards.
 
 Students understood more about Energy Sustainability: Solar vs Other Sources through a presentation by Prof Ricky Ang, Head (Science, Mathematics and Technology), and Ng Teng Fong Chair Professor For SUTD-ZJU IDEA. Our pioneering cohort also learned about sustainability (including solar energy and biodegradable materials) through hands-on workshops conducted by faculty members of SUTD.
+
+![](/images/sci2.jpg)
