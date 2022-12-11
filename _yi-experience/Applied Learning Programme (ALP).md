@@ -40,3 +40,6 @@ o   Greening Workshop for STEM Club members
 o   GreenWave during Biodiversity Week 2022    
 o   EMA Singapore Energy Grand Challenge (Youth)   
 o   DJI RoboMaster Singapore Online Challenge-Intelligent Transportation
+
+![](/images/ALP8.jpg)   
+![](/images/APL9.png)
