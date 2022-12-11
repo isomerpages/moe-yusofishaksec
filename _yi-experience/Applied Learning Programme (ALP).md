@@ -31,3 +31,13 @@ Drones with AI Workshop
 Urban Farming
 ![](/images/ALP3.png)
 ![](/images/ALP4.png)
+
+Assembly Talks on STEM and Sustainability-related issues
+![](/images/ALP5.png)
+
+* **NParks Biodiversity Partnership**
+
+o   Greening Workshop for STEM Club members    
+o   GreenWave during Biodiversity Week 2022    
+o   EMA Singapore Energy Grand Challenge (Youth)   
+o   DJI RoboMaster Singapore Online Challenge-Intelligent Transportation
