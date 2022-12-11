@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - CCA Achievements/NCC Annual Unit Recognition Award (UR).md
       - CCA Achievements/Australian Mathematics Competition.md
       - CCA Achievements/Yusoffian featured in CNA upon release of O Level
         results.md
