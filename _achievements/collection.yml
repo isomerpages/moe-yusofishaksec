@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - CCA/NPCC UOPA 2016.md
       - CCA/.keep
       - Technology & Coding/.keep
       - Technology & Coding/Technology & Coding Related Achievements.md
