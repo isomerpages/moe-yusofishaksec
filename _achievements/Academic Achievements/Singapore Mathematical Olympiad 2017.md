@@ -19,3 +19,10 @@ Honourable mentions are awarded to the top 26 – 40% of students and bronze are
 The rest of our Junior, Senior and Open category students put in their best efforts and were awarded the certificates of participation.
 
 The names of the students, classes and the category they participated in are shown below:
+
+| Name 	| Class 	| Category 	| Award 	|
+|---	|---	|---	|---	|
+| Hee Chee Seng 	| 4/1 	| Senior 	| Bronze 	|
+| Pwint Thiri Ko 	| 3/1 	| Senior 	| Bronze 	|
+| Wang Zichen 	| 4/1 	| Open 	| Honourable Mention 	|
+| Hur Juhee 	| 3/1 	| Senior 	| Honourable Mention 	|
