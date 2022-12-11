@@ -73,4 +73,4 @@ Across the country, 42 000 primary school students have received the first dose 
 
 (Source: **8视界新闻** **© Mediacorp Pte Ltd)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OVTg--0h8T8?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+##### **4万多小一新生开学 中小学高中将恢复更多活动**
