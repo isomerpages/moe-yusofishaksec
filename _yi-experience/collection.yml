@@ -2,10 +2,10 @@ collections:
   yi-experience:
     output: true
     order:
-      - CCE/Sexuality Education.md
       - CCE/.keep
       - CCE/Character & Citizenship Education (CCE).md
       - CCE/Education and Career Guidance.md
+      - CCE/Sexuality Education.md
       - Co Curricular Activities.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
