@@ -30,23 +30,23 @@ third_nav_title: Academic Achievements
 
 * [National Schools Literature Festival](/yi-stories/achievements/academic/national-schools-literature-festival-2018/)
 
-* [Ngee Ann Poly Math Challenge](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2017/ngee-ann-poly-math-challenge-2017)
+* [Ngee Ann Poly Math Challenge](/yi-stories/achievements/academic/ngee-ann-polytechnic-math-challenge-2017/)
 
-* [Singapore Junior Physics Olympiad](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2017/singapore-junior-physics-olympiad-2017)
+* [Singapore Junior Physics Olympiad](/yi-stories/achievements/academic/singapore-junior-physics-olympiad-2017/)
 
-* [10th National Chinese Short Film Competition for Secondary Schools](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2017/10th-national-chinese-short-film-competition-for-secondary-schools-2017)
+* [10th National Chinese Short Film Competition for Secondary Schools](/yi-stories/achievements/academic/10th-national-chinese-short-film-competition-2017/)
 
-* [Singapore Mathematical Olympiad](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2017/singapore-mathematical-olympiad-2017)
+* [Singapore Mathematical Olympiad](/yi-stories/achievements/academic/singapore-mathematical-olympiad-2017/)
  
 * [Ngee Ann Polytechnic Math Challenge](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2017/ngee-ann-polytechnic-math-challenge-2017)
 
 * [Pena Emasku 2017](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2017/pena-emasku-2017)
 
-* [2017 National On-the-Spot Chinese Story Writing Competition](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2017/2017-national-on-the-spot-chinese-story-writing-competition)
+* [2017 National On-the-Spot Chinese Story Writing Competition](/yi-stories/achievements/academic/2017-national-on-the-spot-chinese-story-writing-competition/)
 
-* [Yusoffian featured in the press for securing place in Republic Polytechnic under Early Admission Exercise (EAE) - 20 September 2016](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2016/yusoffian-featured-in-the-press-for-securing-place-in-republic-polytechnic-under-early-admission-exercise-eae-20-september-2016)
+* [Yusoffian featured in the press for securing place in Republic Polytechnic under Early Admission Exercise (EAE) - 20 September 2016](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2016/yusoffian-featured-in-the-press-for-securing-place-in-republic-polytechnic-under-early-admission-exercise-eae-20-september-2016) - not found
 
-* [National Champion Title for National Story Challenge](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2017/national-champion-title-for-national-story-challenge)
+* [National Champion Title for National Story Challenge](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2017/national-champion-title-for-national-story-challenge) - not found
 
 * [14th National Secondary School Chinese Creative Writing Competition 2016](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2016/14th-national-secondary-school-chinese-creative-writing-competition-2016) - not found
 
