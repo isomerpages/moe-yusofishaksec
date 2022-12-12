@@ -1,0 +1,4 @@
+collections:
+  announcements-and-events:
+    output: true
+    order: []
