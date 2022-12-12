@@ -15,6 +15,8 @@ This year, the competition was extended to all Secondary One to Three students i
 Our students did us proud as 6 students obtained Distinctions, 21 obtained Credits and 83 obtained Proficiency Awards. The Best in School Award Winner was awarded to Wang Zichen from class 4/1.
 
 ##### Top Students by Level
+
+
 | Name 	| Level 	| Class 	| Award 	|
 |---	|---	|---	|---	|
 | Nur Elsa 	| Sec 1 	| 1/2 	| Credit 	|
@@ -30,10 +32,15 @@ Our students did us proud as 6 students obtained Distinctions, 21 obtained Credi
 | Zhang Yimei 	| Sec 4 	| 4/1 	| Credit 	|
 | Luo Jin 	| Sec 4 	| 4/1 	| Credit 	|
 
+
+
 ##### Best in School Award Winner
+
 | Name 	| Level 	| Class 	| Award 	|
 |---	|---	|---	|---	|
 | Wang Zichen 	| Sec 4 	| 4/1 	| Distinction 	|
+
+
 
 ##### Student Participation
 
