@@ -29,6 +29,6 @@ sections:
         passions and talents confidently.
       button: Find Out More
       url: /about-yi/join-our-yi-family/we-spark-curiosity-and-ignite-passion/
-      image: /images/panel2.jpg
+      image: /images/panel2-1.jpg
       alt: Image alt text
 ---
