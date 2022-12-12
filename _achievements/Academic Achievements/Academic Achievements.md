@@ -10,7 +10,7 @@ third_nav_title: Academic Achievements
 
 * [Science Fiction Contest by ASPIRE!](/yi-stories/achievements/academic/science-fiction-contest-by-aspire)  
 
-* [Nodes at Park Initiative](/yi-stories/achievements/academic/nodes-at-park-initiative)  
+* [Nodes at Park Initiative](/yi-stories/achievements/achievements/nodes-at-park-initiative/)  
 
 * [Historical Scene Investigation Challenge 2022](/yi-stories/achievements/academic/historical-scene-investigation-challenge-2022/)  
 
