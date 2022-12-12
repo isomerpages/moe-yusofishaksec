@@ -9,18 +9,13 @@ sections:
   - hero:
       title: Yusof Ishak Secondary School
       background: /images/yiss.gif
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Announcement and Events
+          description: Click here for more
+          url: /announcements-and-events/dsa-2021-talent-areas/
+        - title: Contact Us
+          description: Click here
+          url: /contact-us/
   - infopic:
       title: WE SPARK CURIOSITY AND IGNITE PASSION
       subtitle: Collaborate|Communicate|Create
