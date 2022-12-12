@@ -2,9 +2,9 @@ collections:
   announcements-and-events:
     output: true
     order:
-      - Sec 1 Registration Webinar.md
-      - Meet Parents Session (MPS) Term 1 2022.md
-      - Congratulations to our 2021 O Level & N Level Cohort.md
-      - CTLE@YISS.md
-      - YISS Open House 2022.md
       - DSA 2021 Talent Areas.md
+      - YISS Open House 2022.md
+      - CTLE@YISS.md
+      - Congratulations to our 2021 O Level & N Level Cohort.md
+      - Meet Parents Session (MPS) Term 1 2022.md
+      - Sec 1 Registration Webinar.md
