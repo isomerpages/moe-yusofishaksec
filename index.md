@@ -4,11 +4,10 @@ title: Yusof Ishak Secondary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Yusof Ishak Secondary School
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
@@ -29,5 +28,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
