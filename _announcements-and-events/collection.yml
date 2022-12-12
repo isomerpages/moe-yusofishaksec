@@ -2,4 +2,5 @@ collections:
   announcements-and-events:
     output: true
     order:
+      - YISS Open House 2022.md
       - DSA 2021 Talent Areas.md
