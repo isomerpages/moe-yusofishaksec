@@ -26,3 +26,11 @@ Zhu Yu Hong 2/1
 Ivan Heng Hao Yi 2/4
 
 Congratulations to our students who took part in this competition! We would also like to take this opportunity to thank the parents/guardian, teachers, EAS staffs and students who have supported us!
+
+![](/images/National%20Story%20Challenge%202017_Img%204.jpg)
+
+![](/images/National%20Story%20Challenge%202017_Img%203.jpg)
+
+![](/images/National%20Story%20Challenge%202017_Img%202.jpg)
+
+![](/images/National%20Story%20Challenge%202017_Img%201.jpg)
