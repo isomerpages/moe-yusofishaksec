@@ -34,8 +34,10 @@ sections:
   - infopic:
       title: WE EMBRACE INNOVATION FOR AUTHENTIC LEARNING
       subtitle: Ideate | Innovate | Inspire
-      description: Infopic description
-      button: Button Text
+      description: We nurture innovative Waymakers for the 21st century by involving
+        Design Thinking and Creative Problem Solving in our curriculum.
+      button: Find Out More
       image: /images/panel3-1.jpg
       alt: Image alt text
+      url: /about-yi/join-our-yi-family/we-embrace-innovation
 ---
