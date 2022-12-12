@@ -55,7 +55,8 @@ sections:
       description: A leader in every YI student. We nurture leaders FOR tomorrow who
         are change makers, who inspire social action and possess a global
         outlook and growth mindset.
-      button: Button Text
+      button: Find out more
       image: /images/panel5.jpg
       alt: Image alt text
+      url: /about-yi/join-our-yi-family/we-nurture-students-for-the-future
 ---
