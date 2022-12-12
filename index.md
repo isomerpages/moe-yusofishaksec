@@ -64,6 +64,8 @@ sections:
       subtitle: Skilful | Caring
       description: Our teachers work collaboratively with education researchers and
         Master Teachers to create quality lessons that are impactful and fun.
-      button: Button Text
+      button: Find out more
       alt: Image alt text
+      image: /images/Picture10.jpg
+      url: /about-yi/join-our-yi-family/we-inspire
 ---
