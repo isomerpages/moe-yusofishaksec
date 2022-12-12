@@ -2,5 +2,7 @@ collections:
   announcements-and-events:
     output: true
     order:
+      - "CTLE@YISS: Promoting Metacognition in Teaching & Learning: The Role of
+        Task Design and ePedagogy.md"
       - YISS Open House 2022.md
       - DSA 2021 Talent Areas.md
