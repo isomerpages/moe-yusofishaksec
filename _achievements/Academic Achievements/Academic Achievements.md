@@ -44,7 +44,7 @@ third_nav_title: Academic Achievements
 
 * [2017 National On-the-Spot Chinese Story Writing Competition](/yi-stories/achievements/academic/2017-national-on-the-spot-chinese-story-writing-competition/)
 
-* [Yusoffian featured in the press for securing place in Republic Polytechnic under Early Admission Exercise (EAE) - 20 September 2016](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2016/yusoffian-featured-in-the-press-for-securing-place-in-republic-polytechnic-under-early-admission-exercise-eae-20-september-2016) - not found
+* [Yusoffian featured in the press for securing place in Republic Polytechnic under Early Admission Exercise (EAE) - 20 September 2016](/yi-stories/achievements/Academic/yusoffian-featured-in-the-press-for-securing-place-in-rp-under-eae/)
 
 * [National Champion Title for National Story Challenge](/yi-stories/achievements/Academic/national-champion-title-for-national-story-challenge/)
 
