@@ -49,4 +49,13 @@ sections:
       url: /about-yi/join-our-yi-family/we-leverage-technology-for-learning
       image: /images/panel4-1.jpg
       alt: Image alt text
+  - infopic:
+      title: WE NURTURE LEADERS FOR THE FUTURE
+      subtitle: Soar | Serve | Shine
+      description: A leader in every YI student. We nurture leaders FOR tomorrow who
+        are change makers, who inspire social action and possess a global
+        outlook and growth mindset.
+      button: Button Text
+      image: /images/panel5.jpg
+      alt: Image alt text
 ---
