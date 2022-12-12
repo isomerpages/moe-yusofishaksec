@@ -31,4 +31,11 @@ sections:
       url: /about-yi/join-our-yi-family/we-spark-curiosity-and-ignite-passion/
       image: /images/panel2-1.jpg
       alt: Image alt text
+  - infopic:
+      title: WE EMBRACE INNOVATION FOR AUTHENTIC LEARNING
+      subtitle: Ideate | Innovate | Inspire
+      description: Infopic description
+      button: Button Text
+      image: /images/panel3-1.jpg
+      alt: Image alt text
 ---
