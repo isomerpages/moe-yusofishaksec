@@ -40,4 +40,13 @@ sections:
       image: /images/panel3-1.jpg
       alt: Image alt text
       url: /about-yi/join-our-yi-family/we-embrace-innovation
+  - infopic:
+      title: WE LEVERAGE TECHNOLOGY TO TRANSFORM LEARNING
+      subtitle: Personalised | Connected
+      description: "YI uses the Personalised Digital Learning Programme to provide
+        effective, personalised learning experience for every learner. "
+      button: Find out more
+      url: /about-yi/join-our-yi-family/we-leverage-technology-for-learning
+      image: /images/panel4-1.jpg
+      alt: Image alt text
 ---
