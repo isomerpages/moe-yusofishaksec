@@ -2,6 +2,7 @@ collections:
   announcements-and-events:
     output: true
     order:
+      - Congratulations to our 2021 O Level & N Level Cohort.md
       - CTLE@YISS.md
       - YISS Open House 2022.md
       - DSA 2021 Talent Areas.md
