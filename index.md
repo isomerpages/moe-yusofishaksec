@@ -59,4 +59,11 @@ sections:
       image: /images/panel5.jpg
       alt: Image alt text
       url: /about-yi/join-our-yi-family/we-nurture-students-for-the-future
+  - infopic:
+      title: WE INSPIRE
+      subtitle: Skilful | Caring
+      description: Our teachers work collaboratively with education researchers and
+        Master Teachers to create quality lessons that are impactful and fun.
+      button: Button Text
+      alt: Image alt text
 ---
