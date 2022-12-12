@@ -48,7 +48,7 @@ third_nav_title: Academic Achievements
 
 * [National Champion Title for National Story Challenge](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2017/national-champion-title-for-national-story-challenge) - not found
 
-* [14th National Secondary School Chinese Creative Writing Competition 2016](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2016/14th-national-secondary-school-chinese-creative-writing-competition-2016) - not found
+* [14th National Secondary School Chinese Creative Writing Competition 2016](/yi-stories/achievements/Academic/14th-national-chinese-creative-writing-competition-2016/)
 
 * [National Children Chinese Story Writing Competition](/yi-stories/achievements/Academic/14th-national-chinese-creative-writing-competition-2016/)
 
