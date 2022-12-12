@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Academic Achievements/Arif Budiman Malay Language Teacher Award.md
       - Academic Achievements/Academic Achievements.md
       - Academic Achievements/STEM Challenge.md
       - Academic Achievements/Science Fiction Contest by ASPIRE!.md
