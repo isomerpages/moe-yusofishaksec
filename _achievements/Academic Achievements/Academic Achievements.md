@@ -36,11 +36,11 @@ third_nav_title: Academic Achievements
 
 * [10th National Chinese Short Film Competition for Secondary Schools](/yi-stories/achievements/academic/10th-national-chinese-short-film-competition-2017/)
 
-* [Singapore Mathematical Olympiad](/yi-stories/achievements/academic/singapore-mathematical-olympiad-2017/)
- 
 * [Ngee Ann Polytechnic Math Challenge](/yi-stories/achievements/academic/ngee-ann-polytechnic-math-challenge-2017/)
 
 * [Pena Emasku 2017](/yi-stories/achievements/Academic/pena-emasku-2017/)
+
+* [Singapore Mathematical Olympiad](/yi-stories/achievements/academic/singapore-mathematical-olympiad-2017/)
 
 * [2017 National On-the-Spot Chinese Story Writing Competition](/yi-stories/achievements/academic/2017-national-on-the-spot-chinese-story-writing-competition/)
 
