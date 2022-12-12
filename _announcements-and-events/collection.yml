@@ -1,4 +1,5 @@
 collections:
   announcements-and-events:
     output: true
-    order: []
+    order:
+      - DSA 2021 Talent Areas.md
