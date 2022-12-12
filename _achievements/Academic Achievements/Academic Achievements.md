@@ -50,6 +50,6 @@ third_nav_title: Academic Achievements
 
 * [14th National Secondary School Chinese Creative Writing Competition 2016](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2016/14th-national-secondary-school-chinese-creative-writing-competition-2016) - not found
 
-* [National Children Chinese Story Writing Competition](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2016/national-children-chinese-story-writing-competition) - not found
+* [National Children Chinese Story Writing Competition](/yi-stories/achievements/Academic/14th-national-chinese-creative-writing-competition-2016/)
 
-* [Arif Budiman Malay Language Teacher Award](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2016/arif-budiman-malay-language-teacher-award) - not found
+* [Arif Budiman Malay Language Teacher Award](/yi-stories/achievements/academic/2017-national-on-the-spot-chinese-story-writing-competition/)
