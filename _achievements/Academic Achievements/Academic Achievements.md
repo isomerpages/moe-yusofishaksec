@@ -38,7 +38,7 @@ third_nav_title: Academic Achievements
 
 * [Singapore Mathematical Olympiad](/yi-stories/achievements/academic/singapore-mathematical-olympiad-2017/)
  
-* [Ngee Ann Polytechnic Math Challenge](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2017/ngee-ann-polytechnic-math-challenge-2017) - page not found
+* [Ngee Ann Polytechnic Math Challenge](/yi-stories/achievements/academic/ngee-ann-polytechnic-math-challenge-2017/)
 
 * [Pena Emasku 2017](/yi-stories/achievements/Academic/pena-emasku-2017/)
 
