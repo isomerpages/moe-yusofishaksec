@@ -2,7 +2,7 @@ collections:
   yi-experience:
     output: true
     order:
-      - Personalised Digital Learning Programme.md
+      - Academic Programmes/.keep
       - Academic Programmes/English Language & Literature Department.md
       - Academic Programmes/Mother Tongue Languages Department.md
       - Academic Programmes/Mathematics Department.md
@@ -11,7 +11,6 @@ collections:
       - Academic Programmes/Craft and Technology Department.md
       - Academic Programmes/PE Department.md
       - Academic Programmes/Art Unit.md
-      - Academic Programmes/.keep
       - Direct School Admissions into Secondary Schools (DSA SEC).md
       - CCE/.keep
       - CCE/Character & Citizenship Education (CCE).md
@@ -20,4 +19,5 @@ collections:
       - Co Curricular Activities.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
+      - Personalised Digital Learning Programme.md
       - Home Based Learning.md
