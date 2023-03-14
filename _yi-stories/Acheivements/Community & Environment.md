@@ -6,7 +6,7 @@ third_nav_title: Acheivements
 ---
 # **Community & Environment Related Achievements**
 
-* [Singapore Green Award](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2019/singapore-green-award-yellow-flame) - link not found on Original website
+* [Singapore Green Award](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-stories/achievements/2019/singapore-green-award-yellow-flame) 
 
 * [Singapore Philatelic Museum Draw My Stamp Competition](/yi-stories/achievements/Community-and-Environment/singapore-philatelic-museum-competition/)
 
