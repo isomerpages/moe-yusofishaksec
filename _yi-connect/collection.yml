@@ -2,11 +2,11 @@ collections:
   yi-connect:
     output: true
     order:
-      - Contact Us.md
       - Useful Links for Teachers.md
+      - Useful Links for Students/.keep
       - Useful Links for Students/Useful Links for Students.md
       - Useful Links for Students/School Rules.md
       - Useful Links for Students/Student Learning Space (SLS).md
       - Useful Links for Students/Student iCON email.md
       - Useful Links for Students/Book appointment with School Counsellor.md
-      - Useful Links for Students/.keep
+      - Contact Us.md
