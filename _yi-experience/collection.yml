@@ -2,6 +2,7 @@ collections:
   yi-experience:
     output: true
     order:
+      - Personalised Digital Learning Programme.md
       - Academic Programmes/English Language & Literature Department.md
       - Academic Programmes/Mother Tongue Languages Department.md
       - Academic Programmes/Mathematics Department.md
