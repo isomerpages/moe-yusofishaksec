@@ -13,5 +13,3 @@ description: ""
 
 Please contact your class mentors if you need to reset your password.
 
-![](/images/CV1.jpeg)
-![](/images/CV2.jpeg)
