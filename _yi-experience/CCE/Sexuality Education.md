@@ -41,3 +41,14 @@ You may [click](https://go.gov.sg/moe-sexuality-education) here for more infor
 
 **At Yusof Ishak Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2023:**
 
+![](/images/Sec1.jpeg)
+
+![](/images/Sec2.jpeg)
+
+**INFORMATION FOR PARENTS**
+
+10.     Parents may opt their children out of the Sexuality Education lessons.
+
+11.     Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form via [here](https://form.gov.sg/63c8dacc8de097001227456a). The completed form is to be submitted by 10/02/2023.
+
+12.     Parents can contact the school at yiss@moe.edu.sg or 65009800 for discussion or to seek clarification about the school’s Sexuality Education Programme.
