@@ -11,4 +11,5 @@ third_nav_title: Useful Links for Students
 *   [Student Learning Space (SLS)](/yi-connect/useful-links-for-students/student-learning-space-sls)
 *   [Student iCON email](/yi-connect/useful-links-for-students/student-icon)
 *   [Book appointment with School Counsellor](https://form.gov.sg/61cfde5d2e38540012ff2a13)
-*   [Google Classroom](https://yusofishaksec-moe-edu-sg-admin.cwp.sg/yi-connect/useful-links-for-students/google-classroom) - insert link for Google classroom
+*   [Google Classroom](https://classroom.google.com/) 
+*   [Rental of Lockers](https://tinyurl.com/YISSlocker)
