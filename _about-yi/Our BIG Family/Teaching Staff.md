@@ -8,10 +8,10 @@ third_nav_title: Our BIG Family
 
 ### Teacher Leaders
 
-| NAME 	| APPOINTMENT 	|
-|---	|---	|
-| Mr Donavan Lau 	| Lead Teacher (Physics) 	|
-| Ms Hurul Ain 	| Senior Teacher (History) 	|
+| NAME | APPOINTMENT |
+|:---|:---|
+| Mr Donavan Lau | Lead Teacher (Physics) |
+| Ms Hurul Ain  | Senior Teacher (History) |
 
 ### Class Mentors
 
