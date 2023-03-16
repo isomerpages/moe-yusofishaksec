@@ -8,18 +8,24 @@ third_nav_title: Our BIG Family
 
 ### Key Personnel
 
-| NAME | APPOINTMENT |
+| NAME<br> | APPOINTMENT<br> |
 |---|---|
-| Mdm Maureen Lee | Principal |
-| Mr Wilson Tay | Vice-Principal |
-| Mr Teddy Lin | Vice-Principal (Administration) |
-| Mdm Chan Hwee Leng | School Staff Developer |
-| Mr Chua Soon Heng | HOD / Physical Education & Co-Curricular Activities |
+| Mdm Maureen Lee<br> | Principal<br> |
+| Ms Loh Sein Ling<br> | Vice-Principal (EO)<br> |
+| Mr Teddy Lin<br> | Vice-Principal (Administration)<br> |
+| Mdm Chan Hwee Leng<br> | School Staff Developer<br> |
+| Ms Tan Sui Linn<br> | HOD / Science<br> |
+| Mr Colin Sim | HOD / English & Literature |
+| Mr Benny Lim | HOD / Humanities |
 | Mr Eric Koh Zhen Feng | HOD / Mathematics |
-| Mr Lim Ngee Hau | HOD / Student Management |
-| Ms Neo Shu Hua | HOD / Citizenship and Character Education |
-| Ms Sheryl Chong | HOD / Information and Communication Technologies |
-| Mrs Tan Li May | Year Head |
 | Ms Wong Peizi | HOD / Mother Tongue Languages |
-| Mr Daniel Soh | Subject Head / Talent Development & Partnership |
-| Ms Tan Sui Linn | HOD / Science |
+| Mr Chua Soon Heng<br> | HOD / Physical Education & Co-Curricular Activities<br> |
+| Mr Lim Ngee Hau<br> | HOD / Student Management<br> |
+| Mrs Tan Li May | Year Head<br> |
+| Ms Neo Shu Hua<br> | HOD / Citizenship and Character Education<br> |
+| Ms Sheryl Chong<br> | HOD / Information and Communication Technologies<br> |
+| Mr Daniel Soh<br> | SH / Talent Development & Partnerships<br> |
+| Ms Huha Yumn Bahruddin Eilyaas<br> | Subject Head / Geography<br> |
+| Mr Kennard Seah<br> | Level Head / Strategic Communication & Outreach<br> |
+| Ms Jaclyn Chua<br> | Administration Manager<br> |
+| Mr Koh Son Keong<br> | Operation Manager |
