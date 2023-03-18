@@ -17,7 +17,7 @@ sections:
           description: Click here
           url: /contact-us/
   - infopic:
-      title: WE SPARK CURIOSITY AND IGNITE PASSION
+      title: BELIEVE <br> SPARK CURIOSITY AND IGNITE PASSION
       subtitle: Collaborate|Communicate|Create
       description: We create a bespoke environment for our students involving
         Inquiry-based and Collaborative Learning for them to explore their
