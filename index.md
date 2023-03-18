@@ -65,5 +65,5 @@ sections:
       url: /about-yi/join-our-yi-family/we-inspire
   - resources:
       subtitle: latest announcements
-      button: Resources Button Name
+      button: More
 ---
