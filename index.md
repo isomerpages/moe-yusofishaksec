@@ -63,4 +63,7 @@ sections:
       alt: Image alt text
       image: /images/Picture10.jpg
       url: /about-yi/join-our-yi-family/we-inspire
+  - resources:
+      subtitle: latest announcements
+      button: Resources Button Name
 ---
