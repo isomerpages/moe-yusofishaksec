@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/yiss.gif
+      background: /images/Banner_Video_AdobeExpress (1).gif
       key_highlights:
         - title: Announcement and Events
           description: Click here for more
