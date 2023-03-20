@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Yusof Ishak Secondary School
       background: /images/yiss.gif
       key_highlights:
         - title: Announcement and Events
