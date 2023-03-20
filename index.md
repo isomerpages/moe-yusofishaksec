@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/yiss.gif
+      background: /images/yiss.crop.gif
       key_highlights:
         - title: Announcement and Events
           description: Click here for more
