@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      video: _video/Banner_Video (1).mp4
+      
       key_highlights:
         - title: Announcement and Events
           description: Click here for more
@@ -15,7 +15,7 @@ sections:
         - title: Contact Us
           description: Click here
           url: /contact-us/
-      background: /images/yiss.crop.gif
+      video: _video/Banner_Video (1).mp4
   - infopic:
       title: WE SPARK CURIOSITY AND IGNITE PASSION
       subtitle: Collaborate|Communicate|Create
