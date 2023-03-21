@@ -15,6 +15,7 @@ sections:
         - title: Contact Us
           description: Click here
           url: /contact-us/
+      background: /images/yiss.crop.gif
   - infopic:
       title: WE SPARK CURIOSITY AND IGNITE PASSION
       subtitle: Collaborate|Communicate|Create
