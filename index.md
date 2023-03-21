@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      image: /images/Copy of Pioneering as One (1200 × 630 px).png
+      video: _video/Banner_Video (1).mp4
       key_highlights:
         - title: Announcement and Events
           description: Click here for more
