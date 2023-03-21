@@ -3,7 +3,7 @@ url: https://yusofishaksec.moe.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#232973"
-  secondary-color: "#080eca"
+  secondary-color: "#232973"
   media-colors:
     - title: media-color-one
       color: "#49759a"
