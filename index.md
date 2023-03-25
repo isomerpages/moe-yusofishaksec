@@ -15,7 +15,7 @@ sections:
         - title: Contact Us
           description: Click here
           url: /contact-us/
-      background: /images/yiss.crop.gif
+      background: /images/Yusof Ishak Secondary landing img.png
   - infopic:
       title: WE SPARK CURIOSITY AND IGNITE PASSION
       subtitle: Collaborate|Communicate|Create
