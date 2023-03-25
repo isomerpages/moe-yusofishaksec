@@ -15,6 +15,7 @@ sections:
         - title: Contact Us
           description: Click here
           url: /contact-us/
+      background: /images/Yusof Ishak Secondary (2).png
   - infopic:
       title: WE SPARK CURIOSITY AND IGNITE PASSION
       subtitle: Collaborate|Communicate|Create
