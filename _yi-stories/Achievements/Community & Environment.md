@@ -2,7 +2,7 @@
 title: Community & Environment
 permalink: /yi-stories/achievements/Community-and-Environment/
 description: ""
-third_nav_title: Acheivements
+third_nav_title: Achievements
 ---
 # **Community & Environment Related Achievements**
 
