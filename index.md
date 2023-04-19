@@ -72,4 +72,7 @@ sections:
       alt: Image alt text
       image: /images/Picture10.jpg
       url: /about-yi/join-our-yi-family/we-inspire
+  - resources:
+      title: "DSA Open House "
+      button: DSA Open House
 ---
