@@ -6,6 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-# How does this look like?
-![](/images/1%20(2).png)
-Let's see if we can add some images at the top.
+# Direct School Admissions into Secondary Schools (DSA SEC)
+
+![https://www.yusofishaksec.moe.edu.sg/yi-experience/direct-school-admissions-into-secondary-schools-dsa-sec/](/images/dsa%202023.jpg)
+Click [here](https://www.yusofishaksec.moe.edu.sg/yi-experience/direct-school-admissions-into-secondary-schools-dsa-sec/) to find out more about our DSA!
