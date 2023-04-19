@@ -19,7 +19,7 @@ sections:
   - infopic:
       title: DSA Open House
       subtitle: Check out our
-      description: on 6 May (Sat), 9am - 11.30am at 8 Sumang Walk!
+      description: <b>on 6 May (Sat), 9am - 11.30am at 8 Sumang Walk!</b>
       button: Register here
       url: "https://go.gov.sg/yiss-oh "
       alt: DSA Open House
