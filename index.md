@@ -16,8 +16,6 @@ sections:
           description: Click here
           url: /contact-us/
       background: /images/Yusof Ishak Secondary (2).png
-      url: https://form.gov.sg/643be81dbd3dca0012c5d2ef
-      button: "Sign up now "
   - infopic:
       title: DSA Open House
       subtitle: Check out our
