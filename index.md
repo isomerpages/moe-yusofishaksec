@@ -22,7 +22,7 @@ sections:
       description: on 6 May (Sat), 9am - 11.30am at 8 Sumang Walk!
       button: Register here
       url: "https://go.gov.sg/yiss-oh "
-      alt: Image alt text
+      alt: DSA Open House
       image: /images/dsa open house.jpg
   - infopic:
       title: WE SPARK CURIOSITY AND IGNITE PASSION
