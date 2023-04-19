@@ -17,6 +17,13 @@ sections:
           url: /contact-us/
       background: /images/Yusof Ishak Secondary (2).png
   - infopic:
+      title: DSA Open House
+      subtitle: Check out our
+      description: on 6 May, 9am - 11.30am at 8 Sumang Walk!
+      button: Register here
+      url: "https://go.gov.sg/yiss-oh "
+      alt: Image alt text
+  - infopic:
       title: WE SPARK CURIOSITY AND IGNITE PASSION
       subtitle: Collaborate|Communicate|Create
       description: We create a bespoke environment for our students involving
