@@ -23,6 +23,7 @@ sections:
       button: Register here
       url: "https://go.gov.sg/yiss-oh "
       alt: Image alt text
+      image: /images/dsa open house.jpg
   - infopic:
       title: WE SPARK CURIOSITY AND IGNITE PASSION
       subtitle: Collaborate|Communicate|Create
