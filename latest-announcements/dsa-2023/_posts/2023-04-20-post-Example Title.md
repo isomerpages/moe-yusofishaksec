@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+Click [here](https://www.yusofishaksec.moe.edu.sg/yi-experience/direct-school-admissions-into-secondary-schools-dsa-sec/) to find out how to Apply to YISS' DSA 2023 
