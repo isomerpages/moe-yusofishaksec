@@ -1,6 +1,6 @@
 ---
 title: Direct School Admissions into Secondary Schools (DSA SEC)
-permalink: /yi-experience/direct-school-admissions-into-secondary-schools-dsa-sec/
+permalink: /yi-experience/dsa/
 description: ""
 ---
 # **Direct School Admissions into Secondary Schools (DSA-SEC)**

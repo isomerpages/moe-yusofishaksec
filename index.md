@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement and Events
           description: Click here for more
-          url: /announcements-and-events/dsa-2021-talent-areas/
+          url: https://cms.isomer.gov.sg/sites/moe-yusofishaksec/resourceRoom/latest-announcements
         - title: Contact Us
           description: Click here
           url: /contact-us/
@@ -71,4 +71,6 @@ sections:
       alt: Image alt text
       image: /images/Picture10.jpg
       url: /about-yi/join-our-yi-family/we-inspire
+  - resources:
+      title: Announcements
 ---

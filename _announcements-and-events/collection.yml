@@ -2,6 +2,7 @@ collections:
   announcements-and-events:
     output: true
     order:
+      - DSA 2023.md
       - DSA 2021 Talent Areas.md
       - YISS Open House 2022.md
       - CTLE@YISS.md
