@@ -26,7 +26,7 @@ third_nav_title: Our BIG Family
 | Ms Sheryl Chong<br> | HOD / Information and Communication Technologies<br>
 Mdm Tay Pei Yun<br>| HOD / Curriculum Innovation
 | Mr Daniel Soh<br> | SH / Talent Development &amp; Partnerships<br> |
-| Ms Huha Yumn Bahruddin Eilyaas<br> | Subject Head / Geography<br> |
+| Ms Nuha Yumn Bahruddin Eilyaas<br> | Subject Head / Geography<br> |
 | Mr Kennard Seah<br> | Level Head / Strategic Communication &amp; Outreach<br> |
 | Ms Jaclyn Chua<br> | Administration Manager<br> |
 | Mr Koh Son Keong<br> | Operation Manager |
