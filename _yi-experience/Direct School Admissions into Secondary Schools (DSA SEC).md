@@ -14,7 +14,7 @@ Yusof Ishak Secondary School (YISS) invites Primary 6 students to participate in
 For DSA 2023, YISS will offer the following talents for Primary 6 students.
 
 | No 	| DSA Talent Area 	| Gender 	|
-|---	|---	|:---:	|
+|---	|---	|:---	|
 |  1 	| Community Youth Leadership 	| Boys, Girls 	|
 |  2 	| Chinese Orchestra  	| Boys, Girls 	|
 |  3 	| Concert Band 	| Boys, Girls 	|
