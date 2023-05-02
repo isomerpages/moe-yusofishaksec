@@ -39,7 +39,7 @@ For DSA 2023, YISS will offer the following talents for Primary 6 students.
 
 
 **DSA-Sec Selection Criteria for Talent Categories**<br>
-| Category      | Talent Areas       | Selection Criteria   | Selection Process        |
+| Category      | Talent Areas       | Selection Criteria   | Selection Proces        |
 | ------------ | ----------------- | ------------------ | --------------- |
 | Leadership &amp; Uniformed Groups                    | Community Youth Leadership                                                                        | • Demonstrate strong aptitude in service and leadership in primary school;<br>• Hold a leadership position in primary school (e.g. Student Councillor / Prefect/ Class Chairperson/ CCA leader etc); and<br>• Possess good leadership and communication skills. | Shortlisted applicants will be invited to:<br>• Attend in-person selection<br>\- Unprepared individual task<br>\- Interview                                   |
 | Performing Arts                                  | Chinese Orchestra<br><br>Concert Band<br><br>Modern Dance                                         | • Represented the primary school in SYF Arts Presentation or equivalent;<br>• Preferably achieved the Certificate of Accomplishment and above; and<br>• Possess good leadership and communication skills.                                                       | Shortlisted applicants will be invited to:<br>• Attend in-person selection<br>\- Prepared individual task<br>\- Unprepared individual task<br>\- Interview    |
