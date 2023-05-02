@@ -27,7 +27,7 @@ For DSA 2023, YISS will offer the following talents for Primary 6 students.
 |  10 	| Table Tennis 	| Boys, Girls 	|
 |  11 	| Wushu 	| Boys, Girls 	|
 
-
+**DSA-Sec Selection Criteria for Talent Categories
 
  
 
