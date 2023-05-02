@@ -31,7 +31,11 @@ For DSA 2023, YISS will offer the following talents for Primary 6 students.
 **DSA-Sec Selection Criteria for Talent Categories**
 | Category | Talent Areas | Selection Criteria | Selection Process |
 | -------- | -------- | -------- | -------- |
-| Text     | Text     | Text     | Text |
+| Leadership &amp; Uniformed Groups     | Community Youth Leadership     | • Demonstrate strong aptitude in service and leadership in primary school;<br>• Hold a leadership position in primary school (e.g. Student Councillor / Prefect/ Class Chairperson/ CCA leader etc); and<br>• Possess good leadership and communication skills.     | Shortlisted applicants will be invited to:<br>• Attend in-person selection<br>\- Unprepared individual task<br>\- Interview |
+| Text     | Text     | Text     | text    |
+| Text     | Text     | Text     | text    |
+| Text     | Text     | Text     | text    |
+| Text     | Text     | Text     | text    |
 
 
 
@@ -40,7 +44,8 @@ For DSA 2023, YISS will offer the following talents for Primary 6 students.
 
 
 | Category      | Talent Areas       | Selection Criteria   | Selection Process |  
-| ------------ | ----------------- | ------------------ | --------------- | |
+| ------------ | ----------------- | ------------------ | --------------- | 
+|
 Leadership &amp; Uniformed Groups  | Community Youth Leadership    | • Demonstrate strong aptitude in service and leadership in primary school;<br>• Hold a leadership position in primary school (e.g. Student Councillor / Prefect/ Class Chairperson/ CCA leader etc); and<br>• Possess good leadership and communication skills. | Shortlisted applicants will be invited to:<br>• Attend in-person selection<br>\- Unprepared individual task<br>\- Interview   |
 | Performing Arts    | Chinese Orchestra<br><br>Concert Band<br><br>Modern Dance    | • Represented the primary school in SYF Arts Presentation or equivalent;<br>• Preferably achieved the Certificate of Accomplishment and above; and<br>• Possess good leadership and communication skills.   | Shortlisted applicants will be invited to:<br>• Attend in-person selection<br>\- Prepared individual task<br>\- Unprepared individual task<br>\- Interview    |
 | Science, Technology, Engineering and Mathematics | STEM<br><br>Robotics                                                                              | • Demonstrate strong interest and aptitude to excel in areas related to STEM and/or Robotics;<br>• Participated in STEM-related and/or Robotics programmes or projects; and<br>• Possess good leadership and communication skills.                              | Shortlisted applicants will be invited to<br>• Submit an existing e-portfolio (if any)<br>• Attend in-person selection<br>\- Unprepared tasks<br>\- Interview |
