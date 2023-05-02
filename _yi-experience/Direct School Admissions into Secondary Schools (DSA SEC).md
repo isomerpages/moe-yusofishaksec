@@ -43,7 +43,7 @@ Please note that meeting all the criteria does not guarantee the student will be
 **Application Process (4 May 2023, 11am – 31 May 2023, 3pm)**<br>
 Application for DSA-Sec can be submitted through the online DSA-Sec portal at www.moe.gov.sg/dsa-sec. The application is free-of-charge.<br> 
 For applicants from MOE mainstream primary schools, parents may log in directly to DSA-Sec Portal. Only one parent’s SingPass is required. Parents/ guardians who are unable to apply online can approach their child’s primary school for assistance.<br>
-For other applicants not studying in MOE mainstream primary schools, they would need to apply for a Registration Number (RGxxxxxxx) at: https://go.gov.sg/nmsdsa-sec-application before they can apply through the DSA-Sec Portal. <br>
+For other applicants not studying in MOE mainstream primary schools, they would need to apply for a Registration Number (RGxxxxxxx) at: [https://go.gov.sg/nmsdsa-sec-application](https://www.moe.gov.sg/secondary/dsa/application?pt=Non-mainstream%20school) before they can apply through the DSA-Sec Portal. <br>
 Students can indicate up to three choices (maximum of two choices for the same school under two different talent areas).
 
 **Key Dates**<br>
