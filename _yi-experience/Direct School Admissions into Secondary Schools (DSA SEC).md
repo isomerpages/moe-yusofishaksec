@@ -35,7 +35,7 @@ For DSA 2023, YISS will offer the following talents for Primary 6 students.
 | Performing Arts     | Chinese Orchestra<br><br>Concert Band<br><br>Modern Dance     | • Represented the primary school in SYF Arts Presentation or equivalent;<br>• Preferably achieved the Certificate of Accomplishment and above; and<br>• Possess good leadership and communication skills.     | Shortlisted applicants will be invited to:<br>• Attend in-person selection<br>\- Prepared individual task<br>\- Unprepared individual task<br>\- Interview    |
 | Science, Technology, Engineering and Mathematics     | STEM<br><br>Robotics     | • Demonstrate strong interest and aptitude to excel in areas related to STEM and/or Robotics;<br>• Participated in STEM-related and/or Robotics programmes or projects; and<br>• Possess good leadership and communication skills.     | Shortlisted applicants will be invited to<br>• Submit an existing e-portfolio (if any)<br>• Attend in-person selection<br>\- Unprepared tasks<br>\- Interview    |
 | Sports and Games     | Basketball (Boys)<br><br>Fencing<br><br>Softball (Girls)<br><br>Table Tennis<br><br>Wushu     | • Represented the primary school at national/zonal competitions or equivalent and preferably achieved a Top 3 placing;<br>• Individuals with outstanding achievements; and<br>• Possess good leadership and communication skills.     | Shortlisted applicants will be invited to:<br>• Attend in-person selection<br>\- Individual performance task<br>\- Interview    |
-
+|  |  |  |  |
  
 Please note that meeting all the criteria does not guarantee the student will be shortlisted or given an offer. Shortlisted candidates will be required to attend an in-person selection process.
 
