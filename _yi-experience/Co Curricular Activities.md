@@ -17,7 +17,7 @@ CCA is compulsory for all students in secondary schools. The CCAs offered by the
 |---	|---	|---	|---	|
 | NCC 	| Choir  	| Wushu  	| Infocomm/Media  	|
 | NPCC 	| Concert Band  	| Table Tennis  	| Robotics 	|
-|  	| Modern Dance  	| Badminton  	| STEM club 	|
+| Boys' Brigade 	| Modern Dance  	| Badminton  	| STEM club 	|
 |  	| Chinese Orchestra  	| Basketball (Boys)  	| ELDDS 	|
 |  	|  	| Fencing 	| Art  	|
 
