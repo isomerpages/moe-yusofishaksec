@@ -8,13 +8,6 @@ notification: ""
 sections:
   - hero:
       video: _video/Banner_Video (1).mp4
-      key_highlights:
-        - title: Announcement and Events
-          description: Click here for more
-          url: /announcements-and-events/permalink/
-        - title: Contact Us
-          description: Click here
-          url: /contact-us/
       background: /images/Yusof Ishak Secondary (2).png
   - infopic:
       title: DSA Open House
@@ -24,6 +17,8 @@ sections:
       url: "https://go.gov.sg/yiss-oh "
       alt: DSA Open House
       image: /images/dsa open house_2.jpg
+  - resources:
+      title: Announcements
   - infopic:
       title: WE SPARK CURIOSITY AND IGNITE PASSION
       subtitle: Collaborate|Communicate|Create
