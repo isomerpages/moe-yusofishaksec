@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       video: _video/Banner_Video (1).mp4
-      key_highlights:
-        - title: Contact Us
-          description: Click here
-          url: /contact-us/
       background: /images/Yusof Ishak Secondary (2).png
   - infopic:
       title: DSA Open House
