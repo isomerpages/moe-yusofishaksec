@@ -20,5 +20,6 @@ CCA is compulsory for all students in secondary schools. The CCAs offered by the
 | Boys' Brigade 	| Modern Dance  	| Badminton  	| STEM club 	|
 |  	| Chinese Orchestra  	| Basketball (Boys)  	| ELDDS 	|
 |  	|  	| Fencing 	| Art  	|
+|   |   | Softball (Girls) |
 
 CCAs are mainly conducted on Fridays between 2:30 pm and 5:30 pm. Additional training may be scheduled on Wednesdays between 2:30 pm and 5:30 pm to prepare students for competitions and performances.
