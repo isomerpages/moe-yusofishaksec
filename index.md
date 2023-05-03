@@ -24,6 +24,8 @@ sections:
       url: "https://go.gov.sg/yiss-oh "
       alt: DSA Open House
       image: /images/dsa open house_2.jpg
+  - resources:
+      title: Announcements
   - infopic:
       title: WE SPARK CURIOSITY AND IGNITE PASSION
       subtitle: Collaborate|Communicate|Create
@@ -71,6 +73,4 @@ sections:
       alt: Image alt text
       image: /images/Picture10.jpg
       url: /about-yi/join-our-yi-family/we-inspire
-  - resources:
-      title: Announcements
 ---
