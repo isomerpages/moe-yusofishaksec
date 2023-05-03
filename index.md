@@ -9,9 +9,6 @@ sections:
   - hero:
       video: _video/Banner_Video (1).mp4
       key_highlights:
-        - title: Announcement and Events
-          description: Click here for more
-          url: /announcements-and-events/permalink/
         - title: Contact Us
           description: Click here
           url: /contact-us/
