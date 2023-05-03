@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement and Events
           description: Click here for more
-          url: /Announcements and Events
+          url: /folders/announcements-and-events
         - title: Contact Us
           description: Click here
           url: /contact-us/
