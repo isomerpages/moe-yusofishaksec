@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement and Events
           description: Click here for more
-          url: https://cms.isomer.gov.sg/sites/moe-yusofishaksec/resourceRoom/latest-announcements
+          url: /Announcements and Events/DSA 2023
         - title: Contact Us
           description: Click here
           url: /contact-us/
