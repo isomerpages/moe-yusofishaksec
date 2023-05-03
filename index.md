@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement and Events
           description: Click here for more
-          url: /Announcements and Events/DSA 2023
+          url: /Announcements and Events
         - title: Contact Us
           description: Click here
           url: /contact-us/
