@@ -20,6 +20,3 @@ The benefits of the Centre are expected to accrue not just to our students and t
 ### CTLE@YISS Events
 ![](/images/ctle%20webinar.jpg)([CTLE@YISS Assessment as Learning and Metacognition: Connecting the Dots Webinar | FormSG](https://form.gov.sg/640fe97dfaf442001393f118))
 ![](/images/ctle%202023.png)
-
-
-
