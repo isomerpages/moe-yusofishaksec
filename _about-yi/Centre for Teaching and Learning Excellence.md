@@ -17,13 +17,6 @@ The range of professional development opportunities at the Centre will go beyond
 
 The benefits of the Centre are expected to accrue not just to our students and teachers, but across other schools as teacher-participants will bring back new insights and strategies to their respective schools. The Centre aims to be at the forefront of exploring innovative, effective teaching methods set against authentic learning conditions, and contributing to the growth of teachers in the fraternity.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRkYqKxspwnzV9-KvZFpgNtjr0RYXoVQtnTTF1Ii5dknILLeLl40Ug5vtcmggQGvANwLAArvTZ9tB-J/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
-
-
-
-
 ### CTLE@YISS Events
-
-
-![](/images/220411-CTLE%20metacognition%20mailer.png)
-[Click here to register today!](https://go.gov.sg/metacognition-drlee)
+![](/images/ctle%20webinar.jpg)([CTLE@YISS Assessment as Learning and Metacognition: Connecting the Dots Webinar | FormSG](https://form.gov.sg/640fe97dfaf442001393f118))
+![](/images/ctle%202023.png)
