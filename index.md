@@ -11,10 +11,10 @@ sections:
       background: /images/Yusof Ishak Secondary (2).png
   - infopic:
       title: DSA Open House
-      description: <font size=6><b>on 6 May (Sat), 9am - 11.30am at 8 Sumang
+      description: <font size="6"><b>on 6 May (Sat), 9am - 11.30am at 8 Sumang
         Walk!</b></font>
       button: Register here
-      url: "https://go.gov.sg/yiss-oh "
+      url: https://go.gov.sg/yiss-oh
       alt: DSA Open House
       image: /images/dsa open house_2.jpg
   - resources:
@@ -41,8 +41,8 @@ sections:
   - infopic:
       title: WE LEVERAGE TECHNOLOGY TO TRANSFORM LEARNING
       subtitle: Personalised | Connected
-      description: "YI uses the Personalised Digital Learning Programme to provide
-        effective, personalised learning experience for every learner. "
+      description: YI uses the Personalised Digital Learning Programme to provide
+        effective, personalised learning experience for every learner.
       button: Find out more
       url: /about-yi/join-our-yi-family/we-leverage-technology-for-learning
       image: /images/panel4-1.jpg
