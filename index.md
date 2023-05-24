@@ -9,14 +9,6 @@ sections:
   - hero:
       video: _video/Banner_Video (1).mp4
       background: /images/Yusof Ishak Secondary (2).png
-  - infopic:
-      title: DSA Open House
-      description: <font size="6"><b>on 6 May (Sat), 9am - 11.30am at 8 Sumang
-        Walk!</b></font>
-      button: Register here
-      url: https://go.gov.sg/yiss-oh
-      alt: DSA Open House
-      image: /images/dsa open house_2.jpg
   - resources:
       title: Announcements
   - infopic:
