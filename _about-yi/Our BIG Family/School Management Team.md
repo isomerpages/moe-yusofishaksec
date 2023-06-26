@@ -28,5 +28,5 @@ Mdm Tay Pei Yun<br>| HOD / Curriculum Innovation
 | Mr Daniel Soh<br> | SH / Talent Development &amp; Partnerships<br> |
 | Ms Nuha Yumn Bahruddin Eilyaas<br> | Subject Head / Geography<br> |
 | Mr Kennard Seah<br> | Level Head / Strategic Communication &amp; Outreach<br> |
-| Mr Ang Peng Siang<br> | Level Head / Science<br> |
+| Mr Ang Peng Siang Patrick<br> | Level Head / Science<br> |
 | Mr Koh Son Keong<br> | Operation Manager |
