@@ -8,20 +8,20 @@ description: ""
 Our school has been featured across a variety of media publications. Find out more about it below.
 
 #### **2023**
-**Yusof Ishak Secondary School`s `beyond classroom` learning concept wins inaugural**
+#### **Yusof Ishak Secondary School`s `beyond classroom` learning concept wins inaugural**
 ![](/images/beyond%20classroom’%20learning%20concept.jpg)
 
-**Yusof Ishak Secondary School’s new campus wins Innovation Award**
+#### **Yusof Ishak Secondary School’s new campus wins Innovation Award**
 ![](/images/new%20punggol%20campus.JPG)
 
-**Yusof Ishak Secondary School’s new Punggol campus wins award for Innovation**
+#### **Yusof Ishak Secondary School’s new Punggol campus wins award for Innovation**
 ![](/images/new%20punggol%20campus%20(tm).jpg)
 
-**Beyong Arts and Sports**
-![](/images/dsa%20beyong%20arts%20and%20sports.JPG)
+#### **Beyond Arts and Sports**
 
 
-**Vision of Yusof Ishak Secondary School is to turn students into leaders of the future**
+
+#### **Vision of Yusof Ishak Secondary School is to turn students into leaders of the future**
 ![](/images/visi%20sekolah.JPG)
 
 #### **2022**
