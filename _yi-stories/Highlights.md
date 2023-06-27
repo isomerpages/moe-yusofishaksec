@@ -15,8 +15,14 @@ Our school has been featured across a variety of media publications. Find out mo
 ![](/images/new%20punggol%20campus.JPG)
 
 **Yusof Ishak Secondary School’s new Punggol campus wins award for Innovation**
+![](/images/new%20punggol%20campus%20(tm).jpg)
+
+**Beyong Arts and Sports**
+![](/images/dsa%20beyong%20arts%20and%20sports.JPG)
 
 
+**Vision of Yusof Ishak Secondary School is to turn students into leaders of the future**
+![](/images/visi%20sekolah.JPG)
 
 #### **2022**
 
