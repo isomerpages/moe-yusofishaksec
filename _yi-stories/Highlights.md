@@ -11,6 +11,12 @@ Our school has been featured across a variety of media publications. Find out mo
 **Yusof Ishak Secondary School`s `beyond classroom` learning concept wins inaugural**
 ![](/images/beyond%20classroom’%20learning%20concept.jpg)
 
+**Yusof Ishak Secondary School’s new campus wins Innovation Award**
+![](/images/new%20punggol%20campus.JPG)
+
+**Yusof Ishak Secondary School’s new Punggol campus wins award for Innovation**
+
+
 
 #### **2022**
 
