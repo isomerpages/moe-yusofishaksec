@@ -18,7 +18,8 @@ Our school has been featured across a variety of media publications. Find out mo
 ![](/images/new%20punggol%20campus%20(tm).jpg)
 
 #### **DSA Beyond Arts and Sports**
-![](/images/dsa%20yiss.JPG)
+
+<img src="/images/dsa%20yiss.JPG" style="width:70%">
 
 
 #### **Vision of Yusof Ishak Secondary School is to turn students into leaders of the future**
