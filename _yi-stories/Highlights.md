@@ -17,8 +17,8 @@ Our school has been featured across a variety of media publications. Find out mo
 #### **Yusof Ishak Secondary School’s new Punggol campus wins award for Innovation**
 ![](/images/new%20punggol%20campus%20(tm).jpg)
 
-#### **Beyond Arts and Sports**
-
+#### **DSA Beyond Arts and Sports**
+![](/images/dsa%20yiss.JPG)
 
 
 #### **Vision of Yusof Ishak Secondary School is to turn students into leaders of the future**
