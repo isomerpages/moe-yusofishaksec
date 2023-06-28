@@ -9,6 +9,15 @@ sections:
   - hero:
       video: _video/Banner_Video (1).mp4
       background: /images/Yusof Ishak Secondary (2).png
+  - infopic:
+      title: The Minister's Innovation Award 2022
+      subtitle: We are honoured to be awarded
+      description: For our campus' innovative design that supports learning beyond the
+        traditional classroom.
+      button: Find out more
+      url: /yi-stories/highlights/
+      image: /images/yiss minister innovation award 2023.jpeg
+      alt: Minister's Innovation Award
   - resources:
       title: Announcements
   - infopic:
