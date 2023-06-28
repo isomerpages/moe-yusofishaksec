@@ -8,7 +8,7 @@ description: ""
 Our school has been featured across a variety of media publications. Find out more about it below.
 
 #### **2023**
-#### **Yusof Ishak Secondary School's 'beyond classroom' learning concept wins inaugural**
+#### **Yusof Ishak Secondary School's 'beyond classroom' learning concept wins inaugural Minister's Innovation Award**
 ![](/images/beyond%20classroom’%20learning%20concept.jpg)
 
 #### **Yusof Ishak Secondary School’s new campus wins Innovation Award**
