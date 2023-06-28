@@ -12,14 +12,14 @@ Our school has been featured across a variety of media publications. Find out mo
 ![](/images/beyond%20classroom’%20learning%20concept.jpg)
 
 #### **Yusof Ishak Secondary School’s new campus wins Innovation Award**
-![](/images/new%20punggol%20campus.JPG)
+<img src="/images/new%20punggol%20campus.JPG" style="width:60%">
 
 #### **Yusof Ishak Secondary School’s new Punggol campus wins award for Innovation**
 ![](/images/new%20punggol%20campus%20(tm).jpg)
 
 #### **DSA Beyond Arts and Sports**
 
-<img src="/images/dsa%20yiss.JPG" style="width:70%">
+<img src="/images/dsa%20yiss.JPG" style="width:50%">
 
 
 #### **Vision of Yusof Ishak Secondary School is to turn students into leaders of the future**
