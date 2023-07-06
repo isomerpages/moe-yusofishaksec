@@ -8,7 +8,7 @@ description: ""
 *   [Resource Booking System (RBS)](https://go.gov.sg/yirbs)
 *   [MOE Intranet](https://intranet.moe.gov.sg/)
 *   [iCONNECT](https://yusofishaksec.moe.edu.sg/yi-connect/useful-links-for-teachers/iconnect)
-*   [SC Mobile](https://icon.moe.edu.sg)
+*   [SC Mobile](https://scmobile.moe.edu.sg/)
 *   [School Cockpit](https://schoolcockpit.moe.gov.sg/)
 *   [Parents Gateway](https://pg.moe.edu.sg/)
 *   [HR Online](https://intranet.moe.gov.sg/hronline)
