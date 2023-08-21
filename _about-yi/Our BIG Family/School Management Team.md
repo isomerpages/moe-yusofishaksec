@@ -30,3 +30,4 @@ Mdm Tay Pei Yun<br>| HOD / Curriculum Innovation
 | Mr Kennard Seah<br> | Level Head / Strategic Communication &amp; Outreach<br> |
 | Mr Ang Peng Siang Patrick<br> | Level Head / Science<br> |
 | Mr Koh Son Keong<br> | Operation Manager |
+| Mr Sim Yong Meng Vincent<br> | Administration Manager
