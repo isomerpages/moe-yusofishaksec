@@ -3,11 +3,12 @@ title: Direct School Admissions into Secondary Schools (DSA SEC)
 permalink: /yi-experience/dsa/
 description: ""
 ---
-### Note to Parents: The selection process for the 2023 Direct School Admission Exercise to Yusof Ishak Secondary School is now closed.
+### Note to Parents: The selection process for the 2023 Direct School Admission Exercise to Yusof Ishak Secondary School is now closed. 
+
+##### The information below applies to the 2023 Direct School Admission into Secondary Schools (DSA-SEC) for Admission to Secondary 1 in 2024.
+##### 
 
 # **Direct School Admissions into Secondary Schools (DSA-SEC)**
-
-### 2023 Direct School Admission into Secondary Schools (DSA-SEC) for Admission to Secondary 1 In 2024
 
 The DSA scheme provides students with the opportunity to seek admission to a secondary school, based on a diverse range of specific academic and non-academic achievements and talents that they can demonstrate beyond the Primary School Leaving Examination (PSLE).
 
