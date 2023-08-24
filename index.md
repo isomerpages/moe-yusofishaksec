@@ -18,6 +18,9 @@ sections:
       url: /yi-stories/highlights/
       image: /images/yiss minister innovation award 2023.jpeg
       alt: Minister's Innovation Award
+  - resources:
+      title: Announcements
+      button: More
   - infopic:
       title: WE SPARK CURIOSITY AND IGNITE PASSION
       subtitle: Collaborate|Communicate|Create
