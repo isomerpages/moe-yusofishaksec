@@ -6,6 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-Click [here](https://form.gov.sg/643be81dbd3dca0012c5d2ef) to register for our DSA open House. 
+### Note to Parents: The DSA Open House 2023 was held on 6 May 2023. 
 
-![](/images/dsa%20open%20house.jpg)
+### For information about our Open House at the end of this year, please stay tuned!
