@@ -2,9 +2,11 @@ collections:
   yi-stories:
     output: true
     order:
+      - Achievements/.keep
+      - Achievements/2023 Achievements.md
       - Achievements/Academic Achievements.md
       - Achievements/CCA Achievements.md
       - Achievements/Technology & Coding Related Achievements.md
       - Achievements/Community & Environment.md
-      - Achievements/.keep
       - Highlights.md
+      - Happenings.md
