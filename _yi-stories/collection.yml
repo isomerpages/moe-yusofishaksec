@@ -2,7 +2,6 @@ collections:
   yi-stories:
     output: true
     order:
-      - Testimonials.md
       - Achievements/.keep
       - Achievements/2023 Achievements.md
       - Achievements/Academic Achievements.md
@@ -11,3 +10,4 @@ collections:
       - Achievements/Community & Environment.md
       - Highlights.md
       - Happenings.md
+      - Testimonials.md
