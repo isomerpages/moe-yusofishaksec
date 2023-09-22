@@ -1,6 +1,6 @@
 ---
 title: Happenings
-permalink: /yi-stories/permalink/
+permalink: /yi-stories/happenings/
 description: ""
 ---
 ### Celebrating Teachers’ and EAS’ Day
