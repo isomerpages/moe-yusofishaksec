@@ -10,8 +10,8 @@ sections:
       video: _video/Banner_Video (1).mp4
       background: /images/Yusof Ishak Secondary (2).png
   - infopic:
-      title: "YISS Open House 2023 "
-      subtitle: "come join us "
+      title: YISS Open House 2023
+      subtitle: come join us
       id: infopic
       description: Find out how we nurture Future-ready Learners at the Yusof Ishak
         Secondary School's Open House.
