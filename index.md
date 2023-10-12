@@ -14,8 +14,8 @@ sections:
       subtitle: come join us
       id: infopic
       description: >-
-        Find out how we nurture Future-ready Leaders at the Yusof Ishak
-        Secondary School! 
+        Find out how we nurture Future-ready Leaders at Yusof Ishak Secondary
+        School! 
 
         <br>
 
