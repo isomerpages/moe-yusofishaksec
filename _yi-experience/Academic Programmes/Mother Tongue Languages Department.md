@@ -44,7 +44,7 @@ Here's a glimpse of the culturally enriching activities our students participate
 
 **Sharing on Chinese Herbs by TCM Physician:** Students explore the traditional Chinese medicinal practices, learning about the use of herbs in healthcare.
 
-**Experiencing Chinese & Malay Traditional Games:** Engaging in traditional games provides a fun and interactive way for students to appreciate the playfulness of their cultures.
+**Experiencing Chinese &amp; Malay Traditional Games:** Engaging in traditional games provides a fun and interactive way for students to appreciate the playfulness of their cultures.
 
 **Making of Bunga Rampai (Malay Potpourri):** Students create Bunga Rampai, a fragrant Malay potpourri traditionally used at weddings, connecting with Malay customs and rituals.
 
@@ -60,4 +60,4 @@ Here's a glimpse of the culturally enriching activities our students participate
 
 These interactive activities not only educate students but also kindle a passion for their mother tongues and the vibrant cultures they represent. The MTL Fortnight stands as a testament to our commitment to providing students with opportunities to engage with and cherish their linguistic and cultural heritage.
 
-![](/images/mtl%20cl1.jpg)
+<img style="width:50%" src="/images/mtl%20cl1.jpg">
