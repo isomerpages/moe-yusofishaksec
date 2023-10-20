@@ -4,7 +4,7 @@ permalink: /yi-experience/academic-programmes/craft-and-technology-department/
 description: ""
 third_nav_title: Academic Programmes
 ---
-# **Craft and Technology Department**
+# **Design & Aesthetics**
 
 ### Curriculum
 
