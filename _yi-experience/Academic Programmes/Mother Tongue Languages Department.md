@@ -10,7 +10,7 @@ third_nav_title: Academic Programmes
 
 **Key Pedagogy**
 
-Task-based Instruction, E-pedagogy infused with metacognition, and Differentiated Instruction.
+Task-based Instruction, E-pedagogy infused with metacognition, Assessment as Learning and Differentiated Instruction.
 
 ### Learning Outcomes
 
