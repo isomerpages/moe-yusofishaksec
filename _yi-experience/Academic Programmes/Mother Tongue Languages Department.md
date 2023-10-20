@@ -71,4 +71,3 @@ These interactive activities not only educate students but also kindle a passion
 **Mid-Autumn Festival Celebration**
 
 Our Mid-Autumn Festival celebration is a momentous event where our school community comes together to foster cultural awareness and understanding. We hold this celebration with the primary goals of instilling the values of family reunion and harmony and strengthening our bond as One YI Family. The festivities encompass a variety of engaging activities, such as a photo booth for capturing memories, lantern riddles to stimulate our minds, student-led tea appreciation sessions, delightful mooncake tasting, and captivating performances featuring our talented students, including the Chinese orchestra and wushu demonstrations. Through these activities, we not only celebrate this cherished cultural tradition but also deepen our connections and reinforce our unity as a school community.
-
