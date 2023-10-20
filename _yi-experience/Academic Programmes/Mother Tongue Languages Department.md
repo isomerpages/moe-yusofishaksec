@@ -61,3 +61,9 @@ Here's a glimpse of the culturally enriching activities our students participate
 These interactive activities not only educate students but also kindle a passion for their mother tongues and the vibrant cultures they represent. The MTL Fortnight stands as a testament to our commitment to providing students with opportunities to engage with and cherish their linguistic and cultural heritage.
 
 <img style="width:50%" src="/images/mtl%20cl1.jpg">
+<img style="width:50%" src="/images/mtl%20cl2.JPG">
+<img style="width:80%" src="/images/mtl%20cl3.jpg">
+<img style="width:50%" src="/images/mtl%20cl2.JPG">
+
+
+
