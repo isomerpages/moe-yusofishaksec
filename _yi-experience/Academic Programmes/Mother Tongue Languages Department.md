@@ -14,7 +14,7 @@ Task-based Instruction, E-pedagogy infused with metacognition, Assessment as Lea
 
 ### Learning Outcomes
 
-The Mother Tongue Languages (MTL) department aims to nurture confident communicators, considerate global citizens and forward-thinking individuals who take pride in their MTL and the associated cultures. The department also strives to craft enriching student learning experiences, blending language, culture, and valuves with the sheer delight of learning.
+The Mother Tongue Languages (MTL) department aims to nurture confident communicators, considerate global citizens and forward-thinking individuals who take pride in their MTL and the associated cultures. The department also strives to craft enriching student learning experiences, blending language, culture, and values with the sheer delight of learning.
 
 ### Key Programmes
 
