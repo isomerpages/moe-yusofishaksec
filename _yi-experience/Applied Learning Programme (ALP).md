@@ -13,7 +13,7 @@ Our&nbsp;**S4TEM@YI**&nbsp;ALP adopts an&nbsp;integrative approach in providing 
 
 ### Key Programme
 
-**STEM Experience through Inter-disciplinary Work (STEMx IPW)****
+**STEM Experience through Inter-disciplinary Work (STEMx IPW)**
 
 In today’s dynamic world, students will have the opportunities to learn how to engage with STEM-related issues and process information that is not subject-specific. They will&nbsp;cultivate and put into action future-ready habits that are essential in the development of&nbsp;**Leaders For Tomorrow**&nbsp;at YISS.&nbsp;STEMx IPW is also a learning experience which aims to provide students with the opportunities to build and construct knowledge for various areas of learning that they are exposed to through the school’s ALP and curriculum.&nbsp;This is the principle on which STEMx IPW&nbsp;has been anchored and developed.
 
