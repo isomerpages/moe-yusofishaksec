@@ -43,12 +43,12 @@ Students who are keen in STEM areas are pursue their interests and deepen their 
 
 Yusoffians participate in a wide variety of STEM competitions and programmes to challenge themselves further. They have put in their best efforts and performed well at many, including:
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore International STEM Innovation Challenge (SISTEMIC) 2023 – Bronze
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Drone Odyssey Championships – 2nd in Category B2
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aerobot Challenge 2023 – 1st, 7th and 8th
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ignITE Skills Challenge 2023 (Patrolling Drones) – Top 10
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participation at Youth STEM Empowerment Programme (YSEP) 2023
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EMA Singapore Energy Grand Challenge (Youth)
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SAFMC - C2 (FPV) and E (Drone Swarming)
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GMAC Students Challenge 2023
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DJI RoboMaster 2022 – 1st and 3rd
+* Singapore International STEM Innovation Challenge (SISTEMIC) 2023 – Bronze
+* Drone Odyssey Championships – 2nd in Category B2
+* Aerobot Challenge 2023 – 1st, 7th and 8th
+* ignITE Skills Challenge 2023 (Patrolling Drones) – Top 10
+* Participation at Youth STEM Empowerment Programme (YSEP) 2023
+* EMA Singapore Energy Grand Challenge (Youth)
+* SAFMC - C2 (FPV) and E (Drone Swarming)
+* GMAC Students Challenge 2023
+* DJI RoboMaster 2022 – 1st and 3rd
