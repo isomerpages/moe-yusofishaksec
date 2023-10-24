@@ -47,4 +47,4 @@ The leadership camp served to equip Yusoffians with The Five Practices of Exempl
 
 **Sec 1 Student Leaders Training**
 ![](/images/leader1.png)
-![](/images/leader2.png)
+<img height="auto" width="150" src="/images/leader2.png">
