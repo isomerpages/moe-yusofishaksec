@@ -70,7 +70,7 @@ The Upper Secondary Biology syllabus seeks to develop in students the understand
 
 **_\[Physics\]_**&nbsp;appreciate that a small number of basic principles and disciplinary ideas can be applied to explain, analyse and solve problems in the physical world.
 
-### Key Programmes
+### Key Activities,Programmes and Achievements in 2023
 
 *   **Aeronautics Talk and Workshop (14 Jan 2021)**
 
