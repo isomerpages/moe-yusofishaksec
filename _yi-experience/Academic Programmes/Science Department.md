@@ -89,7 +89,7 @@ Yusoffians shone brightly at the SYSF with their remarkable projects under the t
 
 We had the pleasure of collaborating with&nbsp;[@sciencecentresg](https://www.instagram.com/sciencecentresg/)&nbsp;to host the Lumi Exhibition at our school Heritage Gallery! Our Yusoffians and students from primary schools in the East had the opportunity to experience Science through a range of hands-on interactive exhibits centred around the topic of Light. This really brought the joy of learning beyond the walls of the classroom!
 
-
+![](/images/lumi%20exhibit.png)
 
 *   **Aeronautics Talk and Workshop (14 Jan 2021)**
 
