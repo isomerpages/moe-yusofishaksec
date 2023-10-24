@@ -55,9 +55,13 @@ The aims of the Lower Secondary Science G1 syllabus are to:
 
 The Upper Secondary Biology syllabus seeks to develop in students the understanding, skills, ethics and attitudes relevant to the practices of science, enabling them to:
 
-1\. appreciate practical applications of Biology/ Chemistry/ Physics in the real world,    
-2\.  deepen their interest in Biology/ Chemistry/ Physics for future learning and work,    
-3\.  become scientifically literate citizens who can innovate and seize opportunities in the 21st century, and   
+
+1.       Appreciate practical applications of Biology/ Chemistry/ Physics in the real world,
+
+2.       Deepen their interest in Biology/ Chemistry/ Physics for future learning and work, and
+
+3.       Become scientifically literate citizens who can innovate and seize opportunities in the 21st century, and
+  
 
 
 **_\[Biology\]_**&nbsp;develop a way of thinking to understand how living organisms work to sustain life and use the disciplinary ideas in Biology to approach, analyse and solve problems in biological systems.
