@@ -21,20 +21,11 @@ As part of our continual drive towards curriculum innovation and improvement, ou
 
 At Y.I, students are Innovative and Inspiring Inquirers.
 
-*   **Inspired** by Science: Students are curious, appreciate learning scientific concepts and regard the subject as relevant to their lives.
-*   **Inquire** like Scientists: Students are grounded in strong Science fundamentals, think critically and possess the spirit of scientific inquiry as they embrace the challenges faced.
-*   **Innovate** using Science: Students extend their knowledge towards making responsible informed decisions to create solutions to solve many of our global challenges, to transform and improve the lives of others.
+*   **Inspired**&nbsp;by Science: Students are curious, appreciate learning scientific concepts and regard the subject as relevant to their lives.
+*   **Inquire**&nbsp;like Scientists: Students are grounded in strong Science fundamentals, think critically and possess the spirit of scientific inquiry as they embrace the challenges faced.
+*   **Innovate**&nbsp;using Science: Students extend their knowledge towards making responsible informed decisions to create solutions to solve many of our global challenges, to transform and improve the lives of others.
 
-**STEMx**   
-Our YI STEM Experiences (STEMx) programme adopts an integrative approach in providing a wide range of opportunities for Yusoffians to embrace and engage in STEM learning. They gain exposure to STEM through school-wide activities including urban farming and appreciating aeronautics through a hands-on workshop. Yusoffians also deepen their critical thinking skills through their participation in STEM-related curricula activities planned in collaboration with experts from the relevant fields, and in STEM-related competitions. STEMx provides a conducive environment for Yusoffians to immerse in and be empowered to make meaningful contributions to STEM-related areas in the future.
-
-<img src="/images/Engage_Explore_Empower_Evaluate.png" 
-     style="width:25%">
-
-*   **Engage:** Gain exposure to STEM through learning experiences in school  
-*   **Explore:** Think critically and be curious in exploring STEM-related topics
-*   **Evaluate:** Reflect on knowledge and learning process
-*   **Empower:** Extend knowledge towards making responsible informed decisions
+![](/images/sci%20poster.jpg)
 
 ### Learning Outcomes
 
@@ -42,15 +33,10 @@ Our YI STEM Experiences (STEMx) programme adopts an integrative approach in prov
 
 The aims of the Lower Secondary Science E/N(A) syllabuses are to:
 
-1\.  cultivate students’ appreciation of Science as a collective human endeavour to understand the natural world, and as a way of thinking rather than just a body of facts.    
-2\.  inspire students to make informed decisions and take responsible actions in science-related issues that concern their lives, the society and the environment.   
-3\.  help students develop fundamentals that are integral to scientific inquiry and innovation, including problem-seeking and problem-solving.   
+The aims of the Lower Secondary Science G2 and G3 syllabuses are to:
 
-The aims of the Lower Secondary Science Normal (Technical) syllabus are to:
 
-1\.  develop 21st century competencies in students    
-2\.  guide students in acquiring knowledge, skills and values for application in their daily lives    
-3\.  prepare students for future learning and work such that they become lifelong and motivated learners; and develop skills which are useful and relevant for them to be contributing citizens.    
+
 
 **Upper Secondary Biology, Chemistry and Physics**
 
@@ -61,11 +47,11 @@ The Upper Secondary Biology syllabus seeks to develop in students the understand
 3\.  become scientifically literate citizens who can innovate and seize opportunities in the 21st century, and   
 
 
-**_\[Biology\]_** develop a way of thinking to understand how living organisms work to sustain life and use the disciplinary ideas in Biology to approach, analyse and solve problems in biological systems.
+**_\[Biology\]_**&nbsp;develop a way of thinking to understand how living organisms work to sustain life and use the disciplinary ideas in Biology to approach, analyse and solve problems in biological systems.
 
-**_\[Chemistry\]_** develop a way of thinking to approach, analyse and solve problems by explaining macroscopic characteristics and changes in chemical systems through the use of sub-microscopic and symbolic representations.
+**_\[Chemistry\]_**&nbsp;develop a way of thinking to approach, analyse and solve problems by explaining macroscopic characteristics and changes in chemical systems through the use of sub-microscopic and symbolic representations.
 
-**_\[Physics\]_** appreciate that a small number of basic principles and disciplinary ideas can be applied to explain, analyse and solve problems in the physical world.
+**_\[Physics\]_**&nbsp;appreciate that a small number of basic principles and disciplinary ideas can be applied to explain, analyse and solve problems in the physical world.
 
 ### Key Programmes
 
@@ -93,7 +79,7 @@ Beyond the regular chemistry lesson, our Yusoffians had the opportunity to atten
 
 Our inaugural YISS STEM Learning Fest, organised in partnership with the Singapore University of Technology and Design (SUTD), served to raise awareness in issues related to sustainability and engage students in exploring roles they can play as eco-stewards.
 
-Students understood more about Energy Sustainability: Solar vs Other Sources through a presentation by Prof Ricky Ang, Head (Science, Mathematics and Technology), and Ng Teng Fong Chair Professor For SUTD-ZJU IDEA. Our pioneering cohort also learned about sustainability (including solar energy and biodegradable materials) through hands-on workshops conducted by faculty members of SUTD.
+Students understood more about Energy Sustainability: Solar vs Other Sources through a presentation by Prof Ricky Ang,&nbsp;Head (Science, Mathematics and Technology), and Ng Teng Fong Chair Professor For SUTD-ZJU IDEA. Our pioneering cohort also learned about sustainability (including solar energy and biodegradable materials) through hands-on workshops conducted by faculty members of SUTD.
 
 ![](/images/sci2.jpg)
 
@@ -105,7 +91,7 @@ Mr Williams shared many interesting facts, beautiful photographs and video clips
 
 ![](/images/sci3.jpg)
 
-*  **A\*Star – MOE Scientist-In-School Programme (SiS) 2022**
+* &nbsp;**A\*Star – MOE Scientist-In-School Programme (SiS) 2022**
 
 MOE SiS aims to provide interested schools, and A\*STAR researchers an avenue to engage youth in research and activities to cultivate their interest in Science, Technology, Engineering and Mathematics (STEM). YISS is glad to work in partnership with Dr Micheal Chuah, Research Scientist in Robotics and Autonomous Systems, Institute for Infocomm Research, to organise activities to enthuse out students in real-world STEM.
 
@@ -117,8 +103,8 @@ Dr Chuah shared his journey and experiences in A\*Star with Yusoffians through a
 
 STEM Playground is organised by CPDD, MOE to encourage students’ interest, curiosity, and creativity in STEM activities. Our Sec 1 Yusoffians courageously took up the challenge to explore and understand STEM concepts through the hands-on activities. They were creative in designing their prototypes and their active participation has led our school to emerge top 5 among at least 36 other schools in two consecutive challenges:
 
-o   2nd in Challenge #2: Dome Sweet Dome    
-o   4th in STEM Playground 2022 Challenge #1: So Car So Good!
+o&nbsp;&nbsp;&nbsp;2nd&nbsp;in Challenge #2: Dome Sweet Dome    
+o&nbsp;&nbsp;&nbsp;4th&nbsp;in STEM Playground 2022 Challenge #1: So Car So Good!
 
 
 ![](/images/sci5.jpg)
