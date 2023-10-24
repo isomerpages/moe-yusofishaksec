@@ -91,6 +91,8 @@ We had the pleasure of collaborating with&nbsp;[@sciencecentresg](https://www.in
 
 ![](/images/lumi%20exhibit.png)
 
+### Past Activities, Programmes and Achievements
+
 *   **Aeronautics Talk and Workshop (14 Jan 2021)**
 
 At YI, our dream is for our Yusoffians to soar and expand their horizons! To help them realise this dream, we invited entrepreneur, engineer and educator, Professor Neo Kok Beng to share his wealth of experiences and inspire our Secondary 4 students.
