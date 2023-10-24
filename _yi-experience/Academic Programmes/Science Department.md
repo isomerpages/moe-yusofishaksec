@@ -31,10 +31,23 @@ At Y.I, students are Innovative and Inspiring Inquirers.
 
 **Lower Secondary Science**
 
-The aims of the Lower Secondary Science E/N(A) syllabuses are to:
-
 The aims of the Lower Secondary Science G2 and G3 syllabuses are to:
 
+1.      Cultivate students’ appreciation of Science as a collective human endeavour to understand the natural world, and as a way of thinking rather than just a body of facts.
+
+2.      Inspire students to make informed decisions and take responsible actions in science-related issues that concern their lives, the society and the environment.
+
+3.      Help students develop fundamentals that are integral to scientific inquiry and innovation, including problem-seeking and problem-solving.
+
+
+
+The aims of the Lower Secondary Science G1 syllabus are to:
+
+1.      Develop 21st century competencies in students.
+
+2.      Guide students in acquiring knowledge, skills and values for application in their daily lives.
+
+3.      Prepare students for future learning and work such that they become lifelong and motivated learners; and develop skills which are useful and relevant for them to be contributing citizens.
 
 
 
@@ -42,7 +55,7 @@ The aims of the Lower Secondary Science G2 and G3 syllabuses are to:
 
 The Upper Secondary Biology syllabus seeks to develop in students the understanding, skills, ethics and attitudes relevant to the practices of science, enabling them to:
 
-1\.  appreciate practical applications of Biology/ Chemistry/ Physics in the real world,    
+1\. appreciate practical applications of Biology/ Chemistry/ Physics in the real world,    
 2\.  deepen their interest in Biology/ Chemistry/ Physics for future learning and work,    
 3\.  become scientifically literate citizens who can innovate and seize opportunities in the 21st century, and   
 
