@@ -17,7 +17,7 @@ Yusof Ishak Secondary School would like to invite interested applicants to opera
 
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-* [Application Form\][\[AK(1\]](#_msocom_1) 
+[Application Form](/files/Application_Form__BF7__2018_.pdf)
 
 2\. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
