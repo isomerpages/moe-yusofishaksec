@@ -2,6 +2,7 @@ collections:
   yi-connect:
     output: true
     order:
+      - Opportunities/.keep
       - Useful Links for Teachers.md
       - Useful Links for Students/.keep
       - Useful Links for Students/Useful Links for Students.md
