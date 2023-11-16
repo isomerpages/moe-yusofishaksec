@@ -27,7 +27,7 @@ Yusof Ishak Secondary School would like to invite interested applicants to opera
 3\. Submit the completed application form and documents by closing date to the School's General Office.
 * Address: Yusof Ishak Secondary School
 * Contact No: 65009800
-* Email: sim\_yong\_meng@schools.gov.sg
+* Email: sim_yong_meng@schools.gov.sg
 * Contact Person: Mr Vincent Sim
 
 **How to get there?**
