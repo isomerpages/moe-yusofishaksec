@@ -10,23 +10,6 @@ sections:
       video: _video/Banner_Video (1).mp4
       background: /images/Yusof Ishak Secondary (2).png
   - infopic:
-      title: YISS Open House 2023
-      subtitle: come join us
-      id: infopic
-      description: >-
-        Find out how we nurture Future-ready Leaders at Yusof Ishak Secondary
-        School! 
-
-        <br>
-
-        <br>
-
-        See you at our Open House on 18 Nov (Sat), 8.30am - 1.30pm!
-      button: register now
-      url: https://sites.google.com/moe.edu.sg/yissopenhouse/home
-      image: /images/yi oh 2023.jpg
-      alt: Image alt text
-  - infopic:
       title: The Minister's Innovation Award 2022
       subtitle: We are honoured to be awarded
       description: For our campus' innovative design that supports learning beyond the
