@@ -10,6 +10,16 @@ sections:
       video: _video/Banner_Video (1).mp4
       background: /images/Yusof Ishak Secondary (2).png
   - infopic:
+      title: Secondary 1 Registration
+      subtitle: A Warm Welcome!
+      id: infopic
+      description: "Please click on the link below to access the Secondary 1
+        Registration microsite, and for appeals for transfer. "
+      button: Link
+      url: https://sites.google.com/moe.edu.sg/yiss-secondary-1-registration/home
+      image: /images/Sec_1_Reg_Photoshoot_photo.jpg
+      alt: Secondary 1 Registration
+  - infopic:
       title: The Minister's Innovation Award 2022
       subtitle: We are honoured to be awarded
       description: For our campus' innovative design that supports learning beyond the
