@@ -7,4 +7,4 @@ variant: markdown
 ---
 # **School Rules**
 
-Click [here](/files/YISS_School_Rules_2024) for more information.
+Click [here](/files/YISS_School_Rules_2024.pdf) for more information.
