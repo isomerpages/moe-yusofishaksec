@@ -56,14 +56,14 @@ You may&nbsp;[click](https://go.gov.sg/moe-sexuality-education)&nbsp;here for mo
 
 9.&nbsp; &nbsp; &nbsp;Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.
 
-**At Yusof Ishak Secondary School, the eTeens programme will be implemented as foolws in 2024:**
+**At Yusof Ishak Secondary School, the eTeens programme will be implemented as follows in 2024:**
 
-
+![](/images/eTeens.jpg)
 
 **INFORMATION FOR PARENTS**
 
-10.&nbsp; &nbsp; &nbsp;Parents may opt their children out of the Sexuality Education lessons.
+10.&nbsp; &nbsp; &nbsp;Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
 
-11.&nbsp; &nbsp; &nbsp;Parents who wish to opt their children out of the&nbsp;Sexuality Education lessons&nbsp;need to complete an opt-out form via&nbsp;[here](https://form.gov.sg/63c8dacc8de097001227456a).&nbsp;The completed form is to be submitted by 10/02/2023.
+11.&nbsp; &nbsp; &nbsp;Parents who wish to opt their children out of the&nbsp;Sexuality Education lessons&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable &nbsp;[here](https://form.gov.sg/63c8dacc8de097001227456a).&nbsp;The completed form is to be submitted by 19/01/2024.
 
 12.&nbsp; &nbsp; &nbsp;Parents can contact the school at yiss@moe.edu.sg or 65009800 for discussion or to seek clarification about the school’s Sexuality Education Programme.
