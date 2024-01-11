@@ -11,8 +11,10 @@ variant: markdown
 
 | NAME | APPOINTMENT |
 |---|---|
+| Mr Tan Kiang Meng, Anthony  | Lead Teacher (Chemistry) |
 | Mr Donavan Lau | Lead Teacher (Physics) |
 | Ms Hurul Ain  | Senior Teacher (History) |
+| Mr Patrick Ang Peng Siang  | Senior Teacher (Physics) |
 
 ### Class Mentors
 
