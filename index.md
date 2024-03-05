@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      video: _video/Banner_Video (1).mp4
+      variant: image
       background: /images/Yusof Ishak Secondary (2).png
   - infopic:
       title: The Minister's Innovation Award 2022
