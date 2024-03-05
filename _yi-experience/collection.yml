@@ -1,0 +1,23 @@
+collections:
+  yi-experience:
+    output: true
+    order:
+      - Academic Programmes/.keep
+      - Academic Programmes/English Language & Literature Department.md
+      - Academic Programmes/Mother Tongue Languages Department.md
+      - Academic Programmes/Mathematics Department.md
+      - Academic Programmes/Science Department.md
+      - Academic Programmes/Humanities Department.md
+      - Academic Programmes/Design & Aesthetics.md
+      - Academic Programmes/PE Department.md
+      - Academic Programmes/Art Unit.md
+      - Direct School Admissions into Secondary Schools (DSA SEC).md
+      - CCE/.keep
+      - CCE/Character & Citizenship Education (CCE).md
+      - CCE/Education and Career Guidance.md
+      - CCE/Sexuality Education.md
+      - Co Curricular Activities.md
+      - Applied Learning Programme (ALP).md
+      - Learning for Life Programme (LLP).md
+      - Personalised Digital Learning Programme (PDLP).md
+      - Home Based Learning.md

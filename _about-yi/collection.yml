@@ -1,0 +1,22 @@
+collections:
+  about-yi:
+    output: true
+    order:
+      - Principal’s Foreword.md
+      - Our Heritage/Our Heritage.md
+      - Our Heritage/School Vision and Mission.md
+      - Our Heritage/School Song.md
+      - Our Heritage/.keep
+      - Centre for Teaching and Learning Excellence.md
+      - Our Campus/Learning Spaces.md
+      - Our Campus/.keep
+      - Our BIG Family/School Management Team.md
+      - Our BIG Family/Teaching Staff.md
+      - Our BIG Family/Student Support Staff.md
+      - Our BIG Family/.keep
+      - Join our YI Family/We Spark Curiosity and Ignite Passion.md
+      - Join our YI Family/We Embrace Innovation.md
+      - Join our YI Family/We Leverage Technology for Learning.md
+      - Join our YI Family/We Nurture Students for the Future.md
+      - Join our YI Family/.keep
+      - Join our YI Family/We Inspire.md
