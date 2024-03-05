@@ -15,7 +15,7 @@ sections:
       description: For our campus' innovative design that supports learning beyond the
         traditional classroom.
       button: Find out more
-      url: /yi-stories/highlights/
+      url: /yi-stories/yiinthenews/
       image: /images/yiss minister innovation award 2023.jpeg
       alt: Minister's Innovation Award
   - infopic:
