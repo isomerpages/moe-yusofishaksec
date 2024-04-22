@@ -4,8 +4,8 @@ permalink: /yi-experience/dsa/
 description: ""
 variant: tiptap
 ---
-<h3>Note to Parents: The selection process for the 2023 Direct School Admission Exercise to Yusof Ishak Secondary School is now closed.</h3>
-<h5>The information below applies to the 2023 Direct School Admission into Secondary Schools (DSA-SEC) for Admission to Secondary 1 in 2024.</h5>
+<h3>Note to Parents: The selection process for the 2024 Direct School Admission Exercise to Yusof Ishak Secondary School is now closed.</h3>
+<h5>The information below applies to the 2024 Direct School Admission into Secondary Schools (DSA-SEC) for Admission to Secondary 1 in 2025.</h5>
 <h1><strong>Direct School Admissions into Secondary Schools (DSA-SEC)</strong></h1>
 <p>The DSA scheme provides students with the opportunity to seek admission
 to a secondary school, based on a diverse range of specific academic and
@@ -13,8 +13,8 @@ non-academic achievements and talents that they can demonstrate beyond
 the Primary School Leaving Examination (PSLE).</p>
 <p>Yusof Ishak Secondary School (YISS) invites Primary 6 students to participate
 in the DSA-SEC Exercise. Under this exercise, successful applicants will
-gain admission into YISS for the academic year beginning January 2024.</p>
-<p>For DSA 2023, YISS will offer the following talents for Primary 6 students.</p>
+gain admission into YISS for the academic year beginning January 2025.</p>
+<p>For DSA 2024, YISS will offer the following talents for Primary 6 students.</p>
 <table>
 <tbody>
 <tr>
@@ -263,7 +263,7 @@ and preferably achieved a Top 3 placing;
 <p>Please note that meeting all the criteria does not guarantee the student
 will be shortlisted or given an offer. Shortlisted candidates will be required
 to attend an in-person selection process.</p>
-<p><strong>Application Process (4 May 2023, 11am – 31 May 2023, 3pm)</strong>
+<p><strong>Application Process (4 May 2024, 11am – 31 May 2024, 3pm)</strong> 
 <br>Application for DSA-Sec can be submitted through the online DSA-Sec portal
 at <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.
 The application is free-of-charge.
@@ -276,14 +276,14 @@ would need to apply for a Registration Number (RGxxxxxxx) at: <a href="https://w
 they can apply through the DSA-Sec Portal.
 <br>Students can indicate up to three choices (maximum of two choices for
 the same school under two different talent areas).</p>
-<p><strong>Key Dates</strong>
-<br>Short-listed applicants will be informed from 26 June 2023 onwards.
+<p><strong>Key Dates</strong> 
+<br>Short-listed applicants will be informed from 26 June 2024 onwards.
 <br>Shortlisted applicants will be required to attend an interview and/or
-audition/trial in July and August 2023.
+audition/trial in July and August 2024.
 <br>Shortlisted applicants will be informed of the results of their application
 status (Confirmed Offer / Wait List / Unsuccessful) by early September
-2023.</p>
-<p><strong>Other Information</strong>
+2024.</p>
+<p><strong>Other Information</strong> 
 <br>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
@@ -291,7 +291,7 @@ the area of talent.
 <br>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1-4.</p>
-<p><strong>Contact Details</strong>
+<p><strong>Contact Details</strong> 
 <br>For more information on DSA, please visit the MOE DSA-Sec Website at&nbsp;
 <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <p>For further enquiries, please contact the school at Tel: 6500 9800 or
