@@ -4,7 +4,6 @@ permalink: /yi-experience/dsa/
 description: ""
 variant: tiptap
 ---
-<h3>Note to Parents: The selection process for the 2024 Direct School Admission Exercise to Yusof Ishak Secondary School is now closed.</h3>
 <h5>The information below applies to the 2024 Direct School Admission into Secondary Schools (DSA-SEC) for Admission to Secondary 1 in 2025.</h5>
 <h1><strong>Direct School Admissions into Secondary Schools (DSA-SEC)</strong></h1>
 <p>The DSA scheme provides students with the opportunity to seek admission
