@@ -225,7 +225,7 @@ and competitions related to music or dance.</p>
 </li>
 <li>
 <p>Upload the relevant documents to a google drive or dropbox and share the
-link under <strong>Step 4: Fill in non-school based awards/activities (Optional)&nbsp;</strong>
+link. (This can be done in <strong>Step 4: Fill in non-school based awards/activities (Optional)&nbsp;)</strong>
 </p>
 </li>
 </ul>
