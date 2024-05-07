@@ -384,7 +384,8 @@ Confirmed Offer (CO), (ii) Wait List (WL) or (iii) Unsuccessful (UN).</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Important Dates</p>
+<p><strong>Important Dates</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
