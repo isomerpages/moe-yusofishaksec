@@ -153,7 +153,7 @@ gain admission into YISS for the academic year beginning January 2025.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Selection Criteria</strong>
+<p><strong>Selection Criteria *</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -225,7 +225,7 @@ and competitions related to music or dance.</p>
 </li>
 <li>
 <p>Upload the relevant documents to a google drive or dropbox and share the
-link under <strong>Step 4: Fill in non-school based awards/activities (Optional)&nbsp;</strong>
+link. This can be done in <strong>Step 4: Fill in non-school based awards/activities (Optional)</strong>.<strong>&nbsp;</strong>
 </p>
 </li>
 </ul>
@@ -352,7 +352,7 @@ application.</p>
 </tr>
 </tbody>
 </table>
-<p>*meeting all the criteria does not guarantee the student will be shortlisted/given
+<p>*Meeting all the criteria does not guarantee the student will be shortlisted/given
 an offer.</p>
 <p><strong><u>General Selection Process</u></strong>
 </p>
@@ -364,7 +364,7 @@ conducted by the school.</p>
 <li>
 <p>Depending on the number of applications and vacancies, shortlisted applicants
 will be notified via email to attend a in-person selection exercise which
-will be conducted between&nbsp;24 June– 23 August 2024.</p>
+will be conducted between&nbsp;24 June 2024 – 23 August 2024.</p>
 </li>
 <li>
 <p>Shortlisted applicants will be informed of the exact date, time and venue
@@ -409,7 +409,7 @@ Confirmed Offer (CO), (ii) Wait List (WL) or (iii) Unsuccessful (UN).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 June –&nbsp;23 August 2024</p>
+<p>24 June 2024 –&nbsp;23 August 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In-person selection exercise for shortlisted&nbsp;applicants.</p>
