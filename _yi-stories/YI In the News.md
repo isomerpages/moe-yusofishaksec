@@ -7,6 +7,10 @@ variant: tiptap
 <h1><strong>YI In the News!</strong></h1>
 <p>Our school has been featured across a variety of media publications. Find
 out more about it below.</p>
+<h4><strong>2024</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Packed_meals.jpg">
+</div>
 <h4><strong>2023</strong></h4>
 <h4><strong>Yusof Ishak Secondary School’s new campus wins Innovation Award</strong></h4>
 <div class="isomer-image-wrapper">
