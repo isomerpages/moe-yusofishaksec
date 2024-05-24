@@ -12,7 +12,7 @@ out more about it below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Community in Nature Awards" src="/images/Screenshot_2024_05_24_125606.png">
 </div>
-<h4>School Canteen </h4>
+<h4>School Canteen</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Packed_meals.jpg">
 </div>
