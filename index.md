@@ -18,6 +18,7 @@ sections:
       button: Find out more
       url: /yi-stories/yiinthenews/
       alt: Image alt text
+      image: /images/CIN_Website_Update.jpg
   - infopic:
       title: The Minister's Innovation Award 2022
       subtitle: We are honoured to be awarded
