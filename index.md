@@ -10,7 +10,7 @@ sections:
       variant: image
       background: /images/Yusof Ishak Secondary (2).png
   - infopic:
-      title: Community in Nature School of the Year & Student of the Year
+      title: 2024 Community in Nature - School & Student of the Year
       subtitle: We are Honoured to be Awarded
       id: infopic
       description: By National Parks Board (NParks) to recognise our work in
