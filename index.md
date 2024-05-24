@@ -10,16 +10,14 @@ sections:
       variant: image
       background: /images/Yusof Ishak Secondary (2).png
   - infopic:
-      title: DSA Open House 2024
-      subtitle: Join us at our
+      title: Community in Nature School of the Year & Student of the Year
+      subtitle: We are Honoured to be Awarded
       id: infopic
-      description: |-
-        On 18 May (Sat), 8.30am - 11.30am 
-        at 8 Sumang Walk!
-      button: Register here
-      url: https://go.gov.sg/yissdsaoh24
-      image: /images/DSA_Open_HG__Website_.jpg
-      alt: DSA Open House 2024
+      description: By National Parks Board (NParks) to recognise our work in
+        advocating for the conservation of local biodiversity!
+      button: Find out more
+      url: /yi-stories/yiinthenews/
+      alt: Image alt text
   - infopic:
       title: The Minister's Innovation Award 2022
       subtitle: We are honoured to be awarded
