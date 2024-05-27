@@ -2,6 +2,7 @@
 title: School Advisory Committee
 permalink: /yi-community/school-advisory-committee/
 description: ""
+variant: markdown
 ---
 # **School Advisory Committee**
 
@@ -23,10 +24,10 @@ The SAC includes members from the following categories of people:
 
 The Yusof Ishak Secondary School’s SAC comprises the following members:
 
-1\. Mr Eric Lim Gim Huat, Chairman   
-2\. Mr Lionel Teo Eng Thye, Member   
+1\. Ms Susie Kee Lee Ching, Chairperson   
+2\. Mr Liu Jiehan, Member   
 3\. Dr Sandy Chong Yee Ling, Member   
 4\. Adjunct A/Prof Neo Kok Beng, Member   
 5\. Dr Victor Wang  Peng Cheng, Member   
-6\. Ms Susie Kee Lee Ching, Member    
-7\. Mr Liu Jiehan, Member
+6\. Ms Liew Yen Chin, Member    
+7\. Dr Lye Tin Fong, Member
