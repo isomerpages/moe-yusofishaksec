@@ -25,8 +25,8 @@ The SAC includes members from the following categories of people:
 The Yusof Ishak Secondary School’s SAC comprises the following members:
 
 1\. Ms Susie Kee Lee Ching, Chairperson   
-2\. Mr Liu Jiehan, Member   
-3\. Adjunct A/Prof Neo Kok Beng, Member   
-4\. Dr Victor Wang  Peng Cheng, Member   
-5\. Ms Liew Yen Chin, Member    
-6\. Dr Lye Tin Fong, Member
+2\. Ms Liew Yen Chin, Member   
+3\. Dr Neo Kok Beng, Member   
+4\. Dr Victor Wang Peng Cheng, Member   
+5\. Dr Lye Tin Fong, Member
+6\. Mr Liu Jiehan, Member
