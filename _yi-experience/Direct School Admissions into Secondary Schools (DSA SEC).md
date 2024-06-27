@@ -401,7 +401,7 @@ Confirmed Offer (CO), (ii) Wait List (WL) or (iii) Unsuccessful (UN).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 28 June 2024</p>
+<p>By 5 July 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School to send e-mail notification to shortlisted&nbsp;applicants.</p>
@@ -409,7 +409,7 @@ Confirmed Offer (CO), (ii) Wait List (WL) or (iii) Unsuccessful (UN).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 June 2024 –&nbsp;23 August 2024</p>
+<p>8 July 2024 –&nbsp;23 August 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In-person selection exercise for shortlisted&nbsp;applicants.</p>
