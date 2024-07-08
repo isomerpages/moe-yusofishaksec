@@ -30,11 +30,11 @@ variant: markdown
 | 1 Creativity | Mdm Lai Lili and Mr Tan Huay Hong |
 | 1 Courage | Ms Ng Jie Min, Germain and Mr Tan Kiang Meng Anthony |
 | 1 Believe | Ms Zurianah Bte Rahmat and Mr Teo Boon Hwee Alan |
-| 2 Integrity | Ms Ong Chuhui and Mr Ang Kah Tiong |
-| 2 Self-respect | Ms Nur Atiqah Binte Ahmad Jamaludin and Ms Eileen Chia |
-| 2 Purpose | Ms Bernice Xu and Ms Nuha Yumn |
+| 2 Integrity | Ms Ong Chuhui and Ms Lim Jia Xuan |
+| 2 Self-respect | Ms Eileen Chia and Ms Serene Wong |
+| 2 Purpose | Ms Bernice Xu, Ms Nuha Yumn and Mr Geryl Tan |
 | 2 Inquisitiveness | Mr Teng Cheah Boon and Mrs Rachel Lim Yi Ting |
-| 2 Resilience | Ms Magdalena Antonia Dos R Furtado |
+| 2 Resilience | Ms Magdalena Antonia Dos R Furtado and Ms Nyam Hsu Tse Sarah |
 | 2 Empathy | Mr Li Weiyuan Edwin |
 | 2 Confidence | Ms Leong Xiu Han Aubrey and Mr Go Qing Lin, Kenson |
 | 2 Creativity | Mr Ong Junjie Samuel |
