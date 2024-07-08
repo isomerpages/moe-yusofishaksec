@@ -35,15 +35,15 @@ variant: markdown
 | 2 Purpose | Ms Bernice Xu, Ms Nuha Yumn and Mr Geryl Tan |
 | 2 Inquisitiveness | Mr Teng Cheah Boon and Mrs Rachel Lim Yi Ting |
 | 2 Resilience | Ms Magdalena Antonia Dos R Furtado and Ms Nyam Hsu Tse Sarah |
-| 2 Empathy | Mr Li Weiyuan Edwin |
+| 2 Empathy | Mr Li Weiyuan Edwin and Ms Nur Amirah Bte Roslee |
 | 2 Confidence | Ms Leong Xiu Han Aubrey and Mr Go Qing Lin, Kenson |
-| 2 Creativity | Mr Ong Junjie Samuel |
+| 2 Creativity | Mr Ong Junjie Samuel and Ms Kan Shi Min |
 | 2 Courage | Ms Alia Moreta and Ms Chew Jieying Anna |
-| 3 Integrity | Mdm Low Qin Tian and Mr Darren Tan |
-| 3 Self-Respect| Mr Ang Peng Siang, Patrick |
+| 3 Integrity | Mdm Low Qin Tian, Mr Darren Tan and Ms Grace Heng |
+| 3 Self-Respect| Mr Ang Peng Siang, Patrick and Mr Joshua Loh Zee Heng |
 | 3 Purpose | Mdm Liu Shu Zhen and Ms Hurul Ain |
 | 3 Inquisitiveness | Ms Siti Sarah Binti Mohammed and Mr Lau Chu Beng Donavan |
-| 3 Resilience | Ms Tan Hwee Ling Vivian and Mr Chan Xiao Yi |
-| 3 Empathy | Mdm Koh Xin Wei |
+| 3 Resilience | Ms Tan Hwee Ling Vivian, Mr Chan Xiao Yi and Ms Cheryl Yeoh Hui Ming |
+| 3 Empathy | Mdm Koh Xin Wei and Mr Lee Hong Liang |
 | 3 Confidence | Mr Tan Boon Cheong Marc and Ms Jovena Sim |
 | 3 Creativity | Mr Chin Khai Fung and Ms Bernice Chew Li Ying |
