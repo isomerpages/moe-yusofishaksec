@@ -9,6 +9,10 @@ variant: tiptap
 out more about it below.</p>
 <h4><strong>2024</strong></h4>
 <h4>2024 Community in Nature - School of the Year and Student of the Year (<a href="https://www.straitstimes.com/singapore/2-students-from-yusof-ishak-secondary-win-2024-community-in-nature-school-award" rel="noopener noreferrer nofollow" target="_blank">Link to article</a>)</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zjQIbMczg-U?si=nHxHP5hQH4TKbrfI&amp;start=216"></iframe>
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Community in Nature Awards" src="/images/Screenshot_2024_05_24_125606.png">
 </div>
