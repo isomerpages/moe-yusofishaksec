@@ -8,8 +8,7 @@ variant: tiptap
 <p>Our school has been featured across a variety of media publications. Find
 out more about it below.</p>
 <h4><strong>2024</strong></h4>
-<h4><strong>YISS Official Opening Ceremony</strong></h4>
-<p></p>
+<h4><strong>YISS Official Opening Ceremony (ZB Schools)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CM20240724_COM_022_00.jpg">
 </div>
