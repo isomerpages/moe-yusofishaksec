@@ -8,7 +8,12 @@ variant: tiptap
 <p>Our school has been featured across a variety of media publications. Find
 out more about it below.</p>
 <h4><strong>2024</strong></h4>
-<h4>2024 Community in Nature - School of the Year and Student of the Year (<a href="https://www.straitstimes.com/singapore/2-students-from-yusof-ishak-secondary-win-2024-community-in-nature-school-award" rel="noopener noreferrer nofollow" target="_blank">Link to article</a>)</h4>
+<h4><strong>YISS Official Opening Ceremony</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CM20240724_COM_022_00.jpg">
+</div>
+<h4><strong>2024 Community in Nature - School of the Year and Student of the Year </strong>(<a href="https://www.straitstimes.com/singapore/2-students-from-yusof-ishak-secondary-win-2024-community-in-nature-school-award" rel="noopener noreferrer nofollow" target="_blank">Link to article</a>)</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zjQIbMczg-U?si=nHxHP5hQH4TKbrfI&amp;start=216"></iframe>
 </div>
@@ -16,7 +21,7 @@ out more about it below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Community in Nature Awards" src="/images/Screenshot_2024_05_24_125606.png">
 </div>
-<h4>School Canteen</h4>
+<h4><strong>School Canteen</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Packed_meals.jpg">
 </div>
