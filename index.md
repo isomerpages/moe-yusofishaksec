@@ -15,7 +15,7 @@ sections:
       id: infopic
       description: 16 Nov (Sat), 8.30am - 1.30pm
       button: Register Now!
-      url: https://form.gov.sg/66fcd891d4da0608055a3ddb
+      url: https://sites.google.com/moe.edu.sg/yissopenhouse/home
       image: /images/2024_OH_Image.png
       alt: YISS Open House 2024
   - infopic:
