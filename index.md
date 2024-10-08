@@ -10,6 +10,15 @@ sections:
       variant: image
       background: /images/Yusof Ishak Secondary (2).png
   - infopic:
+      title: YISS Open House 2024
+      subtitle: Come join us at
+      id: infopic
+      description: 16 Nov (Sat), 8.30am - 1.30pm
+      button: Register Now!
+      url: https://sites.google.com/moe.edu.sg/yissopenhouse/home
+      image: /images/2024_OH_Image.png
+      alt: YISS Open House 2024
+  - infopic:
       title: 2024 Community in Nature - School & Student of the Year
       subtitle: We are Honoured to be Awarded
       id: infopic
