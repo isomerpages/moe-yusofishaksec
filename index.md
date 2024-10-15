@@ -13,7 +13,7 @@ sections:
       title: YISS Open House 2024
       subtitle: Come join us at
       id: infopic
-      description: 16 Nov (Sat), 8.30am - 1.30pm
+      description: 16 Nov (Sat), 8.30am - 12.30pm
       button: Register Now!
       url: https://sites.google.com/moe.edu.sg/yissopenhouse/home
       image: /images/2024_OH_Image.png
