@@ -3,12 +3,9 @@ collections:
     output: true
     order:
       - 2023 Yearbook.md
+      - Achievements/2024.md
       - Achievements/.keep
-      - Achievements/2023 Achievements.md
-      - Achievements/Academic Achievements.md
-      - Achievements/CCA Achievements.md
-      - Achievements/Technology & Coding Related Achievements.md
-      - Achievements/Community & Environment.md
+      - Achievements/2023.md
       - YI In the News.md
       - Happenings.md
       - Testimonials.md
