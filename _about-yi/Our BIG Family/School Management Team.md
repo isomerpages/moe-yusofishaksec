@@ -27,7 +27,7 @@ variant: markdown
 | Mr Lim Ngee Hau<br> | HOD / Student Management<br> |
 | Mrs Tan Li May | Year Head (Sec 3)<br> |
 | Mr Daniel Soh<br> | Year Head (Sec 1)<br> |
-| Ms Li Xuan Jun<br> | Assistant Year Head (Sec 2)<br> |
+| Ms Li Xuanjun<br> | Assistant Year Head (Sec 2)<br> |
 | Mr Kennard Seah<br> | Level Head / Strategic Communication &amp; Outreach<br> |
 | Ms Nuha Yumn Bahruddin Eilyaas<br> | Subject Head / Geography<br> |
 | Mr Chan Xiao Yi<br> | Subject Head / English Language &amp; English Literature<br> |
