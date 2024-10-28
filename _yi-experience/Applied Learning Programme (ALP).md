@@ -211,7 +211,13 @@ primary school students (10 May)</p>
 <p></p>
 <p><strong>Development of YI AgriSphere Lab and Garden learning spaces</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AgriSphere_photo.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/agrisphere.jpg">
+</div>
 <p></p>
 <p><strong>YISS Sustainability Week 2024</strong>
 </p>
