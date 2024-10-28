@@ -193,7 +193,7 @@ Ngee Ann Polytechnic)</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FA_Math.png">
 </div>
 <p></p>
-<p></p>
+<h3>Gamification in Math Education</h3>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -203,16 +203,7 @@ Ngee Ann Polytechnic)</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_2022_2023_Achievements.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="World Math Day 2023" src="/images/world%20math%20day%202023.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMO.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Earch%20Room.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Demo.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="YI teachers professional development with Master Teacher, Mr Chew Chong Kiat" src="/images/math%20pd.jpeg">
