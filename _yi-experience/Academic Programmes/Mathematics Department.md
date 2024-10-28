@@ -176,8 +176,12 @@ Ngee Ann Polytechnic)</p>
 </tr>
 </tbody>
 </table>
+<h3><strong>Mathematics Competitions</strong></h3>
 <p></p>
-<h3><strong>Mathematics Programmes and Competitions</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YISS_Results___Mathematics_Competitions.png">
+</div>
+<h3><strong>Mathematics Programmes </strong></h3>
 <h4>MPH (Mathematics, PE, Humanities) Week</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MPH_Week.png">
@@ -194,54 +198,14 @@ Ngee Ann Polytechnic)</p>
 </div>
 <p></p>
 <h3>Gamification in Math Education</h3>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2023 Math Competition Achievements" src="/images/math%20competitions%202023.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gamification.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_2022_2023_Achievements.png">
-</div>
+<p></p>
+<h3>SEARCH Learning Space</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Earch%20Room.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="YI teachers professional development with Master Teacher, Mr Chew Chong Kiat" src="/images/math%20pd.jpeg">
-</div>
-<p><strong>YI teachers' Professional Development with Master Teacher, Mr Chew Chong Kiat. Photo with Principal, Mdm Maureen Lee.</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn.jpg">
-</div>
-<p><strong>Singapore Mathematical Olympiad (SMO)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/math.jpg">
-</div>
-<p><strong>Ngee Ann Math Challenge</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHOTO-2019-10-29-09-36-10.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHOTO-2019-10-29-09-36-11_3.jpg">
-</div>
-<p><strong>Pi-Force Challenge 2019</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pri%20Students%20working%20-%20escape%20room.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pri%20Students%20working.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pi%20Force%20Group%20with%20GOH%20Dr%20Joseph%20Yeo.jpg">
-</div>
-<p><strong>SEARCH Learning Space</strong>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp%20Image%202019-04-05.jpeg">
 </div>
@@ -251,4 +215,27 @@ Ngee Ann Polytechnic)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1611.jpg">
 </div>
+<p></p>
+<h3>Teachers' Professional Development with Master Teacher, Mr Chew Chong Kiat</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="YI teachers professional development with Master Teacher, Mr Chew Chong Kiat" src="/images/math%20pd.jpeg">
+</div>
+<h3>Ngee Ann Math Challenge</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHOTO-2019-10-29-09-36-10.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHOTO-2019-10-29-09-36-11_3.jpg">
+</div>
+<h3>Pi-Force Challenge 2019</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pri%20Students%20working%20-%20escape%20room.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pri%20Students%20working.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pi%20Force%20Group%20with%20GOH%20Dr%20Joseph%20Yeo.jpg">
+</div>
+<h3></h3>
 <p></p>
