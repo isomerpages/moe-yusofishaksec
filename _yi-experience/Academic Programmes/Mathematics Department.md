@@ -180,21 +180,18 @@ Ngee Ann Polytechnic)</p>
 <h3><strong>Mathematics Programmes and Competitions</strong></h3>
 <h4>MPH (Mathematics, PE, Humanities) Week</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_07_at_12_09_37_PM.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_07_at_12_09_36_PM.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_07_at_12_09_32_PM__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MPH_Week.png">
 </div>
 <p></p>
 <h3>Math Mania - Brain Teasers</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Mania.png">
+</div>
 <p></p>
-<p></p>
-<p></p>
+<h3>CTLE Demo Class: Leveraging SLS FA-Math to Develop Student Metacognition</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FA_Math.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
