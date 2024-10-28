@@ -176,12 +176,20 @@ Ngee Ann Polytechnic)</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Mathematics Competitions</strong></h3>
 <p></p>
+<h3><strong>YI Mathematics Team</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YISS_Math_Teachers__Day.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YISS_Math_Teachers.jpg">
+</div>
+<h3><strong>Mathematics Competitions</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YISS_Results___Mathematics_Competitions.png">
 </div>
-<h3><strong>Mathematics Programmes </strong></h3>
+<h3><strong>Mathematics Programmes</strong></h3>
 <h4>MPH (Mathematics, PE, Humanities) Week</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MPH_Week.png">
@@ -237,5 +245,4 @@ Ngee Ann Polytechnic)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pi%20Force%20Group%20with%20GOH%20Dr%20Joseph%20Yeo.jpg">
 </div>
-<h3></h3>
 <p></p>
