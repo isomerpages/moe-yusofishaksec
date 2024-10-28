@@ -96,7 +96,6 @@ this special time of year.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Teachers_Day_2024_2.jpg">
 </div>
 <p></p>
-<p></p>
 <h4>Past Programmes and Activities (2022-2023)</h4>
 <p><strong>CYL Symposium 2023</strong>
 </p>
