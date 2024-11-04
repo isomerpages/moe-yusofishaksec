@@ -234,5 +234,18 @@ creating and performing</p>
 </div>
 <p>Maker Programme: Shrink Plastic</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Left_to_Right___D_T_artefacts.png">
+</div>
+<p>Left to Right: Wooden block pet project, Isometric sketch of block pet
+project and holder for pencil and mobile phone, presentation drawing and
+USB Table lamp</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art_Photography_Cyanotype_Drawing_from_observation.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_Book_Illustration_.png">
+</div>
+<p>Picture Book Illustration (watercolour painting)</p>
 <p></p>
 <p></p>
