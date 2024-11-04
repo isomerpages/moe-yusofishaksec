@@ -209,10 +209,30 @@ creating and performing</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Popband_Music_Showcase.png">
 </div>
 <p>Pop Band Music Showcase</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Songwriting_and_Music_Production.png">
 </div>
+<p>Songwriting and Music Production</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Farm_to_table_3_in_1.png">
+</div>
+<p>Farm-to-Table Challenge</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spherification_masterclass_3_in_1.png">
+</div>
+<p>Spherification Masterclass</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FCE_Practical_Lessons.png">
+</div>
+<p>Practical Lessons</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maker_programme___Automata_Workshop.png">
+</div>
+<p>Maker Programme : Automata Workshop</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maker_Programme___Shrink_Plastic.png">
+</div>
+<p>Maker Programme: Shrink Plastic</p>
 <p></p>
 <p></p>
 <p></p>
