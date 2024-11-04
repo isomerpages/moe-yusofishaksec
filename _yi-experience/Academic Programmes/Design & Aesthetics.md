@@ -204,8 +204,15 @@ creating and performing</p>
 <p>Design &amp; Aesthetics (DNA) Discovery Week</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/C&amp;T.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Popband_Music_Showcase.png">
 </div>
+<p>Pop Band Music Showcase</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Songwriting_and_Music_Production.png">
+</div>
+<p></p>
 <p></p>
 <p></p>
