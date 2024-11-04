@@ -26,36 +26,46 @@ and cross-cultural awareness in today’s globalised context. Through hands-on
 practical sessions that encourage independent learning, FCE and NFS nurture
 students to become creative, innovative, and resourceful individuals who
 advocate sustainable food consumption and are capable of making informed
-and discerning decisions.&nbsp;</p>
+and discerning decisions.</p>
 <p></p>
 <p><strong>ART</strong>
-<br>The art curriculum seeks to provide students with a balanced and well-rounded
-education in the aesthetic, cognitive and affective dimensions. Through
-engagement in art discourse/critique, the curriculum promotes lifelong
-enjoyment and appreciation of artistic works; developing visual literacy
-in students. Production of artwork encourages imagination and cultivates
-in students the capacity to innovate and improvise, preparing them to face
-future challenges.</p>
+<br>The Art curriculum seeks to provide students with a balanced and well-rounded
+education in the aesthetic, cognitive and affective domains. Through engagement
+in art discourse and art making, the curriculum offered at both Lower and
+Upper Secondary focus on visual literacy and storytelling. Students are
+encouraged to exercise their imagination and develop creative dispositions
+e.g. the ability to see from multiple perspectives and the ability to adapt
+flexibly across contexts. The exposure to a wide range of art activities
+and skills builds their understanding of art elements and principles of
+design as they develop an appreciation of cultural artworks from diverse
+influences, to cultivate global and cross-cultural literacy. Through Art,
+students develop the capacity to innovate and improvise, preparing them
+to face future challenges.</p>
+<p></p>
 <p><strong>MUSIC</strong>
-<br>The subject is offered at lower secondary and aims to&nbsp;develop the
-students’ musical abilities. Through music performing and creating, our
-music curriculum creates a platform to provide every student with a basic
-music education and to grow extra-musical skills such as critical thinking
-skills, psychomotor skills, social awareness, and moral and cultural values.
-These are important to the holistic development of a student, better prepare
-them to thrive in a fast-changing and highly-connected world.</p>
+<br>Music is offered at both Lower Secondary and Upper Secondary where students
+will be introduced to a wide range of genres and styles as they acquire
+and apply musical skills and knowledge through Listening, Creating and
+Performing. This provides the natural platform for students to build social-emotional
+dispositions due to the collaborative nature of music-making which include
+teamwork and resilience to strive to do their best. In addition, building
+and deepening their understanding of musical and cultural diversity hones
+critical thinking and creative expression, contributing to the holistic
+development of our students, fostering a life-long interest and involvement
+in music.</p>
 <h3>Common Curriculum</h3>
 <p>As part of the school’s implementation of Full Subject-based Banding,
 lower secondary students will take a set of subjects at a common level.
 These subjects include Design &amp; Technology, Food and Consumer Education,
 Art and Music. Designed to provide accessibility to all students, the common
 curriculum gives students the opportunity to learn in a nurturing and diverse
-environment. Through the use of pedagogies like scaffolding and differential
-instructions, students can grow at different pace to reach their full potential.</p>
+environment. Through the use of pedagogies such as scaffolding and differentiated
+instruction, students can grow at a different pace to reach their full
+potential.</p>
 <h3>Learning Outcomes</h3>
 <p><strong>DESIGN &amp; TECHNOLOGY (D&amp;T)</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>Cultivate visual-spatial thinking through sketching, experimenting and
 prototyping using appropriate materials and basic hand tools/equipment/machines
@@ -71,6 +81,24 @@ functionality and the environment</p>
 </li>
 <li>
 <p>Develop confidence and pride through turning ideas into physical objects</p>
+</li>
+</ul>
+<p><strong>FOOD AND CONSUMER EDUCATION (FCE)</strong>
+</p>
+<ul>
+<li>
+<p>Understand the importance of nutrition and food safety and lead a healthier
+lifestyle proactively.&nbsp;</p>
+</li>
+<li>
+<p>Apply basic culinary science in preparing healthier food to meet the needs
+of target groups.&nbsp;</p>
+</li>
+<li>
+<p>Manage resources optimally and sustainably.&nbsp;</p>
+</li>
+<li>
+<p>Make responsible and informed decisions for self, family and the community.</p>
 </li>
 </ul>
 <p><strong>NUTRITION AND FOOD SCIENCE (NFS)</strong>
@@ -95,7 +123,7 @@ functionality and the environment</p>
 </ul>
 <p><strong>ART</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>Identify qualities in and interpret what they see and experience</p>
 </li>
@@ -126,38 +154,54 @@ problems</p>
 </ul>
 <p><strong>MUSIC</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>Perform Music in both instrumental and vocal settings, individually and
-in groups</p>
+<p>Listen and respond to music</p>
 </li>
 <li>
-<p>Create Music in both instrumental and vocal settings, individually and
-in groups</p>
+<p>Create music in both vocal and instrumental settings, individually and
+collaboratively</p>
 </li>
 <li>
-<p>Listen and Respond to Music</p>
+<p>Perform music in both vocal and instrumental settings, individually and
+collaboratively</p>
 </li>
 <li>
-<p>Appreciate Music in local and global cultures</p>
+<p>Understand the role of music in society</p>
 </li>
 <li>
-<p>Understand musical elements and concepts</p>
+<p>Appreciate music from Singapore and global cultures</p>
+</li>
+<li>
+<p>Experience and apply musical elements and concepts through listening,
+creating and performing</p>
 </li>
 </ul>
 <h3>Key Programmes</h3>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>Maker Programme</p>
 </li>
 <li>
-<p>Junior Chef Programme</p>
+<p>Spherification Masterclass&nbsp;</p>
 </li>
 <li>
-<p>Digital Art Programme</p>
+<p>Farm to Table Cooking Challenge</p>
 </li>
 <li>
-<p>Coding Music Programme</p>
+<p>Digital Illustration</p>
+</li>
+<li>
+<p>Bilingual Picture Book Illustration</p>
+</li>
+<li>
+<p>Pop Band Music Showcase</p>
+</li>
+<li>
+<p>Songwriting and Music Production</p>
+</li>
+<li>
+<p>Design &amp; Aesthetics (DNA) Discovery Week</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
