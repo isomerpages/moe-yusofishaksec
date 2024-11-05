@@ -179,6 +179,10 @@ Ngee Ann Polytechnic)</p>
 <p></p>
 <h3><strong>YI Mathematics Team</strong></h3>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YISS_Math_Teachers__Bonding_Session.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YISS_Math_Teachers__Day.jpg">
 </div>
 <p></p>
@@ -187,7 +191,7 @@ Ngee Ann Polytechnic)</p>
 </div>
 <h3><strong>Mathematics Competitions</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YISS_Results___Mathematics_Competitions.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YISS_Results___Mathematics_Competitions.jpg">
 </div>
 <h3><strong>Mathematics Programmes</strong></h3>
 <h4>MPH (Mathematics, PE, Humanities) Week</h4>
@@ -222,6 +226,11 @@ Ngee Ann Polytechnic)</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1611.jpg">
+</div>
+<p></p>
+<h3>Teachers' Professional Development with Master Teacher, Mdm Sharon Lee Mei Ling</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTT_Mdm_Sharon_Lee_Mei_Ling.jpg">
 </div>
 <p></p>
 <h3>Teachers' Professional Development with Master Teacher, Mr Chew Chong Kiat</h3>
