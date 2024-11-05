@@ -80,7 +80,7 @@ and meaningful for students.</p>
 <h4>Reading Programme</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Learning Oasis</strong> 
+<p><strong>Learning Oasis</strong>
 </p>
 </li>
 </ul>
@@ -101,7 +101,7 @@ reading culture across the school.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>YI Reads</strong> 
+<p><strong>YI Reads</strong>
 </p>
 </li>
 </ul>
