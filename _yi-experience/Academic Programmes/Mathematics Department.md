@@ -41,16 +41,16 @@ resilience in their attitude towards the learning of Mathematics</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Designed lessons to allow our students to achieve a deep understanding
-of the basic Mathematical concepts;
+<p>We design lessons to allow our students to achieve a deep understanding
+of the basic Mathematical concepts.
 <br>
 <br>We incorporate suitable learning experiences in teaching concepts, making
-Mathematics relevant by relating to real-life;
+Mathematics relevant by relating to real-life.
 <br>
-<br>design self-directed learning programmes for students to learn at their
+<br>We design self-directed learning programmes for students to learn at their
 own pace and to take responsibility in their own learning.
 <br>
-<br>infuse thinking skills (Analyzing, Generalization, deducing) and problem
+<br>We infuse thinking skills (Analyzing, Generalization, deducing) and problem
 solving skills into our teaching to develop our students to be confident
 problem solvers.</p>
 </td>
