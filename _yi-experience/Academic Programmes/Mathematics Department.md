@@ -193,6 +193,11 @@ Ngee Ann Polytechnic)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YISS_Results___Mathematics_Competitions.jpg">
 </div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Winners_for_Australian_Mathematics_Competition.jpg">
+</div>
 <h3><strong>Mathematics Programmes</strong></h3>
 <h4>MPH (Mathematics, PE, Humanities) Week</h4>
 <div class="isomer-image-wrapper">
