@@ -10,14 +10,23 @@ sections:
       variant: image
       background: /images/Yusof Ishak Secondary (2).png
   - infopic:
-      title: YISS Open House 2024
-      subtitle: Come join us at
+      title: Secondary 1 Registration
+      subtitle: Welcome Parents & New Sec 1s!
       id: infopic
-      description: 16 Nov (Sat), 8.30am - 12.30pm
-      button: Register Now!
-      url: https://sites.google.com/moe.edu.sg/yissopenhouse/home
-      image: /images/2024_OH_Image.png
-      alt: YISS Open House 2024
+      description: Find out more about YISS
+      button: Click Here!
+      url: https://sites.google.com/moe.edu.sg/yiss-secondary-1-registration/home
+      image: /images/WhatsApp_Image_2024_10_03_at_1_41_25_PM.jpg
+      alt: Sec 1 Registration
+  - infopic:
+      title: The Minister's Innovation Award 2022
+      subtitle: We are honoured to be awarded
+      description: For our campus' innovative design that supports learning beyond the
+        traditional classroom.
+      button: Find out more
+      url: /yi-stories/yiinthenews/
+      image: /images/yiss minister innovation award 2023.jpeg
+      alt: Minister's Innovation Award
   - infopic:
       title: 2024 Community in Nature - School & Student of the Year
       subtitle: We are Honoured to be Awarded
@@ -28,15 +37,6 @@ sections:
       url: /yi-stories/yiinthenews/
       alt: Image alt text
       image: /images/CIN_Website_Update.jpg
-  - infopic:
-      title: The Minister's Innovation Award 2022
-      subtitle: We are honoured to be awarded
-      description: For our campus' innovative design that supports learning beyond the
-        traditional classroom.
-      button: Find out more
-      url: /yi-stories/yiinthenews/
-      image: /images/yiss minister innovation award 2023.jpeg
-      alt: Minister's Innovation Award
   - infopic:
       title: WE SPARK CURIOSITY AND IGNITE PASSION
       subtitle: Collaborate|Communicate|Create
