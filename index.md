@@ -13,7 +13,7 @@ sections:
       title: Secondary 1 Registration
       subtitle: Welcome Parents & New Sec 1s!
       id: infopic
-      description: Find out more about YISS
+      description: Find out more about YISS!
       button: Click Here!
       url: https://sites.google.com/moe.edu.sg/yiss-secondary-1-registration/home
       image: /images/WhatsApp_Image_2024_10_03_at_1_41_25_PM.jpg
