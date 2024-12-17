@@ -11,7 +11,7 @@ sections:
       background: /images/Yusof Ishak Secondary (2).png
   - infopic:
       title: Secondary 1 Registration
-      subtitle: Welcome Parents & New Sec 1s!
+      subtitle: Welcome Parents & New Students
       id: infopic
       description: Find out more about YISS!
       button: Click Here
