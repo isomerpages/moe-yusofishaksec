@@ -4,4 +4,41 @@ permalink: /about-yi/principals-foreword/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Principal’s Foreword</strong></h1><p></p><div class="isomer-image-wrapper"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Mdm_Maureen_Lee.jpg"></div><h4><strong>EMPOWERED AS ONE</strong></h4><p>We are delighted to welcome our new cohort of students and their parents to our YI BIG Family! Your child would be embarking on a purposeful learning journey with us to be their best. We would want your child to have BIG aspirations and be passionate about their learning.</p><p>At Yusof Ishak Secondary School, our mission is to develop our students to be curious, creative and confident life-long learners who contribute to the Greater Good. We are&nbsp;<strong>BIG</strong>&nbsp;in nurturing our students as&nbsp;<strong>Leaders for Tomorrow</strong>:</p><ul data-tight="true" class="tight"><li><p><strong>Believe</strong>&nbsp;- We believe every child has talent</p></li><li><p><strong>Inspire</strong>&nbsp;- We inspire every child to learn for life</p></li><li><p><strong>Grow</strong>&nbsp;- We grow every child to shine and serve</p></li></ul><p>We nurture our students to soar to their best and shine their brightest. As the Centre for Teaching &amp; Learning Excellence (CTLE@YISS), we partner Master Teachers from the Academy of Singapore Teachers, professors from the National Institute of Education, and experts from the Ministry of Education to enact innovative and effective pedagogies and impact the teaching fraternity. We complement a rigorous curriculum with thoughtfully designed academic and student development experiences to develop our students holistically to be future-ready. This empowers our students commence their learning journey with confidence, where joy is part of the journey and love is the heart of the journey!</p><p>We seek to&nbsp;<strong>InSPIRE</strong>&nbsp;our students to develop good character through our school values:</p><ul data-tight="true" class="tight"><li><p>Live with&nbsp;<strong>In</strong>tegrity</p></li><li><p>Lead with&nbsp;<strong>S</strong>elf-respect</p></li><li><p>Collaborate with a&nbsp;<strong>P</strong>urpose</p></li><li><p>Learn with&nbsp;<strong>I</strong>nquisitiveness</p></li><li><p>Grow with&nbsp;<strong>R</strong>esilience</p></li><li><p>Serve with&nbsp;<strong>E</strong>mpathy</p></li></ul><p>Fondly known as the First President School, our vision is to nurture students who can think, learn and lead better. Through the&nbsp;<strong>YI Future-ready Leaders Programme (FLP)</strong>, our students will acquire&nbsp;<strong>Future-Ready Habits (FRH)</strong>&nbsp;such as inquisitiveness, ideation and intercultural acumen so that <strong><em>every Yusoffian can be an effective Creator, Connector and Contributor</em></strong> in a changing world.</p><p>As part of the YI FLP, our <strong>distinctive programmes</strong> serve to provide meaningful and authentic contexts where knowledge can be applied, and values, 21st&nbsp;Century Competencies and FRHs can be developed, demonstrated and strengthened.</p><ul data-tight="true" class="tight"><li><p>Our Applied Learning Programme is&nbsp;<strong>STEM</strong>&nbsp;for the&nbsp;<strong>S</strong>trategic Development of a&nbsp;<strong>S</strong>ustainable and&nbsp;<strong>S</strong>mart City&nbsp;<strong>(S4TEM@YI)</strong>. Exposing our students to STEM Learning &amp; Values serve to equip them with the skills and dispositions of Leaders for Tomorrow such as Lateral Thinkers, Ethical Advocates &amp; Digital Innovators.</p></li><li><p>Our Learning for Life Programme is&nbsp;<strong>Nurturing Honourable Leaders for Tomorrow (YI LEAD+)</strong>. We provide a strong school culture and myriad of opportunities to nurture an Honourable Leader in every student, anchored in the core values of honourable leaders.</p></li></ul><p>Our school theme for 2024 is&nbsp;<strong>Empowered&nbsp;as ONE</strong>! After two pioneering years at 8 Sumang Walk, it is our hope that our students will continue to possess the courage to step out of their comfort zone and take ownership to shape the next chapter of the school’s journey.</p><p>As a school, we will cultivate an abundance mindset and work together as one to build a brighter future for ourselves and Singapore. As we embark on this new journey in 2024, we will continue to champion the joy of learning through the provision of a holistic curriculum and cutting-edge pedagogies, with <strong><em>EdTech as a Capability Multiplier</em></strong>. We will also grow our students as way makers who possess a global outlook and have a positive growth mindset, inspiring changes in our society through their speech and actions.</p><p>In our endeavours, we seek to build a synergistic home-school partnership to nurture our students to their fullest potential. We hope to work hand-in-hand with parents/guardians so that our students develop self-management and self-regulation skills, take responsibility and ownership of their learning and build resilience.</p><p>We are grateful for the strong support from our key stakeholders, namely School Advisory Committee, YI Parent Support Group (YI PSG) and alumni. This strong support from our key stakeholders, coupled with our competent, committed and caring teachers will imbue in our students the joy of learning and contribute to a quality holistic education for them. We are confident that we will continue to achieve many more breakthroughs in the years ahead as we scale new heights as way-makers!</p><p>We look forward to welcoming you to Yusof Ishak Secondary School, the First President School! Take care and keep well! Wishing everyone a happy and healthy 2024!</p><p></p><p>Learn for Life,</p><p>Mdm Maureen Lee</p><p>Principal</p><p>January 2024</p><p></p>
+<h1><strong>Principal’s Welcome</strong></h1>
+<p></p>
+<h4>Welcome to Yusof Ishak Secondary School!</h4>
+<p>I am Mr Chen Ziyang, the new Principal at Yusof Ishak Secondary School.
+I am excited to join the YI Family and honoured to take over the leadership
+baton from Mdm Maureen Lee.</p>
+<p>First, I would like to take this opportunity to thank Mdm Maureen Lee
+for her inspirational leadership, courage and deep care for her students
+and staff. Under her steadfast leadership, she led the school through COVID-19,
+oversaw the move of the school to 8 Sumang Walk and worked with the YI
+team to curate an exceptional school experience for Yusoffians.</p>
+<p>When I first stepped into the school and walked around the spaces, my
+first impression was the excitement I felt as an educator. Classrooms with
+desks on wheels, with whiteboards at the front and back to allow for quick
+transitions between whole-class and group activities; art rooms that open
+up to an outdoor garden where students can create and express their ideas
+in nature; a canteen where staff and students pre-order and self-collect
+their meals to reduce food waste. These are just some of the bold ideas
+that are carefully designed and incorporated into the school campus.</p>
+<p>In addition, beyond the spaces, the people at Yusof Ishak have touched
+and inspired me. Every staff I’ve met, teaching and non-teaching alike,
+are proud to be part of this journey to push the boundaries of teaching
+and learning and sharing with the larger fraternity. We are privileged
+to host the Centre for Teaching &amp; Learning Excellence (CTLE@YISS) where
+we partner Master Teachers from the Academy of Singapore Teachers, professors
+from the National Institute of Education and experts from the Ministry
+of Education to innovate and share best practices.</p>
+<p>I look forward to continuing this exciting journey of innovation, collaboration
+and partnership with Yusoffians, parents and stakeholders.</p>
+<p>2025 will also be a milestone for the school. We will be celebrating our
+60<sup>th</sup> anniversary, together with our nation as well as the 10<sup>th</sup> year
+of hosting CTLE@YISS. It will be a meaningful year for us as we remember
+our past and nurture our Yusoffians to be Leaders for Tomorrow.</p>
+<p>Wishing everyone a fulfilling year of learning and growth in 2025!</p>
+<p></p>
+<p>Mr Chen Ziyang</p>
+<p>Principal</p>
+<p></p>
