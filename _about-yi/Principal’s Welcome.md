@@ -44,4 +44,3 @@ our past and nurture our Yusoffians to be Leaders for Tomorrow.</p>
 <p></p>
 <p>Mr Chen Ziyang</p>
 <p>Principal</p>
-<p></p>
