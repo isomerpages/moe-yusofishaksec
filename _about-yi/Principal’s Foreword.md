@@ -6,6 +6,9 @@ variant: tiptap
 ---
 <h1><strong>Principal’s Welcome</strong></h1>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Principal_s_Welcome_Photo.jpg">
+</div>
 <h4>Welcome to Yusof Ishak Secondary School!</h4>
 <p>I am Mr Chen Ziyang, the new Principal at Yusof Ishak Secondary School.
 I am excited to join the YI Family and honoured to take over the leadership
