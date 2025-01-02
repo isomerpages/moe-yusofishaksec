@@ -27,74 +27,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Ziyang
-<br>
-</p>
+<p>Mr Chen Ziyang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Principal
-<br>
-</p>
+<p>Principal</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Loh Sein Ling
-<br>
-</p>
+<p>Ms Loh Sein Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal (EO)
-<br>
-</p>
+<p>Vice-Principal (EO)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Teddy Lin
-<br>
-</p>
+<p>Mr Teddy Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal (Administration)
-<br>
-</p>
+<p>Vice-Principal (Administration)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chan Hwee Leng
-<br>
-</p>
+<p>Ms Neo Shu Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer
-<br>
-</p>
+<p>HOD / Citizenship and Character Education</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tay Pei Yun
-<br>
-</p>
+<p>Ms Tan Li Jen Adeline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Curriculum Innovation &amp; Information and Communication Technologies
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Li Jen Adeline
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD / Design &amp; Aesthetics
-<br>
-</p>
+<p>HOD / Design &amp; Aesthetics</p>
 </td>
 </tr>
 <tr>
@@ -115,6 +83,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Goh Lay Ching
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Information and Communication Technologies</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Eric Koh Zhen Feng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -131,50 +109,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Soon Heng
-<br>
-</p>
+<p>Ms Tan Sui Linn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Physical Education &amp; Co-Curricular Activities
-<br>
-</p>
+<p>HOD / Science</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Sui Linn
-<br>
-</p>
+<p>Mr Lim Ngee Hau</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Science
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Neo Shu Hua
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD / Citizenship and Character Education
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Ngee Hau
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD / Student Management
-<br>
-</p>
+<p>HOD / Student Management</p>
 </td>
 </tr>
 <tr>
@@ -182,33 +128,31 @@ variant: tiptap
 <p>Mrs Tan Li May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Sec 3)
-<br>
-</p>
+<p>Year Head (Sec 4)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Soh
-<br>
-</p>
+<p>Mr Daniel Soh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Sec 1)
-<br>
-</p>
+<p>Year Head (Sec 1)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Li Xuanjun
-<br>
-</p>
+<p>Ms Li Xuanjun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 2)
-<br>
-</p>
+<p>Assistant Year Head (Sec 3)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Hwee Ling Vivian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acting Assistant Year Head (Sec 2)</p>
 </td>
 </tr>
 <tr>
@@ -225,26 +169,58 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nuha Yumn Bahruddin Eilyaas
-<br>
-</p>
+<p>Ms Oon Xiu Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Geography
-<br>
-</p>
+<p>Subject Head / Chinese Language</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Xiao Yi
-<br>
-</p>
+<p>Mr Chan Xiao Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head / English Language &amp; English Literature
-<br>
-</p>
+<p>Subject Head / English Language &amp; English Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nuha Yumn Bahruddin Eilyaas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Geography</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Xiu Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Information and Communication Technologies</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Li Weiyuan Edwin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Magdalena Antonia Dos R Furtado</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Student Leadership</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sim Jie Kai Shaun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Student Management</p>
 </td>
 </tr>
 <tr>
@@ -254,9 +230,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Student Well-being
-<br>
-</p>
+<p>Subject Head / Student Well-being</p>
 </td>
 </tr>
 <tr>
