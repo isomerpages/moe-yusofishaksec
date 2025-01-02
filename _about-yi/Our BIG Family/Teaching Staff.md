@@ -3,47 +3,377 @@ title: Teaching Staff
 permalink: /about-yi/our-big-family/teaching-staff/
 description: ""
 third_nav_title: Our BIG Family
-variant: markdown
+variant: tiptap
 ---
-# **Teaching Staff**
-
-### Teacher Leaders
-
-| NAME | APPOINTMENT |
-|---|---|
-| Mr Tan Kiang Meng, Anthony  | Lead Teacher (Chemistry) |
-| Mr Donavan Lau | Lead Teacher (Physics) |
-| Ms Hurul Ain  | Senior Teacher (History) |
-| Mr Patrick Ang Peng Siang  | Senior Teacher (Physics) |
-
-### Class Mentors
-
-| CLASS | CLASS MENTORS |
-|---|---|
-| 1 Integrity | Ms Teoh Su-Mei Jeanette and Mr Chan Zhi Yang, Freddie |
-| 1 Self-respect | Ms Lim Mei Qiao and Mr Huang Kangsheng, Carson |
-| 1 Purpose | Ms Janne Low and Mr Lien Cheong Wee Ignatius|
-| 1 Inquisitiveness | Ms Wileen Png and Mr Kennard Seah |
-| 1 Resilience | Ms Lim Mui Hoon Amanda and Mr Ting Hea Chuen |
-| 1 Empathy | Mdm Zuraidah Binte Mohd Ariff and Ms Tan Yan Yan Grace |
-| 1 Confidence | Ms Eileen Sin Yu Ling and Ms Puah Shi Min, Tiffany |
-| 1 Creativity | Mdm Lai Lili and Mr Tan Huay Hong |
-| 1 Courage | Ms Ng Jie Min, Germain and Mr Tan Kiang Meng Anthony |
-| 1 Believe | Ms Zurianah Bte Rahmat and Mr Teo Boon Hwee Alan |
-| 2 Integrity | Ms Ong Chuhui and Ms Lim Jia Xuan |
-| 2 Self-respect | Ms Eileen Chia and Ms Serene Wong |
-| 2 Purpose | Ms Bernice Xu, Ms Nuha Yumn and Mr Geryl Tan |
-| 2 Inquisitiveness | Mr Teng Cheah Boon and Mrs Rachel Lim Yi Ting |
-| 2 Resilience | Ms Magdalena Antonia Dos R Furtado and Ms Nyam Hsu Tse Sarah |
-| 2 Empathy | Mr Li Weiyuan Edwin and Ms Nur Amirah Bte Roslee |
-| 2 Confidence | Ms Leong Xiu Han Aubrey and Mr Go Qing Lin, Kenson |
-| 2 Creativity | Mr Ong Junjie Samuel and Ms Kan Shi Min |
-| 2 Courage | Ms Alia Moreta and Ms Chew Jieying Anna |
-| 3 Integrity | Mdm Low Qin Tian, Mr Darren Tan and Ms Grace Heng |
-| 3 Self-Respect| Mr Ang Peng Siang, Patrick and Mr Joshua Loh Zee Heng |
-| 3 Purpose | Mdm Liu Shu Zhen and Ms Hurul Ain |
-| 3 Inquisitiveness | Ms Siti Sarah Binti Mohammed and Mr Lau Chu Beng Donavan |
-| 3 Resilience | Ms Tan Hwee Ling Vivian, Mr Chan Xiao Yi and Ms Cheryl Yeoh Hui Ming |
-| 3 Empathy | Mdm Koh Xin Wei and Mr Lee Hong Liang |
-| 3 Confidence | Mr Tan Boon Cheong Marc and Ms Jovena Sim |
-| 3 Creativity | Mr Chin Khai Fung and Ms Bernice Chew Li Ying |
+<h1><strong>Teaching Staff</strong></h1>
+<h3>Teacher Leaders</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>NAME</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>APPOINTMENT</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Kiang Meng, Anthony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher (Chemistry)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Donavan Lau</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher (Physics)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Mui Hoon, Amanda</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Art)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Hurul Ain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (History)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Patrick Ang Peng Siang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Physics)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Class Mentors</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>CLASS</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>CLASS MENTORS</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Believe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lin Wenyuan and Ms Tay Xiu Yu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Jia Xuan and Ms Phang Yan See</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Self-respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Eileen Chia and Ms Elisa Chng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Purpose</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Amirah and Mr Ignatius Shepherdson</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Inquisitiveness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Hong Liang and Ms Janne Low</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Rachel Lim and Ms Izzah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Empathy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rowena Tan and Ms Grace Heng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Confidence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sarah Nyam and Mr Alim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Creativity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kan Shi Min and Mr Freddie Chan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Courage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Richard Oh and Ms Aubrey Leong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Believe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Boon Hwee Alan and Ms Hazel Chew</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Teoh Su-Mei Jeanette</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Self-respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Huang Kangsheng, Carson and Ms Serene Wong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Purpose</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lien Cheong Wee Ignatius and Ms Ponniey</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Inquisitiveness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wileen Png and Mr Edwin Li</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Mui Hoon Amanda</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Empathy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zuraidah Binte Mohd Ariff and Ms Tan Yan Yan Grace</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Confidence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Eileen Sin Yu Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Creativity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lai Lili and Mr Tan Huay Hong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Courage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Kiang Meng Anthony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rozmaini and Mr Joshua Loh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Self-respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zurianah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Purpose</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Chuhui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Inquisitiveness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Bernice Xu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tiffany Puah and Dr Ting Hea Chuen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Empathy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Peng Siang, Patrick and Ms Oon Xiu Wen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Confidence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Anna Chew and Mr Sim Jie Kai, Shaun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Creativity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Rachel Kang and Mr Darren Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Courage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Alia and Mr Gabriel Ho</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Low Qin Tian, Mr Teng Cheah Boon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Self-Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kennard Seah and Ms Nuha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Purpose</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Liu Shu Zhen and Ms Hurul Ain</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Inquisitiveness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Sarah Binti Mohammed and Mr Lau Chu Beng Donavan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Mei Qiao and Mr Chan Xiao Yi and Ms Cheryl Yeoh Hui Ming</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Empathy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Koh Xin Wei and Mr CHin Khai Fung</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Confidence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jovena Sim and Ms Magdalena Furtado</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Creativity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Bernice Chew Li Ying and Ms Germain Ng</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
