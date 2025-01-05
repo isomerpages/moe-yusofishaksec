@@ -10,15 +10,6 @@ sections:
       variant: image
       background: /images/Yusof Ishak Secondary (2).png
   - infopic:
-      title: Secondary 1 Registration
-      subtitle: Welcome Parents & New Students
-      id: infopic
-      description: Find out more about YISS!
-      button: Click Here
-      url: https://sites.google.com/moe.edu.sg/yiss-secondary-1-registration/home
-      image: /images/WhatsApp_Image_2024_10_03_at_1_41_25_PM.jpg
-      alt: Sec 1 Registration
-  - infopic:
       title: The Minister's Innovation Award 2022
       subtitle: We are honoured to be awarded
       description: For our campus' innovative design that supports learning beyond the
