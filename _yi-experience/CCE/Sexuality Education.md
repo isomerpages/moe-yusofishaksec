@@ -42,7 +42,7 @@ You may&nbsp;[click](https://go.gov.sg/moe-sexuality-education)&nbsp;here for mo
 
 **At Yusof Ishak Secondary School, the following Sexuality Lessons will be taught in 2025:**
 **SECONDARY 1**
-![](/images/Sec1_2024.jpg)
+![](/images/Sec1_2025.jpg)
 
 **SECONDARY 2**
 ![](/images/Sec2_2024.jpg)
