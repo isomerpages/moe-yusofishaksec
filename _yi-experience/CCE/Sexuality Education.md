@@ -40,7 +40,7 @@ You may&nbsp;[click](https://go.gov.sg/moe-sexuality-education)&nbsp;here for mo
 
 7.&nbsp; &nbsp; &nbsp; Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. .&nbsp;
 
-**At Yusof Ishak Secondary School, the following Sexuality Lessons will be taught in 2024:**
+**At Yusof Ishak Secondary School, the following Sexuality Lessons will be taught in 2025:**
 **SECONDARY 1**
 ![](/images/Sec1_2024.jpg)
 
