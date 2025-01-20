@@ -59,7 +59,7 @@ You may&nbsp;[click](https://go.gov.sg/moe-sexuality-education)&nbsp;here for mo
 
 9.&nbsp; &nbsp; &nbsp;Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.
 
-**At Yusof Ishak Secondary School, the eTeens programme will be implemented as follows in 2025:**
+**At Yusof Ishak Secondary School, the *eTeens* programme will be implemented as follows in 2025:**
 
 ![](/images/eTeens_2025.jpg)
 
