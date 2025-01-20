@@ -26,7 +26,7 @@ You may&nbsp;[click](https://go.gov.sg/moe-sexuality-education)&nbsp;here for mo
 
   
 
-**OVERVIEW OF YUSOF ISHAK SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024**
+**OVERVIEW OF YUSOF ISHAK SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025**
 
 4.&nbsp; &nbsp; &nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
