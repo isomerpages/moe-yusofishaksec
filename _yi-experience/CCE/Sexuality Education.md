@@ -67,7 +67,7 @@ You may&nbsp;[click](https://go.gov.sg/moe-sexuality-education)&nbsp;here for mo
 
 10.&nbsp; &nbsp; &nbsp;Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
 
-11.&nbsp; &nbsp; &nbsp;Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable &nbsp;[here.](https://form.gov.sg/678603a0a46c080930651f86).&nbsp;The completed form is to be submitted by 31/01/2025.
+11.&nbsp; &nbsp; &nbsp;Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable &nbsp;[here](https://form.gov.sg/678603a0a46c080930651f86).&nbsp;The completed form is to be submitted by 31/01/2025.
 
 12.&nbsp; &nbsp; &nbsp;Parents who wish to opt their children out of the&nbsp;***eTeens* programme**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here.](/files/MOE%20Sexuality%20Education/2024_YISS_SEd_Annex_B__eTeens_Opt_Out_.pdf) The completed form is to be submitted by 31/01/2025. 
 
