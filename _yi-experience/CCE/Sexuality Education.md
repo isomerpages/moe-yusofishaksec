@@ -26,7 +26,7 @@ You may&nbsp;[click](https://go.gov.sg/moe-sexuality-education)&nbsp;here for mo
 
   
 
-**OVERVIEW OF YUSOF ISHAK SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024**
+**OVERVIEW OF YUSOF ISHAK SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025**
 
 4.&nbsp; &nbsp; &nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -40,32 +40,35 @@ You may&nbsp;[click](https://go.gov.sg/moe-sexuality-education)&nbsp;here for mo
 
 7.&nbsp; &nbsp; &nbsp; Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. .&nbsp;
 
-**At Yusof Ishak Secondary School, the following Sexuality Lessons will be taught in 2024:**
+**At Yusof Ishak Secondary School, the following Sexuality Lessons will be taught in 2025:**
 **SECONDARY 1**
-![](/images/Sec1_2024.jpg)
+![](/images/Sec_1_2025.jpg)
 
 **SECONDARY 2**
-![](/images/Sec2_2024.jpg)
+![](/images/Sec_2.jpg)
 
 **SECONDARY 3**
-![](/images/Sec3_2024.jpg)
+![](/images/Sec3_2025.jpg)
 
-**eTeens Programme:**
+**SECONDARY 4**
+![](/images/Sec4_2025.jpg)
 
-8.&nbsp; &nbsp; &nbsp;eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+***eTeens* Programme:**
+
+8.&nbsp; &nbsp; &nbsp;*eTeens* is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. *eTeens* is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the *eTeens* programme is that students are empowered to make wise, informed and sensible decisions.
 
 9.&nbsp; &nbsp; &nbsp;Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.
 
-**At Yusof Ishak Secondary School, the eTeens programme will be implemented as follows in 2024:**
+**At Yusof Ishak Secondary School, the *eTeens* programme will be implemented as follows in 2025:**
 
-![](/images/eTeens.jpg)
+![](/images/eTeens_2025.jpg)
 
 **INFORMATION FOR PARENTS**
 
-10.&nbsp; &nbsp; &nbsp;Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
+10.&nbsp; &nbsp; &nbsp;Parents may opt their children out of the Sexuality Education lessons, *eTeens* and/or supplementary sexuality education programmes by MOE-approved external providers. 
 
-11.&nbsp; &nbsp; &nbsp;Parents who wish to opt their children out of the&nbsp;Sexuality Education lessons&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable &nbsp;[here](/files/MOE%20Sexuality%20Education/2024_YISS_SEd_Annex_A__Opt_Out_Form_.pdf).&nbsp;The completed form is to be submitted by 19/01/2024.
+11.&nbsp; &nbsp; &nbsp;Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable &nbsp;[here](https://form.gov.sg/678603a0a46c080930651f86).&nbsp;The completed form is to be submitted by 31/01/2025.
 
-12.&nbsp; &nbsp; &nbsp;Parents who wish to opt their children out of the&nbsp;eTeens programme&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here.](/files/MOE%20Sexuality%20Education/2024_YISS_SEd_Annex_B__eTeens_Opt_Out_.pdf) The completed form is to be submitted by 19/01/2024. 
+12.&nbsp; &nbsp; &nbsp;Parents who wish to opt their children out of the&nbsp;***eTeens* programme**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://form.gov.sg/678606154078da80088ac728). The completed form is to be submitted by 31/01/2025. 
 
 13.&nbsp; &nbsp; &nbsp;Parents can contact the school at email: yiss@moe.edu.sg or Tel No. 65009800 for discussion or to seek clarification about the school’s Sexuality Education Programme.
