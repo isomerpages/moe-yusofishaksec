@@ -69,6 +69,6 @@ You may&nbsp;[click](https://go.gov.sg/moe-sexuality-education)&nbsp;here for mo
 
 11.&nbsp; &nbsp; &nbsp;Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable &nbsp;[here](https://form.gov.sg/678603a0a46c080930651f86).&nbsp;The completed form is to be submitted by 31/01/2025.
 
-12.&nbsp; &nbsp; &nbsp;Parents who wish to opt their children out of the&nbsp;***eTeens* programme**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here.](/files/MOE%20Sexuality%20Education/2024_YISS_SEd_Annex_B__eTeens_Opt_Out_.pdf) The completed form is to be submitted by 31/01/2025. 
+12.&nbsp; &nbsp; &nbsp;Parents who wish to opt their children out of the&nbsp;***eTeens* programme**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://form.gov.sg/678606154078da80088ac728). The completed form is to be submitted by 31/01/2025. 
 
 13.&nbsp; &nbsp; &nbsp;Parents can contact the school at email: yiss@moe.edu.sg or Tel No. 65009800 for discussion or to seek clarification about the school’s Sexuality Education Programme.
