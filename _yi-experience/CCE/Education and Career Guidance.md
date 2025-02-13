@@ -13,7 +13,7 @@ informed decisions on post-secondary education and career options. Students
 who would like to explore more about subject choices, enquire about post-secondary
 education pathways or find out more about their career interests, strengths
 and passions, can have a chat with her.</p>
-<p>Booking link:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/yiss-ecgc<br>Email</a>:&nbsp;
+<p>Booking link:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/yiss-ecgc<br></a>Email:&nbsp;
 <a rel="noopener noreferrer nofollow" target="_blank">lim_hui_ching_a@moe.edu.sg</a>
 </p>
 <p></p>
