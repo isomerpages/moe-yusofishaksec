@@ -16,6 +16,8 @@ and passions, can have a chat with her.</p>
 <p>Booking link:&nbsp;<a href="https://go.gov.sg/yiss-ecgc" rel="noopener nofollow" target="_blank">https://go.gov.sg/yiss-ecgc</a>
 <a rel="noopener noreferrer nofollow" target="_blank">
 <br>
-</a>Email: lim_hui_ching_a@moe.edu.sg</p>
+</a>
+</p>
+<p>Email: lim_hui_ching_a@moe.edu.sg</p>
 <p></p>
 <p></p>
