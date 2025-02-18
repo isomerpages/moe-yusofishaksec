@@ -14,9 +14,6 @@ who would like to explore more about subject choices, enquire about post-seconda
 education pathways or find out more about their career interests, strengths
 and passions, can have a chat with her.</p>
 <p>Booking link:&nbsp;<a href="https://go.gov.sg/yiss-ecgc" rel="noopener nofollow" target="_blank">https://go.gov.sg/yiss-ecgc</a>
-<a rel="noopener noreferrer nofollow" target="_blank">
-<br>
-</a>
 </p>
 <p>Email: lim_hui_ching_a@moe.edu.sg</p>
 <p></p>
