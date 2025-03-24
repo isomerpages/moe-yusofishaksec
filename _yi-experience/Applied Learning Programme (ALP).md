@@ -137,8 +137,7 @@ Biodiversity Symphony as a School in a Garden”</p>
 <p>Development of YI AgriSphere Lab and Garden learning spaces&nbsp;</p>
 </li>
 <li>
-<p>Participation in the SUTD STEAMunity Programme 2024
-<br>(<strong><a href="https://www.mewatch.sg/show/National-Stem-Championship-2024-487037" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.sutd.edu.sg/About/happenings/Media-Releases/2024/9/SUTD-Science-Centre-Launch-Community-Programme</u></a> </strong>)</p>
+<p>Participation in the SUTD STEAMunity Programme 2024</p>
 </li>
 <li>
 <p>Organised the inaugural Youth Innovation and STEM Sprint (YISS) 2024 for
