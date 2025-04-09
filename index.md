@@ -13,17 +13,13 @@ sections:
       title: Welcome to Yusof Ishak Secondary School!
       id: textcards
       cards:
+        - title: DSA Open House 2025
+          description: 17 May (Sat), 8.30am - 11.30am
+          linktext: Register Now!
+          url: ""
         - title: Latest Happenings
           description: Check out our Social Media page for the latest happenings at YI!
           linktext: YISS Instagram
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
           url: ""
   - infopic:
       title: The Minister's Innovation Award 2022
