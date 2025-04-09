@@ -9,6 +9,22 @@ sections:
   - hero:
       variant: image
       background: /images/Yusof Ishak Secondary (2).png
+  - textcards:
+      title: Welcome to Yusof Ishak Secondary School!
+      id: textcards
+      cards:
+        - title: Latest Happenings
+          description: Check out our Social Media page for the latest happenings at YI!
+          linktext: YISS Instagram
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
   - infopic:
       title: The Minister's Innovation Award 2022
       subtitle: We are honoured to be awarded
@@ -28,20 +44,4 @@ sections:
       url: /yi-stories/yiinthenews/
       alt: Image alt text
       image: /images/CIN_Website_Update.jpg
-  - textcards:
-      title: Latest Happenings
-      id: textcards
-      cards:
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
 ---
