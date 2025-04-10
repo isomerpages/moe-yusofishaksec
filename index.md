@@ -10,12 +10,15 @@ sections:
       variant: image
       background: /images/Yusof Ishak Secondary (2).png
       key_highlights:
-        - title: Latest Happenings
-          description: Check out our IG page!
-          url: https://www.instagram.com/y.i.official/
+        - title: Direct Schools Admission
+          description: Info on YISS DSA Application
+          url: ""
         - title: DSA Open House 2025
           description: 17 May (Sat), 8.30 - 11.30am
           url: ""
+        - title: Latest Happenings
+          description: Check out our IG page!
+          url: https://www.instagram.com/y.i.official/
   - infopic:
       title: The Minister's Innovation Award 2022
       subtitle: We are honoured to be awarded
