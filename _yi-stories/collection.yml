@@ -2,5 +2,4 @@ collections:
   yi-stories:
     output: true
     order:
-      - Happenings.md
       - Testimonials.md
