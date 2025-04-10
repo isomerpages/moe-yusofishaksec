@@ -2,6 +2,7 @@ collections:
   yi-connect:
     output: true
     order:
+      - Parent Support Group (PSG).md
       - Opportunities/School Canteen Advertisement.md
       - Opportunities/.keep
       - Useful Links for Teachers.md
