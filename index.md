@@ -14,7 +14,7 @@ sections:
           description: Check out our IG page!
           url: https://www.instagram.com/y.i.official/
         - title: DSA Open House 2025
-          description: Register Here!
+          description: 17 May (Sat), 8.30 - 11.30am
           url: ""
   - infopic:
       title: The Minister's Innovation Award 2022
