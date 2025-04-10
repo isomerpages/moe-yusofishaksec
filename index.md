@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       variant: image
-      background: /images/Yusof Ishak Secondary (2).png
+      background: /images/banner_draft.png
       key_highlights:
         - title: Direct Schools Admission
           description: Info on YISS DSA Application
