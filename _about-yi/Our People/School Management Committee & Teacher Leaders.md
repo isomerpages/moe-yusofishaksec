@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h1><strong>School Management Team</strong></h1>
-<h3>Key Personnel</h3>
+<h1><strong>School Management Committee</strong></h1>
+<h3></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -251,6 +251,63 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h1><strong>Teacher Leaders</strong></h1>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>NAME</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>APPOINTMENT</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Kiang Meng, Anthony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher (Chemistry)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Donavan Lau</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher (Physics)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Mui Hoon, Amanda</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Art)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Hurul Ain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (History)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Patrick Ang Peng Siang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Physics)</p>
 </td>
 </tr>
 </tbody>
