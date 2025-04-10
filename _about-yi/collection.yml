@@ -2,18 +2,18 @@ collections:
   about-yi:
     output: true
     order:
-      - Our Achievements & Highlights/2023.md
-      - Our Achievements & Highlights/2024.md
-      - Our Achievements & Highlights/.keep
       - Principal’s Welcome.md
+      - Our Identity/.keep
       - Our Identity/Learning Spaces.md
       - Our Identity/Our Heritage.md
       - Our Identity/School Vision and Mission.md
       - Our Identity/School Song.md
-      - Our Identity/.keep
-      - Centre for Teaching and Learning Excellence.md
       - Our People/.keep
       - Our People/School Advisory Committee.md
       - Our People/School Management Committee & Teacher Leaders.md
       - Our People/Teaching Staff.md
       - Our People/Student Support Staff.md
+      - Centre for Teaching and Learning Excellence.md
+      - Our Achievements & Highlights/.keep
+      - Our Achievements & Highlights/2023.md
+      - Our Achievements & Highlights/2024.md
