@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 2023 Yearbook.md
-      - Achievements/.keep
       - YI In the News.md
       - Happenings.md
       - Testimonials.md
