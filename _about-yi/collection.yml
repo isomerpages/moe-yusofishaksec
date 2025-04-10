@@ -2,6 +2,7 @@ collections:
   about-yi:
     output: true
     order:
+      - Our Identity.md
       - Principal’s Welcome.md
       - Our Heritage/Our Heritage.md
       - Our Heritage/School Vision and Mission.md
