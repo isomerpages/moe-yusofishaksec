@@ -1,5 +1,4 @@
 collections:
   yi-stories:
     output: true
-    order:
-      - Testimonials.md
+    order: []
