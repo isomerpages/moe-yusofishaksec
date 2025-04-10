@@ -19,23 +19,4 @@ sections:
         - title: Latest Happenings
           description: Check out our IG page!
           url: https://www.instagram.com/y.i.official/
-  - infopic:
-      title: The Minister's Innovation Award 2022
-      subtitle: We are honoured to be awarded
-      description: For our campus' innovative design that supports learning beyond the
-        traditional classroom.
-      button: Find out more
-      url: /yi-stories/yiinthenews/
-      image: /images/yiss minister innovation award 2023.jpeg
-      alt: Minister's Innovation Award
-  - infopic:
-      title: 2024 Community in Nature - School & Student of the Year
-      subtitle: We are Honoured to be Awarded
-      id: infopic
-      description: By National Parks Board (NParks) to recognise our work in
-        advocating for the conservation of local biodiversity!
-      button: Find out more
-      url: /yi-stories/yiinthenews/
-      alt: Image alt text
-      image: /images/CIN_Website_Update.jpg
 ---
