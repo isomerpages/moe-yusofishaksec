@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Direct Schools Admission
           description: Info on YISS DSA Application
-          url: ""
+          url: /yi-experience/dsa/
         - title: DSA Open House 2025
           description: 17 May (Sat), 8.30 - 11.30am
           url: ""
