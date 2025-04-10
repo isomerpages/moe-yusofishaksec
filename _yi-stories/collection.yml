@@ -2,6 +2,5 @@ collections:
   yi-stories:
     output: true
     order:
-      - YI In the News.md
       - Happenings.md
       - Testimonials.md
