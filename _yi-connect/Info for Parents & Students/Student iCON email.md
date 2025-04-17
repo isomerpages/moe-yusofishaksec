@@ -3,6 +3,7 @@ title: Student iCON email
 permalink: /yi-connect/useful-links-for-students/student-icon-email/
 description: ""
 third_nav_title: Info for Parents & Students
+variant: markdown
 ---
 # **Student iCON email**
 
@@ -25,7 +26,7 @@ The password for your student iCON is the same password as your windows login
 
 You have been given a handout with your student iCON email address and password. 
 
-If you are locked out of your account please look for Mr Nazeen or Mr Nofal at Digital trek (level 5) at the following hours to reset your password. 
+If you are locked out of your account please look for the Desktop Engineer at Digital trek (level 5) at the following hours to reset your password. 
 
   
 
