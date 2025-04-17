@@ -1,12 +1,10 @@
 logo: /images/logo.png
 links:
-  - title: About Yi
+  - title: ABOUT YI
     collection: about-yi
-  - title: YI Experience
+  - title: YI EXPERIENCE
     collection: yi-experience
-  - title: YI Stories
-    collection: yi-stories
-  - title: YI Connect
+  - title: Join Us!
+    collection: join-us
+  - title: YI CONNECT
     collection: yi-connect
-  - title: YI Community
-    collection: yi-community

@@ -1,0 +1,7 @@
+collections:
+  join-us:
+    output: true
+    order:
+      - Direct School Admissions into Secondary Schools (DSA SEC).md
+      - Open House 2025.md
+      - Secondary 1 Registration.md
