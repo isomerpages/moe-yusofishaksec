@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Info for Parents & Students
 variant: markdown
 ---
-# **Useful Links for Students**
+# **Useful Links for Parents and Students**
 
 *   [School Rules](/yi-connect/useful-links-for-students/school-rules)  
 *   [YISS Inspires](https://go.gov.sg/yissinspires)
