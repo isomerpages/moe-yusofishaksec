@@ -428,7 +428,7 @@ email: <a rel="noopener noreferrer nofollow" target="_blank">yiss@moe.edu.sg</a>
 <p>&nbsp;DSA-Sec Main Webpage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a> 
+<p><a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 </td>
 </tr>
@@ -437,7 +437,7 @@ email: <a rel="noopener noreferrer nofollow" target="_blank">yiss@moe.edu.sg</a>
 <p>Instructions on Application&nbsp;(Mainstream students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a> 
+<p><a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
 </p>
 </td>
 </tr>
@@ -446,7 +446,7 @@ email: <a rel="noopener noreferrer nofollow" target="_blank">yiss@moe.edu.sg</a>
 <p>Instructions on Application&nbsp;(Non Mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a> 
+<p><a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
 </td>
 </tr>
@@ -455,7 +455,7 @@ email: <a rel="noopener noreferrer nofollow" target="_blank">yiss@moe.edu.sg</a>
 <p>Direct to DSA-Sec Portal (Mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a> 
+<p><a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
 </p>
 </td>
 </tr>
@@ -464,7 +464,7 @@ email: <a rel="noopener noreferrer nofollow" target="_blank">yiss@moe.edu.sg</a>
 <p>Direct to DSA-Sec Portal&nbsp;(Non Mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a> 
+<p><a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
 </p>
 </td>
 </tr>
@@ -473,7 +473,7 @@ email: <a rel="noopener noreferrer nofollow" target="_blank">yiss@moe.edu.sg</a>
 <p>DSA-Sec iFAQs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/dsa-secfaqs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a> 
+<p><a href="https://go.gov.sg/dsa-secfaqs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
 </p>
 </td>
 </tr>
@@ -482,7 +482,7 @@ email: <a rel="noopener noreferrer nofollow" target="_blank">yiss@moe.edu.sg</a>
 <p>DSA-Sec School Finder</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/dsa-secschfinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a> 
+<p><a href="https://go.gov.sg/dsa-secschfinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
 </p>
 </td>
 </tr>
