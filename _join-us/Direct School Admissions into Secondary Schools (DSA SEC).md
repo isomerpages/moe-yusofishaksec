@@ -406,7 +406,7 @@ the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1-4.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>Contact Details</u></strong>
 </p>
 <p>For more information on DSA and general application process, please visit
