@@ -35,6 +35,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Cheong Tien Beng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (EO)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Loh Sein Ling</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -157,14 +165,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kennard Seah
-<br>
-</p>
+<p>Mr Kennard Seah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head / Strategic Communication &amp; Outreach
-<br>
-</p>
+<p>Level Head / Science</p>
 </td>
 </tr>
 <tr>
