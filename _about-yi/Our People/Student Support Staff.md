@@ -38,18 +38,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Hui Ching</p>
+<p>Ms Lanurse Chen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Education and Career Guidance Counsellor</p>
+<p>School Counsellor</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jacintha</p>
+<p>Ms Lim Hui Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student Health Advisor</p>
+<p>Education and Career Guidance Counsellor</p>
 </td>
 </tr>
 </tbody>
