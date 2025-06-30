@@ -74,7 +74,7 @@ variant: tiptap
 <p>1 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rowena Tan and Ms Grace Heng</p>
+<p>Ms Rowena Tan , Ms Grace Heng and Mr Nicholas Wong</p>
 </td>
 </tr>
 <tr>
@@ -114,7 +114,7 @@ variant: tiptap
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teoh Su-Mei Jeanette</p>
+<p>Ms Teoh Su-Mei Jeanette and Ms Nur Hidayah Hamidi</p>
 </td>
 </tr>
 <tr>
@@ -162,7 +162,7 @@ variant: tiptap
 <p>2 Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Eileen Sin Yu Ling</p>
+<p>Ms Eileen Sin Yu Ling and Ms Siti Nur Azmina Binte Abdul Razak</p>
 </td>
 </tr>
 <tr>
@@ -178,7 +178,7 @@ variant: tiptap
 <p>2 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Kiang Meng Anthony</p>
+<p>Ms Sharifah Nadia and Mr Tan Kiang Meng Anthony</p>
 </td>
 </tr>
 <tr>
@@ -194,7 +194,7 @@ variant: tiptap
 <p>3 Self-respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zurianah</p>
+<p>Mdm Zurianah and Mr Suhaili Ramlee</p>
 </td>
 </tr>
 <tr>
@@ -234,7 +234,7 @@ variant: tiptap
 <p>3 Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Anna Chew and Mr Sim Jie Kai, Shaun</p>
+<p>Ms Anna Chew and Mrs Amanda Lee</p>
 </td>
 </tr>
 <tr>
