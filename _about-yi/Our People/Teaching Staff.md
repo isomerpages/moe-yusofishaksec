@@ -258,7 +258,7 @@ variant: tiptap
 <p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Low Qin Tian, Mr Teng Cheah Boon</p>
+<p>Mdm Low Qin Tian and Mr Teng Cheah Boon</p>
 </td>
 </tr>
 <tr>
@@ -290,7 +290,7 @@ variant: tiptap
 <p>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Mei Qiao and Mr Chan Xiao Yi and Ms Cheryl Yeoh Hui Ming</p>
+<p>Ms Lim Mei Qiao, Mr Chan Xiao Yi and Ms Cheryl Yeoh Hui Ming</p>
 </td>
 </tr>
 <tr>
