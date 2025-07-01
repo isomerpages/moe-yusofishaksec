@@ -74,7 +74,7 @@ variant: tiptap
 <p>1 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rowena Tan , Ms Grace Heng and Mr Nicholas Wong</p>
+<p>Ms Rowena Tan and Mr Nicholas Wong</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +146,7 @@ variant: tiptap
 <p>2 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Mui Hoon Amanda</p>
+<p>Ms Lim Mui Hoon Amanda and Mr Desmond Loh Huiyang</p>
 </td>
 </tr>
 <tr>
@@ -298,7 +298,7 @@ variant: tiptap
 <p>4 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Xin Wei and Mr CHin Khai Fung</p>
+<p>Mdm Koh Xin Wei and Mr Chin Khai Fung</p>
 </td>
 </tr>
 <tr>
