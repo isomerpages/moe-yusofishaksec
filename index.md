@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       variant: image
-      background: /images/YISS_Website_Banner.jpg
+      background: /images/banner_without_text.jpg
       key_highlights:
         - title: Direct Schools Admission
           description: Info on YISS DSA Application
