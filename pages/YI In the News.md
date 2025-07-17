@@ -3,7 +3,6 @@ title: YI In the News
 permalink: /yi-stories/yiinthenews/
 description: ""
 variant: tiptap
-third_nav_title: Our Achievements & Highlights
 ---
 <h1><strong>YI In the News!</strong></h1>
 <p>Our school has been featured across a variety of media publications. Find
