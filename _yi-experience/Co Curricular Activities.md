@@ -89,7 +89,7 @@ by the school are as follows:</p>
 <p>Basketball (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ELDDS</p>
+<p>English Drama</p>
 </td>
 </tr>
 <tr>
