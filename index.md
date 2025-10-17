@@ -21,7 +21,6 @@ sections:
           url: https://www.instagram.com/y.i.official/
   - infopic:
       title: Open House
-      subtitle: Add an image and text
       id: infopic
       button: Click here to find out more
       url: https://sites.google.com/moe.edu.sg/yissopenhouse/home
