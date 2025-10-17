@@ -19,4 +19,12 @@ sections:
         - title: Latest Happenings
           description: Check out our IG page!
           url: https://www.instagram.com/y.i.official/
+  - infopic:
+      title: Open House
+      subtitle: Add an image and text
+      id: infopic
+      button: Click here to find out more
+      url: https://sites.google.com/moe.edu.sg/yissopenhouse/home
+      image: /images/Social_Media___MOTD_Graphic__Website_.png
+      alt: Image alt text
 ---
