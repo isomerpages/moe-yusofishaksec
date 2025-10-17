@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       variant: image
-      background: /images/Social_Media___MOTD_Graphic__Website_.png
+      background: /images/banner_without_text.jpg
       key_highlights:
         - title: Direct Schools Admission
           description: Info on YISS DSA Application
@@ -19,4 +19,11 @@ sections:
         - title: Latest Happenings
           description: Check out our IG page!
           url: https://www.instagram.com/y.i.official/
+  - infopic:
+      title: Open House
+      id: infopic
+      button: Click here to find out more
+      url: https://sites.google.com/moe.edu.sg/yissopenhouse/home
+      image: /images/Social_Media___MOTD_Graphic__Website_.png
+      alt: Image alt text
 ---
