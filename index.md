@@ -20,10 +20,12 @@ sections:
           description: Check out our IG page!
           url: https://www.instagram.com/y.i.official/
   - infopic:
-      title: Open House
+      title: YISS Open House 2025
       id: infopic
       button: Click here to find out more
       url: https://sites.google.com/moe.edu.sg/yissopenhouse/home
       image: /images/Social_Media___MOTD_Graphic__Website_.png
       alt: Image alt text
+      subtitle: Join us at 8 SUMANG WALK for
+      description: 22 Nov (Sat), 8.30am - 12.30pm
 ---
