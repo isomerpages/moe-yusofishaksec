@@ -15,7 +15,7 @@ sections:
           url: /yi-experience/dsa/
         - title: Register for YISS Open House 2025
           description: 22 Nov (Sat), 8.30 - 12.30pm
-          url: https://2025-yissopenhouse.app.entry.gov.sg/form/c11879ac-59d8-45d3-84eb-0e16e6c4b3e1
+          url: https://sites.google.com/moe.edu.sg/yissopenhouse/home
         - title: Latest Happenings
           description: Check out our IG page!
           url: https://www.instagram.com/y.i.official/
