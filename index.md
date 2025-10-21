@@ -13,9 +13,9 @@ sections:
         - title: Direct Schools Admission
           description: Info on YISS DSA Application
           url: /yi-experience/dsa/
-        - title: Register for DSA Open House 2025
-          description: 17 May (Sat), 8.30 - 11.30am
-          url: https://go.gov.sg/yissdsaoh25
+        - title: Register for YISS Open House 2025
+          description: 22 Nov (Sat), 8.30 - 12.30pm
+          url: https://2025-yissopenhouse.app.entry.gov.sg/form/c11879ac-59d8-45d3-84eb-0e16e6c4b3e1
         - title: Latest Happenings
           description: Check out our IG page!
           url: https://www.instagram.com/y.i.official/
