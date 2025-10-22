@@ -10,15 +10,15 @@ sections:
       variant: image
       background: /images/banner_without_text.jpg
       key_highlights:
-        - title: Direct Schools Admission
-          description: Info on YISS DSA Application
-          url: /yi-experience/dsa/
         - title: Register for YISS Open House 2025
           description: 22 Nov (Sat), 8.30 - 12.30pm
           url: https://sites.google.com/moe.edu.sg/yissopenhouse/home
         - title: Latest Happenings
           description: Check out our IG page!
           url: https://www.instagram.com/y.i.official/
+        - title: Direct Schools Admission
+          description: Info on YISS DSA Application
+          url: /yi-experience/dsa/
   - infopic:
       title: YISS Open House 2025
       id: infopic
