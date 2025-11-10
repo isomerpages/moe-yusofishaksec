@@ -6,4 +6,4 @@ variant: markdown
 ---
 ## **SECONDARY 1 REGISTRATION **
 
-Click [here](https://sites.google.com/moe.edu.sg/yiss-secondary-1-registration/home) for more information.
+More information coming soon.
