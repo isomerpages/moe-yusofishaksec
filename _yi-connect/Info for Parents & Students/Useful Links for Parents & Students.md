@@ -7,6 +7,7 @@ variant: markdown
 ---
 # **Useful Links for Parents and Students**
 
+*   [2025 N Level Results Release](https://yusofishaksec.moe.edu.sg/2025-n-level-results-release/)
 *   [School Rules](/yi-connect/useful-links-for-students/school-rules)  
 *   [YISS Inspires](https://go.gov.sg/yissinspires)
 *   [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
