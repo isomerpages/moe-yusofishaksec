@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: 2025 N Level Results Release
           description: 18 Dec (Thurs), 2pm
-          url: https://www.yusofishaksec.moe.edu.sg/yi-connect/useful-links-for-parents-students/
+          url: https://yusofishaksec.moe.edu.sg/2025-n-level-results-release/
         - title: Latest Happenings
           description: Check out our IG page!
           url: https://www.instagram.com/y.i.official/
@@ -25,7 +25,7 @@ sections:
       id: infobar
       description: 18 Dec (Thurs), 2pm
       button: CLICK HERE TO FIND OUT MORE
-      url: https://www.yusofishaksec.moe.edu.sg/yi-connect/useful-links-for-parents-students/
+      url: https://yusofishaksec.moe.edu.sg/2025-n-level-results-release/
   - infopic:
       title: YISS Open House 2025
       id: infopic
