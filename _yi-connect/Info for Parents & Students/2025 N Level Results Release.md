@@ -29,8 +29,7 @@ the links below:</p>
 <p>Social and Emotional Learning – Resources for Parents
 <br><a href="http://go.gov.sg/nlevel-selparentresources" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/nlevel-selparentresources</a>
 </p>
-<p>&nbsp;</p>
-<h4>Collection of GCE N-Level Results</h4>
+<h4><strong>Collection of GCE N-Level Results</strong></h4>
 <p>All graduating students are to report back to school to collect their
 results.</p>
 <p>Date: 18 Dec 2025 (Thursday)
