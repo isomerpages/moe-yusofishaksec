@@ -10,15 +10,22 @@ sections:
       variant: image
       background: /images/banner_without_text.jpg
       key_highlights:
-        - title: Register for YISS Open House 2025
-          description: 22 Nov (Sat), 8.30 - 12.30pm
-          url: https://sites.google.com/moe.edu.sg/yissopenhouse/home
+        - title: 2025 N Level Results Release
+          description: 18 Dec (Thurs), 2pm
+          url: https://www.yusofishaksec.moe.edu.sg/yi-connect/useful-links-for-parents-students/
         - title: Latest Happenings
           description: Check out our IG page!
           url: https://www.instagram.com/y.i.official/
         - title: Direct Schools Admission
           description: Info on YISS DSA Application
           url: /yi-experience/dsa/
+  - infobar:
+      title: 2025 N Level Results Release
+      subtitle: Announcement
+      id: infobar
+      description: 18 Dec (Thurs), 2pm
+      button: CLICK HERE TO FIND OUT MORE
+      url: https://www.yusofishaksec.moe.edu.sg/yi-connect/useful-links-for-parents-students/
   - infopic:
       title: YISS Open House 2025
       id: infopic
