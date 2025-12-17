@@ -21,13 +21,13 @@ guidance, as well as details on admissions exercises and post-secondary
 programmes, students and parents/guardians may refer to the <a href="/files/Info_Sheet_for_Parents__N_Level_.pdf" rel="noopener noreferrer nofollow" target="_blank">Info Sheet for Parents</a> and
 the links below:</p>
 <p>Admissions Exercises and Programmes
-<br><a href="https://www.moe.gov.sg/post-secondary/admissions/n-level#n-level" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/n-level#n-level</a> 
+<br><a href="https://www.moe.gov.sg/post-secondary/admissions/n-level#n-level" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/n-level#n-level</a>
 </p>
 <p>Education and Career Guidance (ECG) – Parent Resources
-<br><a href="http://go.gov.sg/nlevel-ecgparentresources" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/nlevel-ecgparentresources</a> 
+<br><a href="http://go.gov.sg/nlevel-ecgparentresources" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/nlevel-ecgparentresources</a>
 </p>
 <p>Social and Emotional Learning – Resources for Parents
-<br><a href="http://go.gov.sg/nlevel-selparentresources" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/nlevel-selparentresources</a> 
+<br><a href="http://go.gov.sg/nlevel-selparentresources" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/nlevel-selparentresources</a>
 </p>
 <p>&nbsp;</p>
 <h4>Collection of GCE N-Level Results</h4>
