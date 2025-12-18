@@ -23,8 +23,10 @@ sections:
       title: Sec 1 Registration
       subtitle: ANNOUNCEMENT
       id: infobar
-      button: CLICK HERE TO FIND OUT MORE
+      button: CLICK HERE
       url: https://www.yusofishaksec.moe.edu.sg/about-yi/secondary-1-registration/
+      description: A warm welcome to our new Secondary 1 Yusoffians and parents!
+        Please click the link below for our Sec 1 Registration microsite
   - infobar:
       title: 2025 N Level Results Release
       subtitle: Announcement
