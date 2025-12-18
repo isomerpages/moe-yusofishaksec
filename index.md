@@ -10,15 +10,21 @@ sections:
       variant: image
       background: /images/banner_without_text.jpg
       key_highlights:
+        - title: Sec 1 Registration
+          description: Info on Sec 1 Registration
+          url: https://www.yusofishaksec.moe.edu.sg/about-yi/secondary-1-registration/
         - title: 2025 N Level Results Release
           description: 18 Dec (Thurs), 2pm
           url: https://yusofishaksec.moe.edu.sg/2025-n-level-results-release/
         - title: Latest Happenings
           description: Check out our IG page!
           url: https://www.instagram.com/y.i.official/
-        - title: Direct Schools Admission
-          description: Info on YISS DSA Application
-          url: /yi-experience/dsa/
+  - infobar:
+      title: Sec 1 Registration
+      subtitle: ANNOUNCEMENT
+      id: infobar
+      button: CLICK HERE TO FIND OUT MORE
+      url: https://www.yusofishaksec.moe.edu.sg/about-yi/secondary-1-registration/
   - infobar:
       title: 2025 N Level Results Release
       subtitle: Announcement
