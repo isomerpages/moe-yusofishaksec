@@ -20,6 +20,12 @@ sections:
           description: Check out our IG page!
           url: https://www.instagram.com/y.i.official/
   - infobar:
+      title: Sec 1 Registration
+      subtitle: ANNOUNCEMENT
+      id: infobar
+      button: CLICK HERE TO FIND OUT MORE
+      url: https://www.yusofishaksec.moe.edu.sg/about-yi/secondary-1-registration/
+  - infobar:
       title: 2025 N Level Results Release
       subtitle: Announcement
       id: infobar
