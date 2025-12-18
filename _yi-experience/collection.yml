@@ -2,6 +2,7 @@ collections:
   yi-experience:
     output: true
     order:
+      - Year Book.md
       - Academic Programmes/.keep
       - Academic Programmes/English Language & Literature Department.md
       - Academic Programmes/Mother Tongue Languages Department.md
