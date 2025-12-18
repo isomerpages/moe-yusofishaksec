@@ -19,14 +19,16 @@ sections:
         - title: Latest Happenings
           description: Check out our IG page!
           url: https://www.instagram.com/y.i.official/
-  - infobar:
+  - infopic:
       title: Sec 1 Registration
       subtitle: ANNOUNCEMENT
-      id: infobar
-      button: CLICK HERE
-      url: https://sites.google.com/moe.edu.sg/yiss-secondary-1-registration/home/registration
+      id: infopic
       description: A warm welcome to our new Secondary 1 Yusoffians and parents!
         Please click the link below for our Sec 1 Registration microsite
+      button: CLICK HERE
+      url: https://sites.google.com/moe.edu.sg/yiss-secondary-1-registration/home/registration
+      image: /images/Student_Group_Photo.jpg
+      alt: Image alt text
   - infobar:
       title: 2025 N Level Results Release
       subtitle: Announcement
@@ -43,14 +45,4 @@ sections:
       alt: Image alt text
       subtitle: Join us at 8 SUMANG WALK for
       description: 22 Nov (Sat), 8.30am - 12.30pm
-  - infopic:
-      title: Sec 1 Registration
-      subtitle: ANNOUNCEMENT
-      id: infopic
-      description: A warm welcome to our new Secondary 1 Yusoffians and parents!
-        Please click the link below for our Sec 1 Registration microsite
-      button: CLICK HERE
-      url: https://sites.google.com/moe.edu.sg/yiss-secondary-1-registration/home/registration
-      image: /images/Student_Group_Photo.jpg
-      alt: Image alt text
 ---
