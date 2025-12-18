@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Sec 1 Registration
           description: Info on Sec 1 Registration
-          url: https://www.yusofishaksec.moe.edu.sg/about-yi/secondary-1-registration/
+          url: https://sites.google.com/moe.edu.sg/yiss-secondary-1-registration/home/registration
         - title: 2025 N Level Results Release
           description: 18 Dec (Thurs), 2pm
           url: https://yusofishaksec.moe.edu.sg/2025-n-level-results-release/
