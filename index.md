@@ -24,7 +24,7 @@ sections:
       subtitle: ANNOUNCEMENT
       id: infopic
       description: A warm welcome to our new Secondary 1 Yusoffians and parents!
-        Please click the link below for our Sec 1 Registration microsite
+        Please click the link below for our Sec 1 Registration microsite.
       button: CLICK HERE
       url: https://sites.google.com/moe.edu.sg/yiss-secondary-1-registration/home/registration
       image: /images/Student_Group_Photo.jpg
