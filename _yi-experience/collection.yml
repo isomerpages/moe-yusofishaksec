@@ -2,7 +2,6 @@ collections:
   yi-experience:
     output: true
     order:
-      - Year Book.md
       - Academic Programmes/.keep
       - Academic Programmes/English Language & Literature Department.md
       - Academic Programmes/Mother Tongue Languages Department.md
@@ -21,3 +20,4 @@ collections:
       - Learning for Life Programme (LLP).md
       - Personalised Digital Learning Programme (PDLP).md
       - Home Based Learning.md
+      - Year Book.md
