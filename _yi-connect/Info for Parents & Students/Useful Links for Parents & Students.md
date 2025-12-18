@@ -14,4 +14,4 @@ variant: markdown
 *   [Book appointment with ECG Counsellor](https://go.gov.sg/yiss-ecgc)
 *   [Book appointment with School Counsellor](https://form.gov.sg/61cfde5d2e38540012ff2a13)
 *   [Google Classroom](https://classroom.google.com/) 
-*   [Rental of Lockers](https://tinyurl.com/YISSlocker)
+*   [Rental of Lockers](https://acrobat.adobe.com/id/urn:aaid:sc:AP:3e5a1df5-05fe-48e2-a918-3891278eea44)
