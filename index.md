@@ -29,13 +29,6 @@ sections:
       url: https://sites.google.com/moe.edu.sg/yiss-secondary-1-registration/home/registration
       image: /images/Student_Group_Photo.jpg
       alt: Image alt text
-  - infobar:
-      title: 2025 N Level Results Release
-      subtitle: Announcement
-      id: infobar
-      description: 18 Dec (Thurs), 2pm
-      button: CLICK HERE TO FIND OUT MORE
-      url: https://yusofishaksec.moe.edu.sg/2025-n-level-results-release/
   - infopic:
       title: YISS Open House 2025
       id: infopic
