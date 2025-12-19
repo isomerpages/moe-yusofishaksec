@@ -43,7 +43,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Loh Sein Ling</p>
+<p>Ms Goh Lay Ching</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal (EO)</p>
@@ -91,7 +91,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Lay Ching
+<p>Mr Kennard Seah
 <br>
 </p>
 </td>
