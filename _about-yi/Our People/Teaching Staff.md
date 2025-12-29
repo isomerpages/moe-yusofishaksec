@@ -47,34 +47,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Tea</p>
+<p>1 Teamwork</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Amirah and Mr Ignatius Shepherdson</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Inquisitiveness</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Hong Liang and Ms Janne Low</p>
+<p>Mr Teng Cheah Boon &amp; Ms Wileen Png</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Resilience</p>
+<p>1 Curiosity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Rachel Lim and Ms Izzah</p>
+<p>Mr Alan Teo &amp; Ms Zheng Jinglin</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Empathy</p>
+<p>1 Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rowena Tan and Mr Nicholas Wong</p>
+<p>Ms Lim Mei Qiao &amp; Mr Donovan Loh</p>
 </td>
 </tr>
 <tr>
@@ -82,7 +74,15 @@ variant: tiptap
 <p>1 Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sarah Nyam and Mr Alim</p>
+<p>Ms Elisa Chng &amp; Ms Sharifah Nadia Binte Syed Ameer Ali</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Discovery</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Amanda Lee &amp; Mr Desmond Loh</p>
 </td>
 </tr>
 <tr>
