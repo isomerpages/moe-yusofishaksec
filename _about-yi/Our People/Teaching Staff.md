@@ -23,10 +23,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Believe</p>
+<p>1 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lin Wenyuan and Ms Tay Xiu Yu</p>
+<p>Ms Jeanette Teoh &amp; Noor Hayati</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chin Khai Fung &amp; Ms Siti Azmina</p>
 </td>
 </tr>
 <tr>
@@ -34,55 +42,23 @@ variant: tiptap
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Jia Xuan and Ms Phang Yan See</p>
+<p>Mr Low Min Chai &amp; Ms Nur Hidayah Binte Hamidi</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Self-respect</p>
+<p>1 Teamwork</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Eileen Chia and Ms Elisa Chng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Purpose</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Amirah and Mr Ignatius Shepherdson</p>
+<p>Mr Teng Cheah Boon &amp; Ms Wileen Png</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Inquisitiveness</p>
+<p>1 Curiosity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Hong Liang and Ms Janne Low</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Rachel Lim and Ms Izzah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Empathy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Rowena Tan and Mr Nicholas Wong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Confidence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Sarah Nyam and Mr Alim</p>
+<p>Mr Alan Teo &amp; Ms Zheng Jinglin</p>
 </td>
 </tr>
 <tr>
@@ -90,15 +66,23 @@ variant: tiptap
 <p>1 Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kan Shi Min and Mr Freddie Chan</p>
+<p>Ms Lim Mei Qiao &amp; Mr Donovan Loh</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Courage</p>
+<p>1 Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Richard Oh and Ms Aubrey Leong</p>
+<p>Ms Elisa Chng &amp; Ms Sharifah Nadia Binte Syed Ameer Ali</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Discovery</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Amanda Lee &amp; Mr Desmond Loh</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +90,7 @@ variant: tiptap
 <p>2 Believe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Boon Hwee Alan and Ms Hazel Chew</p>
+<p>Mr Poh Yang Han &amp; Ms Tay Xiu Yu</p>
 </td>
 </tr>
 <tr>
@@ -114,15 +98,15 @@ variant: tiptap
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teoh Su-Mei Jeanette and Ms Nur Hidayah Hamidi</p>
+<p>Ms Phang Yan See &amp; Ms Lim Jia Xuan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Self-respect</p>
+<p>2 Self-Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Huang Kangsheng, Carson and Ms Serene Wong</p>
+<p>Mr Ignatius Lien &amp; Ms Eileen Chia</p>
 </td>
 </tr>
 <tr>
@@ -130,7 +114,7 @@ variant: tiptap
 <p>2 Purpose</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lien Cheong Wee Ignatius and Ms Ponniey</p>
+<p>Ms Eileen Sin &amp; Ms Amirah</p>
 </td>
 </tr>
 <tr>
@@ -138,7 +122,7 @@ variant: tiptap
 <p>2 Inquisitiveness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wileen Png and Mr Edwin Li</p>
+<p>Ms Janne Low &amp; Mr Lee Hong Liang</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +130,7 @@ variant: tiptap
 <p>2 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Mui Hoon Amanda and Mr Desmond Loh Huiyang</p>
+<p>Mdm Liu Shu Zhen &amp; Mrs Rachel Lim (Ms Rachel Ng)</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +138,7 @@ variant: tiptap
 <p>2 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zuraidah Binte Mohd Ariff and Ms Tan Yan Yan Grace</p>
+<p>Ms Rowena Tan &amp; Ms Hazel Chew</p>
 </td>
 </tr>
 <tr>
@@ -162,7 +146,7 @@ variant: tiptap
 <p>2 Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Eileen Sin Yu Ling and Ms Siti Nur Azmina Binte Abdul Razak</p>
+<p>Mr Alim &amp; Ms Bhanumathy</p>
 </td>
 </tr>
 <tr>
@@ -170,7 +154,7 @@ variant: tiptap
 <p>2 Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lai Lili and Mr Tan Huay Hong</p>
+<p>Ms Kan Shi Min &amp; Ms Jeslyn Lee / Mr Donavan Lau</p>
 </td>
 </tr>
 <tr>
@@ -178,7 +162,23 @@ variant: tiptap
 <p>2 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sharifah Nadia and Mr Tan Kiang Meng Anthony</p>
+<p>Mr Richard Oh &amp; Ms Aubrey Leong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Gratitude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Amanda Lim &amp; Ms Lin Wenyuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Low Qin Tian &amp; Ms Gladys Lim</p>
 </td>
 </tr>
 <tr>
@@ -186,55 +186,23 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rozmaini and Mr Joshua Loh</p>
+<p>Ms Siti Sarah Binte Mohammed &amp; Ms Priscilla Gan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Self-respect</p>
+<p>3 Teamwork</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zurianah and Mr Suhaili Ramlee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Purpose</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ong Chuhui</p>
+<p>Mdm Koh Xin Wei</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Inquisitiveness</p>
+<p>3 Curiosity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Bernice Xu</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tiffany Puah and Dr Ting Hea Chuen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Empathy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ang Peng Siang, Patrick and Ms Oon Xiu Wen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Confidence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Anna Chew and Mrs Amanda Lee</p>
+<p>Mdm Lai Lili</p>
 </td>
 </tr>
 <tr>
@@ -242,15 +210,39 @@ variant: tiptap
 <p>3 Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Rachel Kang and Mr Darren Tan</p>
+<p>Ms Hurul Ain &amp; Mr Carson Huang</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Courage</p>
+<p>3 Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Alia and Mr Gabriel Ho</p>
+<p>Mr Ignatius Shepherdson &amp; Ms Bernice Chew Li Ying</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Discovery</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Germain Ng&nbsp;&amp; Mr Freddie Chan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Progress</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Nicholas Wong&nbsp;&amp; Ms Ponniey</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Honour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jovena Sim&nbsp;&amp; Mr Wilson Sitoh</p>
 </td>
 </tr>
 <tr>
@@ -258,7 +250,7 @@ variant: tiptap
 <p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Low Qin Tian and Mr Teng Cheah Boon</p>
+<p>Mdm Rozmaini &amp; Mr Joshua Loh</p>
 </td>
 </tr>
 <tr>
@@ -266,7 +258,7 @@ variant: tiptap
 <p>4 Self-Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kennard Seah and Ms Nuha</p>
+<p>Mr Suhaili &amp; Ms Sarah Nyam</p>
 </td>
 </tr>
 <tr>
@@ -274,7 +266,7 @@ variant: tiptap
 <p>4 Purpose</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liu Shu Zhen and Ms Hurul Ain</p>
+<p>Ms Ong Chuhui &amp; Mr Edwin Li</p>
 </td>
 </tr>
 <tr>
@@ -282,7 +274,7 @@ variant: tiptap
 <p>4 Inquisitiveness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Sarah Binti Mohammed and Mr Lau Chu Beng Donavan</p>
+<p>Ms Bernice Xu &amp; Ms Serene Wong</p>
 </td>
 </tr>
 <tr>
@@ -290,7 +282,7 @@ variant: tiptap
 <p>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Mei Qiao, Mr Chan Xiao Yi and Ms Cheryl Yeoh Hui Ming</p>
+<p>Ms Tiffany Puah &amp; Ms Izzah</p>
 </td>
 </tr>
 <tr>
@@ -298,7 +290,7 @@ variant: tiptap
 <p>4 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Xin Wei and Mr Chin Khai Fung</p>
+<p>Mr Ang Peng Siang, Patrick &amp; Ms Oon Xiu Wen</p>
 </td>
 </tr>
 <tr>
@@ -306,7 +298,7 @@ variant: tiptap
 <p>4 Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jovena Sim and Ms Magdalena Furtado</p>
+<p>Mdm Zuraidah &amp; Ms Anna Chew</p>
 </td>
 </tr>
 <tr>
@@ -314,7 +306,23 @@ variant: tiptap
 <p>4 Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Bernice Chew Li Ying and Ms Germain Ng</p>
+<p>Mr Darren Tan &amp; Mrs Rachel Kang (Ms Rachel Ang)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Courage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Alia &amp; Ms Grace Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Gratitude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Magdalena Furtado &amp; Ms Jow Li Yan</p>
 </td>
 </tr>
 </tbody>

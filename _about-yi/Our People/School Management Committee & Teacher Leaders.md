@@ -96,7 +96,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Information and Communication Technologies (Covering)</p>
+<p>HOD / ICT (Covering)</p>
 </td>
 </tr>
 <tr>
