@@ -167,18 +167,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>3 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Amanda Lim &amp; Ms Lin Wenyuan</p>
 </td>
 </tr>
 <tr>
@@ -186,7 +178,7 @@ variant: tiptap
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Low Qin Tian &amp; Ms Gladys Lim</p>
 </td>
 </tr>
 <tr>
@@ -194,15 +186,7 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Siti Sarah Binte Mohammed &amp; Ms Priscilla Gan</p>
 </td>
 </tr>
 <tr>
@@ -210,31 +194,15 @@ variant: tiptap
 <p>3 Teamwork</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Koh Xin Wei</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Resilience</p>
+<p>3 Curiosity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Empathy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Confidence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Lai Lili</p>
 </td>
 </tr>
 <tr>
@@ -242,15 +210,39 @@ variant: tiptap
 <p>3 Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Hurul Ain &amp; Mr Carson Huang</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Courage</p>
+<p>3 Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ignatius Shepherdson &amp; Ms Bernice Chew Li Ying</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Discovery</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Germain Ng&nbsp;&amp; Mr Freddie Chan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Progress</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Nicholas Wong&nbsp;&amp; Ms Ponniey</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Honour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jovena Sim&nbsp;&amp; Mr Wilson Sitoh</p>
 </td>
 </tr>
 <tr>
@@ -258,7 +250,7 @@ variant: tiptap
 <p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Low Qin Tian and Mr Teng Cheah Boon</p>
+<p>Mdm Rozmaini &amp; Mr Joshua Loh</p>
 </td>
 </tr>
 <tr>
@@ -266,7 +258,7 @@ variant: tiptap
 <p>4 Self-Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kennard Seah and Ms Nuha</p>
+<p>Mr Suhaili &amp; Ms Sarah Nyam</p>
 </td>
 </tr>
 <tr>
@@ -274,7 +266,7 @@ variant: tiptap
 <p>4 Purpose</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liu Shu Zhen and Ms Hurul Ain</p>
+<p>Ms Ong Chuhui &amp; Mr Edwin Li</p>
 </td>
 </tr>
 <tr>
@@ -282,7 +274,7 @@ variant: tiptap
 <p>4 Inquisitiveness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Sarah Binti Mohammed and Mr Lau Chu Beng Donavan</p>
+<p>Ms Bernice Xu &amp; Ms Serene Wong</p>
 </td>
 </tr>
 <tr>
@@ -290,7 +282,7 @@ variant: tiptap
 <p>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Mei Qiao, Mr Chan Xiao Yi and Ms Cheryl Yeoh Hui Ming</p>
+<p>Ms Tiffany Puah &amp; Ms Izzah</p>
 </td>
 </tr>
 <tr>
@@ -298,7 +290,7 @@ variant: tiptap
 <p>4 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Xin Wei and Mr Chin Khai Fung</p>
+<p>Mr Ang Peng Siang, Patrick &amp; Ms Oon Xiu Wen</p>
 </td>
 </tr>
 <tr>
@@ -306,7 +298,7 @@ variant: tiptap
 <p>4 Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jovena Sim and Ms Magdalena Furtado</p>
+<p>Mdm Zuraidah &amp; Ms Anna Chew</p>
 </td>
 </tr>
 <tr>
@@ -314,7 +306,23 @@ variant: tiptap
 <p>4 Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Bernice Chew Li Ying and Ms Germain Ng</p>
+<p>Mr Darren Tan &amp; Mrs Rachel Kang (Ms Rachel Ang)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Courage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Alia &amp; Ms Grace Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Gratitude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Magdalena Furtado &amp; Ms Jow Li Yan</p>
 </td>
 </tr>
 </tbody>
