@@ -130,14 +130,6 @@ variant: tiptap
 <p>2 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lien Cheong Wee Ignatius and Ms Ponniey</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Inquisitiveness</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Liu Shu Zhen &amp; Mrs Rachel Lim (Ms Rachel Ng)</p>
 </td>
 </tr>
@@ -175,6 +167,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -191,7 +191,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Self-respect</p>
+<p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -199,7 +199,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Integrity</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
