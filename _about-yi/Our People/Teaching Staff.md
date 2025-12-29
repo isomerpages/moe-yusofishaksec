@@ -23,10 +23,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Believe</p>
+<p>1 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lin Wenyuan and Ms Tay Xiu Yu</p>
+<p>Ms Jeanette Teoh &amp; Noor Hayati</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chin Khai Fung &amp; Ms Siti Azmina</p>
 </td>
 </tr>
 <tr>
@@ -34,20 +42,12 @@ variant: tiptap
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Jia Xuan and Ms Phang Yan See</p>
+<p>Mr Low Min Chai &amp; Ms Nur Hidayah Binte Hamidi</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Self-respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Eileen Chia and Ms Elisa Chng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Purpose</p>
+<p>1 Tea</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Amirah and Mr Ignatius Shepherdson</p>
