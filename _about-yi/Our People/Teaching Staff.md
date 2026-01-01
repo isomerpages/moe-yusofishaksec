@@ -82,7 +82,7 @@ variant: tiptap
 <p>1 Discovery (1DV)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Amanda Lee &amp; Mr Desmond Loh</p>
+<p>Ms Amanda Bennett &amp; Mr Desmond Loh</p>
 </td>
 </tr>
 </tbody>

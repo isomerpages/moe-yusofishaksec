@@ -88,7 +88,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Information and Communication Technology (Covering) &amp; Level
+<p>HOD / Information and Communication Technologies (Covering) &amp; Level
 Head / Science</p>
 </td>
 </tr>
