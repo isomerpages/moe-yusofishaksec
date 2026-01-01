@@ -29,13 +29,4 @@ sections:
       url: https://sites.google.com/moe.edu.sg/yiss-secondary-1-registration/home/
       image: /images/Student_Group_Photo.jpg
       alt: Image alt text
-  - infopic:
-      title: YISS Open House 2025
-      id: infopic
-      button: Click here to find out more
-      url: https://sites.google.com/moe.edu.sg/yissopenhouse/home
-      image: /images/Social_Media___MOTD_Graphic__Website_.png
-      alt: Image alt text
-      subtitle: Join us at 8 SUMANG WALK for
-      description: 22 Nov (Sat), 8.30am - 12.30pm
 ---
