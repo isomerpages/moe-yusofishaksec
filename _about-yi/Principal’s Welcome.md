@@ -10,37 +10,35 @@ variant: tiptap
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024_Principal_s_Welcome_Photo.jpg">
 </div>
 <h4>Welcome to Yusof Ishak Secondary School!</h4>
-<p>I am Mr Chen Ziyang, the new Principal at Yusof Ishak Secondary School.
-I am excited to join the YI Family and honoured to take over the leadership
-baton from Mdm Maureen Lee.</p>
-<p>First, I would like to take this opportunity to thank Mdm Maureen Lee
-for her inspirational leadership, courage and deep care for her students
-and staff. Under her steadfast leadership, she led the school through COVID-19,
-oversaw the move of the school to 8 Sumang Walk and worked with the YI
-team to curate an exceptional school experience for Yusoffians.</p>
-<p>When I first stepped into the school and walked around the spaces, my
-first impression was the excitement I felt as an educator. Classrooms with
-desks on wheels, with whiteboards at the front and back to allow for quick
-transitions between whole-class and group activities; art rooms that open
-up to an outdoor garden where students can create and express their ideas
-in nature; a canteen where staff and students pre-order and self-collect
-their meals to reduce food waste. These are just some of the bold ideas
-that are carefully designed and incorporated into the school campus.</p>
-<p>In addition, beyond the spaces, the people at Yusof Ishak have touched
-and inspired me. Every staff I’ve met, teaching and non-teaching alike,
-are proud to be part of this journey to push the boundaries of teaching
-and learning and sharing with the larger fraternity. We are privileged
-to host the Centre for Teaching &amp; Learning Excellence (CTLE@YISS) where
-we partner Master Teachers from the Academy of Singapore Teachers, professors
-from the National Institute of Education and experts from the Ministry
-of Education to innovate and share best practices.</p>
-<p>I look forward to continuing this exciting journey of innovation, collaboration
-and partnership with Yusoffians, parents and stakeholders.</p>
-<p>2025 will also be a milestone for the school. We will be celebrating our
-60<sup>th</sup> anniversary, together with our nation as well as the 10<sup>th</sup> year
-of hosting CTLE@YISS. It will be a meaningful year for us as we remember
-our past and nurture our Yusoffians to be Leaders for Tomorrow.</p>
-<p>Wishing everyone a fulfilling year of learning and growth in 2025!</p>
 <p></p>
+<p>As we step into 2026, I am honoured to continue leading the YI Family
+in our ongoing journey of excellence and innovation.</p>
+<p>Last year marked an important milestone for our school as we celebrated
+our 60th anniversary. As we move forward, we rededicate ourselves to our
+goal of nurturing Yusoffians to be Leaders for Tomorrow and Leaders for
+the Greater Good. This endeavour continues to guide everything we do at
+Yusof Ishak Secondary School, reminding us that our work extends beyond
+academic achievement to developing young people who will make meaningful
+contributions to society.</p>
+<p>2025 also marked 10 years of hosting the Centre for Teaching &amp; Learning
+Excellence (CTLE@YISS), a partnership with the Academy of Singapore Teachers,
+and the National Institute of Education. Over these 10 years, this collaboration
+has enriched not just our school but the wider teaching fraternity as well.
+Going forward, we remain committed to exploring new pedagogies and approaches
+that will prepare our students for an ever-changing world.</p>
+<p>2026 marks our 5th year here at our Sumang Walk campus. I am deeply grateful
+for the unwavering support from our parents and the wider community here
+in Punggol. Your partnership has been instrumental in creating a vibrant
+learning environment where our Yusoffians can thrive and grow.</p>
+<p>Beyond our campus, we will continue to do our part as a school to serve
+the community. Contributing to the greater good is not just something we
+teach – it is something we model and practice together as a school community.
+Through our various outreach programmes and partnerships, we hope to make
+a positive difference in the lives of those around us.</p>
+<p>I look forward to a good year of learning ahead. To our future Yusoffians,
+YI parents, and YI staff, I warmly welcome you. Together, we will continue
+growing YI from strength to strength, building on our heritage and creating
+new possibilities for the future.</p>
+<p>Here's to an inspiring and fulfilling 2026!</p>
 <p>Mr Chen Ziyang</p>
 <p>Principal</p>
