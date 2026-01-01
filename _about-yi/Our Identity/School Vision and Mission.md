@@ -12,10 +12,19 @@ variant: tiptap
 <p>Nurturing&nbsp;Curiosity, Creativity and Confidence in our Yusoffians,
 Empowering them to be Life-long Learners who Contribute to the Greater
 Good.</p>
-<h3>OUR VALUES - InSPIRE</h3>
-<p>Live with Integrity
-<br>Lead with Self-respect
-<br>Collaborate with a Purpose
-<br>Learn with Inquisitiveness
-<br>Grow with Resilience
-<br>Serve with Empathy</p>
+<h3>OUR VALUES - GRIT</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Gratitude</p>
+</li>
+<li>
+<p>Resilience</p>
+</li>
+<li>
+<p>Integrity</p>
+</li>
+<li>
+<p>Teamwork</p>
+</li>
+</ul>
+<p></p>
