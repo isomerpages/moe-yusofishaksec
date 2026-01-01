@@ -16,5 +16,4 @@ Good.</p>
 <p>Gratitude</p>
 <p>Resilience</p>
 <p>Integrity</p>
-<p>Teamwork
-<br>Serve with Empathy</p>
+<p>Teamwork</p>
