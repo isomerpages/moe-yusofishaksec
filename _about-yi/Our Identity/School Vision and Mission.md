@@ -13,7 +13,18 @@ variant: tiptap
 Empowering them to be Life-long Learners who Contribute to the Greater
 Good.</p>
 <h3>OUR VALUES - GRIT</h3>
+<ul data-tight="true" class="tight">
+<li>
 <p>Gratitude</p>
+</li>
+<li>
 <p>Resilience</p>
+</li>
+<li>
 <p>Integrity</p>
+</li>
+<li>
 <p>Teamwork</p>
+</li>
+</ul>
+<p></p>
