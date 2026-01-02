@@ -18,7 +18,7 @@ Good.</p>
 <p>Gratitude</p>
 </li>
 <li>
-<p>Resilience</p>
+<p>Respect</p>
 </li>
 <li>
 <p>Integrity</p>
