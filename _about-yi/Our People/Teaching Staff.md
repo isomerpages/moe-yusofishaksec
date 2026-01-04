@@ -336,7 +336,7 @@ variant: tiptap
 <p>4 Resilience (4RE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tiffany Puah &amp; Ms Izzah</p>
+<p>Ms Tiffany Puah &amp; Mdm Izzah</p>
 </td>
 </tr>
 <tr>
