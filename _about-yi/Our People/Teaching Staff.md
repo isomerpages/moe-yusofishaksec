@@ -26,7 +26,7 @@ variant: tiptap
 <p>1 Gratitude (1GR)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jeanette Teoh &amp; Noor Hayati</p>
+<p>Ms Jeanette Teoh &amp; Mdm Noor Hayati</p>
 </td>
 </tr>
 <tr>
@@ -34,7 +34,7 @@ variant: tiptap
 <p>1 Respect (1RE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chin Khai Fung &amp; Ms Siti Azmina</p>
+<p>Mr Chin Khai Fung &amp; Ms Siti Nur Azmina</p>
 </td>
 </tr>
 <tr>
