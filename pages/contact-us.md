@@ -28,6 +28,9 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: "MRT: Punggol (NE17)<br>Buses: 117, 382W, 43"
+      - other: MRT/LRT:<br>Punggol (NE17)/<br>Soo Teck (PW7),<br>Sumang
+          (PW6)<br>BUS:<br>Bef/Aft Soo Teck Stn:<br>39, 43, 118, 381<br>Blk
+          315B:<br>34, 382W<br>Opp Blk 315B:<br>34, 382G
     title: "Getting here:"
+feedback: ""
 ---
