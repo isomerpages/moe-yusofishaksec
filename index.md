@@ -23,7 +23,7 @@ sections:
       title: 2025 O Level Results Release
       subtitle: Announcement
       id: infobar
-      description: 14 Jan (Thurs), 1.30pm
+      description: 14 Jan (Wed), 1.30pm
       button: CLICK HERE TO FIND OUT MORE
       url: https://www.yusofishaksec.moe.edu.sg/2025-o-level-results-release/
   - infopic:
