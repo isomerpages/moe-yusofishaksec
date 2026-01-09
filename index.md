@@ -19,6 +19,13 @@ sections:
         - title: Latest Happenings
           description: Check out our IG page!
           url: https://www.instagram.com/y.i.official/
+  - infobar:
+      title: 2025 O Level Results Release
+      subtitle: Announcement
+      id: infobar
+      description: 14 Jan (Thurs), 1.30pm
+      button: CLICK HERE TO FIND OUT MORE
+      url: https://www.yusofishaksec.moe.edu.sg/2025-o-level-results-release/
   - infopic:
       title: Sec 1 Registration
       subtitle: ANNOUNCEMENT
