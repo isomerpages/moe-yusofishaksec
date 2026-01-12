@@ -49,31 +49,31 @@ on MOE Sexuality Education.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Sex_ed_S1_Part_1_e.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex Ed/2026_Sex_ed_S1_Part_1_e.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Sex_ed_S1_Part_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex Ed/2026_Sex_ed_S1_Part_2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Sex_ed_S2_Part_1_e.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex Ed/2026_Sex_ed_S2_Part_1_e.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Sex_ed_S2_Part_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex Ed/2026_Sex_ed_S2_Part_2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Sex_ed_S3_Part_1_e.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex Ed/2026_Sex_ed_S3_Part_1_e.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Sex_ed_S3_Part_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex Ed/2026_Sex_ed_S3_Part_2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Sex_ed_S4_Part_1_e.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex Ed/2026_Sex_ed_S4_Part_1_e.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Sex_ed_S4_Part_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex Ed/2026_Sex_ed_S4_Part_2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Sex_ed_S5_e.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex Ed/2026_Sex_ed_S5_e.png">
 </div>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme that
@@ -95,7 +95,7 @@ are the key messages.</p>
 <p><strong>At Yusof Ishak Secondary School Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_01_161959.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex Ed/Screenshot_2026_01_01_161959.png">
 </div>
 <p><strong>Information for Parents</strong>
 </p>
