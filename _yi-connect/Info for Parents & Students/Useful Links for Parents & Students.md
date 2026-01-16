@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1hKH_8HBBAmpLQf1fvlqaZ3WLYDaoAFhN/view?usp=drive_link" rel="noopener nofollow" target="_blank">School Rules </a>
+<p><a href="https://drive.google.com/file/d/1hKH_8HBBAmpLQf1fvlqaZ3WLYDaoAFhN/view?usp=drive_link" rel="noopener nofollow" target="_blank">School Rules</a>
 </p>
 </li>
 <li>
