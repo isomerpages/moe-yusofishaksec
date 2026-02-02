@@ -145,7 +145,7 @@ Head / Science</p>
 <p>Mrs Tan Li May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Secondary)</p>
+<p>Year Head (Sec 3)</p>
 </td>
 </tr>
 <tr>
@@ -153,7 +153,7 @@ Head / Science</p>
 <p>Mr Daniel Soh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Secondary)</p>
+<p>Year Head (Sec 2)</p>
 </td>
 </tr>
 <tr>
