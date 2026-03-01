@@ -203,7 +203,7 @@ responsibility - both online and offline.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>YISS Positive Education Framework </strong></h4>
+<h4><strong>YISS Positive Education Framework</strong></h4>
 <p>Positive Education is integrated into our CCE culture to support students’
 well-being and growth.</p>
 <p><strong>&nbsp;</strong>
@@ -274,4 +274,70 @@ and develop a sense of accomplishment</p>
 </tbody>
 </table>
 <h4><strong>&nbsp;Our Programmes</strong></h4>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/TDD_2026___Exercise_SG_Ready.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Total Defence Day 2026</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/TDD_2026___Making_Sense_of_Exercise_SG_Ready.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Making Sense of Exercise SG Ready</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/TDD_2026___Fringe_Activities_PSG.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Fringe Activities for TDD 2026</div>
+</div>
+</div>
+</div>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCE_Lessons_Beyond_Classroom.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CCE Lessons Beyond the Classroom</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NDC.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">National Day Celebrations</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NDC2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">National Day Celebrations</div>
+</div>
+</div>
+</div>
 <p></p>
