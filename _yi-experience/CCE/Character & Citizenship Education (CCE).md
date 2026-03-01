@@ -83,7 +83,7 @@ structured around three big ideas:</p>
 </ul>
 <p>Students learn and apply values and social-emotional skills such as empathy,
 moral reasoning, resilience, help-seeking, digital discernment and civic
-responsibility - both online and offline.</p>
+responsibility, both online and offline.</p>
 <h4><strong>The CCE Journey Across Four Years</strong></h4>
 <p><strong>Spark • Shine • Serve • Soar</strong>
 </p>
