@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Schedule for HBL</h3>
 <p>Please refer to <a href="https://sites.google.com/moe.edu.sg/yiss-inspires/home-based-learning" rel="noopener noreferrer nofollow" target="_blank">YISS INSPIRES</a> for
 more details.</p>
-<h3>SLS password &amp; iCON email password reset</h3>
+<h3>Student’s MIMS password reset</h3>
 <p>To reset your MIMS password:</p>
 <p>1. Use the self-service option: Click "Forgot Password?" on the MIMS login
 page, enter your username (iCON email address), and answer the challenge
