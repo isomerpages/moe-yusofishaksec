@@ -73,7 +73,6 @@ responsibly.&nbsp; Given the pressures faced by the middle adolescent from
 within themselves and from peers, it is important to build a strong sense
 of self-worth, personal conviction and an understanding of the possible
 consequences of sexual behaviour.</p>
-<p>&nbsp;</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the Sexuality Education
 lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
