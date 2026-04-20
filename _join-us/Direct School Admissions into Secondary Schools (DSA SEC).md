@@ -418,8 +418,8 @@ applicants.</p>
 <p>25 Aug 2025 – 4 Sep 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents of applicants will be informed of the results of their application
-status (i.e. Confirmed Offer / Wait List / Unsuccessful).</p>
+<p>Parents of shortlisted applicants will be informed of the results of their
+application status (i.e. Confirmed Offer / Wait List / Unsuccessful).</p>
 </td>
 </tr>
 <tr>
