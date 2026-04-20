@@ -13,7 +13,7 @@ non-academic achievements and talents that they can demonstrate beyond
 the Primary School Leaving Examination (PSLE).</p>
 <p>Yusof Ishak Secondary School (YISS) invites Primary 6 students to participate
 in the DSA-SEC Exercise. Under this exercise, successful applicants will
-gain admission into YISS for the academic year beginning January 2026.</p>
+gain admission into YISS for the academic year beginning January 2027.</p>
 <p>For DSA 2025, YISS will offer the following talents for Primary 6 students.</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -110,6 +110,39 @@ gain admission into YISS for the academic year beginning January 2026.</p>
 <p>Boys, Girls</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys, Girls</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fencing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys, Girls</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Softball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong><u>DSA-Sec Selection Criteria for Talent Categories</u></strong>
@@ -170,10 +203,10 @@ with</p>
 <p>Personal Statement presentation</p>
 </li>
 <li>
-<p>Unprepared individual task</p>
+<p>Individual Assessment Task</p>
 </li>
 <li>
-<p>Interview</p>
+<p>Panel Interview</p>
 </li>
 </ul>
 </td>
@@ -208,16 +241,16 @@ or dropbox with the link shared in&nbsp;Step 4 of the application process <stron
 <p>Shortlisted applicants will be invited to submit a 30-second dance video.</p>
 <p>&nbsp;</p>
 <p>Further shortlisted applicants will be invited to attend an in-person
-selection with</p>
+selection comprising</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Prepared individual task</p>
 </li>
 <li>
-<p>Unprepared individual task</p>
+<p>Individual Assessment Task</p>
 </li>
 <li>
-<p>Interview</p>
+<p>Panel Interview</p>
 </li>
 </ul>
 </td>
@@ -250,13 +283,13 @@ STEM and/or Robotics;</p>
 with relevant achievements.</p>
 <p>&nbsp;</p>
 <p>Further shortlisted applicants will be invited to attend in-person selection
-with</p>
+comprising</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Unprepared tasks</p>
+<p>Individual Assessment Task</p>
 </li>
 <li>
-<p>Interview</p>
+<p>Panel Interview</p>
 </li>
 </ul>
 </td>
@@ -268,21 +301,23 @@ with</p>
 <td rowspan="1" colspan="1">
 <p>Basketball</p>
 <p>Table Tennis</p>
-<p>&nbsp;Wushu</p>
+<p>Wushu</p>
+<p>Badminton</p>
+<p>Fencing</p>
+<p>Softball</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>[for Basketball] Key player of the School Team who achieved preferably
-Top 8 placing at National Inter-Primary School Competition(s), or</p>
+<p><strong>[for Basketball, Softball]</strong> Key player in School Team with
+preferably top 8 placing at National Inter-Primary School Competition(s),
+or</p>
 </li>
-</ul>
-<p></p>
-<ul data-tight="true" class="tight">
 <li>
-<p>[for Table Tennis, Wushu] Individuals who achieved preferably Top 8 placing
-in their individual events at National Inter-Primary School Competition(s),</p>
+<p><strong>[for Table Tennis, Wushu, Badminton, Fencing]</strong> Individuals
+with preferably Top 8 placing in individual events at National Inter-Primary
+School Competition(s),</p>
 </li>
 <li>
 <p>Individuals with outstanding achievements; and</p>
@@ -294,13 +329,13 @@ in their individual events at National Inter-Primary School Competition(s),</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted applicants will be invited to attend an in-person selection
-with</p>
+comprising</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Individual performance task</p>
 </li>
 <li>
-<p>Interview</p>
+<p>Panel Interview</p>
 </li>
 </ul>
 </td>
@@ -310,11 +345,11 @@ with</p>
 <p>*Meeting all the criteria does not guarantee the student will be shortlisted/given
 an offer. Shortlisted candidates will be required to attend an in-person
 selection process.</p>
-<p>** Applicants who do not have prior experience may also apply. The school
-will assess applicants based on the selection criteria, which may include
-assessing the potential of the applicants.</p>
+<p>** Applicants without prior experience may also apply. The school will
+assess applicants based on the selection criteria, which may include assessing
+the potential of the applicants.</p>
 <p></p>
-<p><strong><u>Application Process (7 May 2025, 11am – 3 Jun 2025, 3pm)</u></strong>
+<p><strong><u>Application Process (6 May 2026, 11am – 2 Jun 2026, 4.30pm)</u></strong>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec portal
 at <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.
@@ -353,7 +388,7 @@ shortlisting and arrangement of selection exercise schedule.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May 2025 (11am) – 3 Jun 2025 (3pm)</p>
+<p>6 May 2026 (11am) – 2 Jun 2026 (4.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application Process for DSA-Sec via <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
@@ -362,7 +397,7 @@ shortlisting and arrangement of selection exercise schedule.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mid-Jul 2025</p>
+<p>Mid-Jul 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents of applicants will be informed if they have been shortlisted to
@@ -371,7 +406,7 @@ undergo the DSA selection.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mid-Jul 2025 – Aug 2025</p>
+<p>Mid-Jul 2026 – Aug 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In-person Interview / Audition / Trial will be conducted for shortlisted
@@ -380,16 +415,16 @@ applicants.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25 Aug 2025 – 4 Sep 2025</p>
+<p>17 Aug 2026 – 28 Aug 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents of applicants will be informed of the results of their application
-status (i.e. Confirmed Offer / Wait List / Unsuccessful).</p>
+<p>Parents of shortlisted applicants will be informed of the results of their
+application status (i.e. Confirmed Offer / Wait List / Unsuccessful).</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 Oct 2025 (9am) – 31 Oct 2025 (3pm)</p>
+<p>19 Oct 2026 (9am) – 23 Oct 2026 (4.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents of students with DSA-Sec offers to log onto DSA-Sec to submit
