@@ -4,7 +4,7 @@ permalink: /yi-experience/dsa/
 description: ""
 variant: tiptap
 ---
-<p><strong><em>The information below applies to the 2025 Direct School Admission into Secondary Schools (DSA-SEC) for Admission to Secondary 1 in 2026.</em></strong>
+<p><strong><em>The information below applies to the 2026 Direct School Admission into Secondary Schools (DSA-SEC) for Admission to Secondary 1 in 2027.</em></strong>
 </p>
 <h1><strong>Direct School Admissions into Secondary Schools (DSA-SEC)</strong></h1>
 <p>The DSA scheme provides students with the opportunity to seek admission
