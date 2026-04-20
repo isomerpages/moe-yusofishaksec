@@ -345,9 +345,9 @@ comprising</p>
 <p>*Meeting all the criteria does not guarantee the student will be shortlisted/given
 an offer. Shortlisted candidates will be required to attend an in-person
 selection process.</p>
-<p>** Applicants who do not have prior experience may also apply. The school
-will assess applicants based on the selection criteria, which may include
-assessing the potential of the applicants.</p>
+<p>** Applicants without prior experience may also apply. The school will
+assess applicants based on the selection criteria, which may include assessing
+the potential of the applicants.</p>
 <p></p>
 <p><strong><u>Application Process (7 May 2025, 11am – 3 Jun 2025, 3pm)</u></strong>
 </p>
