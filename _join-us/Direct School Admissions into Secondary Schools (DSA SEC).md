@@ -328,7 +328,16 @@ School Competition(s),</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Shortlisted applicants will be invited to attend an in-person selection
+comprising</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Individual performance task</p>
+</li>
+<li>
+<p>Panel Interview</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
