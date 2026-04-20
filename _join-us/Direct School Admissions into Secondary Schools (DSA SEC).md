@@ -14,7 +14,7 @@ the Primary School Leaving Examination (PSLE).</p>
 <p>Yusof Ishak Secondary School (YISS) invites Primary 6 students to participate
 in the DSA-SEC Exercise. Under this exercise, successful applicants will
 gain admission into YISS for the academic year beginning January 2027.</p>
-<p>For DSA 2025, YISS will offer the following talents for Primary 6 students.</p>
+<p>For DSA 2026, YISS will offer the following talents for Primary 6 students.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
