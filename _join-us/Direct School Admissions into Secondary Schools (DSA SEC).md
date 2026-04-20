@@ -349,7 +349,7 @@ selection process.</p>
 assess applicants based on the selection criteria, which may include assessing
 the potential of the applicants.</p>
 <p></p>
-<p><strong><u>Application Process (7 May 2025, 11am – 3 Jun 2025, 3pm)</u></strong>
+<p><strong><u>Application Process (6 May 2026, 11am – 2 Jun 2026, 4.30pm)</u></strong>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec portal
 at <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.
