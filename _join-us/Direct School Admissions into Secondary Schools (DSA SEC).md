@@ -13,7 +13,7 @@ non-academic achievements and talents that they can demonstrate beyond
 the Primary School Leaving Examination (PSLE).</p>
 <p>Yusof Ishak Secondary School (YISS) invites Primary 6 students to participate
 in the DSA-SEC Exercise. Under this exercise, successful applicants will
-gain admission into YISS for the academic year beginning January 2026.</p>
+gain admission into YISS for the academic year beginning January 2027.</p>
 <p>For DSA 2025, YISS will offer the following talents for Primary 6 students.</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -110,6 +110,39 @@ gain admission into YISS for the academic year beginning January 2026.</p>
 <p>Boys, Girls</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys, Girls</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fencing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys, Girls</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Softball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong><u>DSA-Sec Selection Criteria for Talent Categories</u></strong>
@@ -170,10 +203,10 @@ with</p>
 <p>Personal Statement presentation</p>
 </li>
 <li>
-<p>Unprepared individual task</p>
+<p>Individual Assessment Task</p>
 </li>
 <li>
-<p>Interview</p>
+<p>Panel Interview</p>
 </li>
 </ul>
 </td>
@@ -208,16 +241,16 @@ or dropbox with the link shared in&nbsp;Step 4 of the application process <stron
 <p>Shortlisted applicants will be invited to submit a 30-second dance video.</p>
 <p>&nbsp;</p>
 <p>Further shortlisted applicants will be invited to attend an in-person
-selection with</p>
+selection comprising</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Prepared individual task</p>
 </li>
 <li>
-<p>Unprepared individual task</p>
+<p>Individual Assessment Task</p>
 </li>
 <li>
-<p>Interview</p>
+<p>Panel Interview</p>
 </li>
 </ul>
 </td>
