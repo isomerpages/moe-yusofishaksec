@@ -388,7 +388,7 @@ shortlisting and arrangement of selection exercise schedule.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May 2025 (11am) – 3 Jun 2025 (3pm)</p>
+<p>6 May 2026 (11am) – 2 Jun 2026 (4.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application Process for DSA-Sec via <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
@@ -397,7 +397,7 @@ shortlisting and arrangement of selection exercise schedule.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mid-Jul 2025</p>
+<p>Mid-Jul 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents of applicants will be informed if they have been shortlisted to
@@ -406,7 +406,7 @@ undergo the DSA selection.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mid-Jul 2025 – Aug 2025</p>
+<p>Mid-Jul 2026 – Aug 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In-person Interview / Audition / Trial will be conducted for shortlisted
@@ -415,7 +415,7 @@ applicants.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25 Aug 2025 – 4 Sep 2025</p>
+<p>17 Aug 2026 – 28 Aug 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents of shortlisted applicants will be informed of the results of their
@@ -424,7 +424,7 @@ application status (i.e. Confirmed Offer / Wait List / Unsuccessful).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 Oct 2025 (9am) – 31 Oct 2025 (3pm)</p>
+<p>19 Oct 2026 (9am) – 23 Oct 2026 (4.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents of students with DSA-Sec offers to log onto DSA-Sec to submit
