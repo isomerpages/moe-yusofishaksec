@@ -283,13 +283,13 @@ STEM and/or Robotics;</p>
 with relevant achievements.</p>
 <p>&nbsp;</p>
 <p>Further shortlisted applicants will be invited to attend in-person selection
-with</p>
+comprising</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Unprepared tasks</p>
+<p>Individual Assessment Task</p>
 </li>
 <li>
-<p>Interview</p>
+<p>Panel Interview</p>
 </li>
 </ul>
 </td>
@@ -301,21 +301,23 @@ with</p>
 <td rowspan="1" colspan="1">
 <p>Basketball</p>
 <p>Table Tennis</p>
-<p>&nbsp;Wushu</p>
+<p>Wushu</p>
+<p>Badminton</p>
+<p>Fencing</p>
+<p>Softball</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>[for Basketball] Key player of the School Team who achieved preferably
-Top 8 placing at National Inter-Primary School Competition(s), or</p>
+<p><strong>[for Basketball, Softball]</strong> Key player in School Team with
+preferably top 8 placing at National Inter-Primary School Competition(s),
+or</p>
 </li>
-</ul>
-<p></p>
-<ul data-tight="true" class="tight">
 <li>
-<p>[for Table Tennis, Wushu] Individuals who achieved preferably Top 8 placing
-in their individual events at National Inter-Primary School Competition(s),</p>
+<p><strong>[for Table Tennis, Wushu, Badminton, Fencing]</strong> Individuals
+with preferably Top 8 placing in individual events at National Inter-Primary
+School Competition(s),</p>
 </li>
 <li>
 <p>Individuals with outstanding achievements; and</p>
@@ -326,16 +328,7 @@ in their individual events at National Inter-Primary School Competition(s),</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shortlisted applicants will be invited to attend an in-person selection
-with</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Individual performance task</p>
-</li>
-<li>
-<p>Interview</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 </tbody>
