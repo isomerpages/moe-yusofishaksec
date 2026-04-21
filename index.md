@@ -10,12 +10,12 @@ sections:
       variant: image
       background: /images/banner_without_text.jpg
       key_highlights:
-        - title: Sec 1 Registration
-          description: Info on Sec 1 Registration
-          url: https://sites.google.com/moe.edu.sg/yiss-secondary-1-registration/home/
-        - title: 2025 O Level Results Release
-          description: 14 Jan (Wed), 1.30pm
-          url: https://yusofishaksec.moe.edu.sg/2025-o-level-results-release/
+        - title: Welcome to YISS!
+          description: A Message From Our Principal
+          url: https://www.yusofishaksec.moe.edu.sg/about-yi/principals-welcome/
+        - title: 2026 DSA Selection Exercise
+          description: Join Our YI Family!
+          url: https://www.yusofishaksec.moe.edu.sg/yi-experience/dsa/
         - title: Latest Happenings
           description: Check out our IG page!
           url: https://www.instagram.com/y.i.official/
