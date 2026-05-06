@@ -19,4 +19,15 @@ sections:
         - title: Latest Happenings
           description: Check out our IG page!
           url: https://www.instagram.com/y.i.official/
+  - infopic:
+      title: DSA e-Open House
+      subtitle: Come join us!
+      id: infopic
+      description: Learn more about our school's DSA offerings this year at our
+        webinar (30 May, 9am). Register via QR code or the link below. Spaces
+        are limited!
+      button: Register Now!
+      url: https://go.gov.sg/yissdsaoh2026
+      image: /images/YISS_DSA_e_Open_House_2026_e_Brochure.jpg
+      alt: Image alt text
 ---
