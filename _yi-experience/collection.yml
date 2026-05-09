@@ -2,6 +2,27 @@ collections:
   yi-experience:
     output: true
     order:
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/Our CCAs.md
+      - Co Curricular Activities/Art Club.md
+      - Co Curricular Activities/Badminton.md
+      - Co Curricular Activities/Basketball (Boys).md
+      - Co Curricular Activities/Boys' Brigade.md
+      - Co Curricular Activities/Chinese Orchestra.md
+      - Co Curricular Activities/Choir.md
+      - Co Curricular Activities/Concert Band.md
+      - Co Curricular Activities/English Drama.md
+      - Co Curricular Activities/Fencing.md
+      - Co Curricular Activities/Girls' Brigade.md
+      - Co Curricular Activities/Infocomm Technology Club.md
+      - Co Curricular Activities/Modern Dance.md
+      - Co Curricular Activities/NCC (Land).md
+      - Co Curricular Activities/NPCC.md
+      - Co Curricular Activities/Robotics Club.md
+      - Co Curricular Activities/Softball (Girls).md
+      - Co Curricular Activities/STEM Club.md
+      - Co Curricular Activities/Table Tennis.md
+      - Co Curricular Activities/Wushu.md
       - Academic Programmes/.keep
       - Academic Programmes/English Language & Literature Department.md
       - Academic Programmes/Mother Tongue Languages Department.md
@@ -15,7 +36,6 @@ collections:
       - CCE/Character & Citizenship Education (CCE).md
       - CCE/Education and Career Guidance.md
       - CCE/Sexuality Education.md
-      - Co Curricular Activities.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - Personalised Digital Learning Programme (PDLP).md
