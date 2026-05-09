@@ -25,8 +25,7 @@ understanding of who they are and how they can contribute towards the greater
 good. Equipped with a strong command of the English Language and a deep
 appreciation for Literature in English, Yusoffians would be able to&nbsp;<strong>Think</strong>,&nbsp;<strong>Learn and Lead Better</strong>,
 and positively influence the world around them.</p>
-<p><strong>Teaching and Learning Approaches</strong>
-</p>
+<h4><strong>Teaching and Learning Approaches</strong></h4>
 <p>YISS’s English Language and Literature Department uses the Parallel Curriculum
 Model (PCM) as a tool for curriculum planning. PCM promotes differentiation
 and connections in the classroom, allowing teachers to design lessons that
@@ -52,8 +51,7 @@ of texts, mirroring the work of literary scholars in the Curriculum of
 Practice. Finally, this approach enables students to critically examine
 their own values and perspectives, fostering personal growth and deeper
 engagement with themes in the Curriculum of Identity.</p>
-<p><strong>Key Programmes</strong>
-</p>
+<h4><strong>Key Programmes</strong></h4>
 <p><strong>Reading Programme</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -131,7 +129,6 @@ Students gain insight into the writing process, the challenges of overcoming
 self-doubt, and the importance of finding one’s unique voice. Many sessions
 also include interactive Q&amp;A segments, allowing students to pose questions
 about character development, world-building and the realities of publishing.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/EL/EL6.jpg">
 </div>
