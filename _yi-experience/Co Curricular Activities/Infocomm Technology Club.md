@@ -16,13 +16,28 @@ and publicity efforts.</p>
 iPads and Apple’s suite of media tools to explore Augmented Reality (AR),
 Artificial Intelligence (AI), and 3D design to generate visuals and narratives
 that are relevant to current events of today.</p>
-<p>&nbsp;</p>
 <p><strong>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Apple New Media Programme – Video Journalism</u></strong>
 </p>
 <p>In collaboration with Make the Change SG, our InfoComm students will become
 visual storytellers who effectively document real-world issues, developing
 core journalism skills (planning, filming, interviewing, and editing) using
 iPads and Apple’s creative tools.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm Club/infocomm1.jpg">
+</div>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm Club/infocomm2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm Club/infocomm3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm Club/infocomm4.jpg">
+</div>
 <h4><strong>CCA Training Information</strong></h4>
 <p>Every Friday: 2.30 – 5.30PM</p>
 <p></p>
