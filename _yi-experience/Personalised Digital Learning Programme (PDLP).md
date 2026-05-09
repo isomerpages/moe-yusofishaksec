@@ -5,39 +5,38 @@ description: ""
 variant: tiptap
 ---
 <h1>Aims of Personal Digital Learning Programme (PDLP)</h1>
-<p>&nbsp;</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Support the Development of Digital Literacy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Support Self-Directed and Collaborative Learning</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Enhance Teaching and Learning</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/PDLP/pdlp1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Support the Development of Digital Literacy</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/PDLP/pdlp2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Support Self-Directed and Collaborative Learning</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/PDLP/pdlp3.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Enhance Teaching and Learning</div>
+</div>
+</div>
+</div>
 <p><strong>How will your child/ward use their Personal Learning Device (PLD)?</strong>
 </p>
 <p>At YISS, your child/ward will be using the PLD for</p>
