@@ -23,19 +23,16 @@ visual storytellers who effectively document real-world issues, developing
 core journalism skills (planning, filming, interviewing, and editing) using
 iPads and Apple’s creative tools.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm Club/infocomm1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Infocomm Club/infocomm1.jpg">
 </div>
-<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm Club/infocomm2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Infocomm Club/infocomm2.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm Club/infocomm3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Infocomm Club/infocomm3.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm Club/infocomm4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Infocomm Club/infocomm4.jpg">
 </div>
 <h4><strong>CCA Training Information</strong></h4>
 <p>Every Friday: 2.30 – 5.30PM</p>
