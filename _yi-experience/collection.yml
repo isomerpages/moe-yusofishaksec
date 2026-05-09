@@ -2,6 +2,7 @@ collections:
   yi-experience:
     output: true
     order:
+      - Co Curricular Activities/Boys' Brigade.md
       - Co Curricular Activities/NCC (Land).md
       - Co Curricular Activities/NPCC.md
       - Co Curricular Activities/Wushu.md
