@@ -19,7 +19,7 @@ resilience, and responsible use of emerging technologies.</p>
 engineering design, problem-solving, and computational thinking through
 the use of LEGO SPIKE with CSARC-aligned certification.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Robotics Club/robotics1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCAs/Robotics Club/robotics1.jpg">
 </div>
 <p><strong>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Drone Flying (Manual &amp; Automated)</u></strong>
 </p>
@@ -27,7 +27,7 @@ the use of LEGO SPIKE with CSARC-aligned certification.</p>
 safe manual piloting and program autonomous drone flights using block-based
 tools and Python.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Robotics Club/robotics2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Robotics Club/robotics2.png">
 </div>
 <p><strong>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Python Programming</u></strong>
 </p>
