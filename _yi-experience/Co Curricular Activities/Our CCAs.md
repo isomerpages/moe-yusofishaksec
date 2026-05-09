@@ -39,16 +39,19 @@ by the school are as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NCC (Land)</p>
+<p><a href="https://yusofishaksec.moe.edu.sg/ncc-land/" rel="noopener nofollow" target="_blank">NCC (Land)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Choir</p>
+<p><a href="https://yusofishaksec.moe.edu.sg/choir/" rel="noopener nofollow" target="_blank">Choir</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wushu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Infocomm Technology</p>
+<p><a href="https://yusofishaksec.moe.edu.sg/infocomm-technology-club/" rel="noopener nofollow" target="_blank">Infocomm Technology</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +59,8 @@ by the school are as follows:</p>
 <p>NPCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Concert Band</p>
+<p><a href="https://yusofishaksec.moe.edu.sg/concert-band/" rel="noopener nofollow" target="_blank">Concert Band</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Table Tennis</p>
@@ -67,30 +71,37 @@ by the school are as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Boys' Brigade</p>
+<p><a href="https://yusofishaksec.moe.edu.sg/boys-brigade/" rel="noopener nofollow" target="_blank">Boys' Brigade</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Modern Dance</p>
+<p><a href="https://yusofishaksec.moe.edu.sg/modern-dance/" rel="noopener nofollow" target="_blank">Modern Dance</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Badminton</p>
+<p><a href="https://yusofishaksec.moe.edu.sg/badminton/" rel="noopener nofollow" target="_blank">Badminton</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM club</p>
+<p>STEM Club</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Girls' Brigade</p>
+<p><a href="https://yusofishaksec.moe.edu.sg/girls-brigade/" rel="noopener nofollow" target="_blank">Girls' Brigade</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Orchestra</p>
+<p><a href="https://yusofishaksec.moe.edu.sg/chinese-orchestra/" rel="noopener nofollow" target="_blank">Chinese Orchestra</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Basketball (Boys)</p>
+<p><a href="https://yusofishaksec.moe.edu.sg/basketball/" rel="noopener nofollow" target="_blank">Basketball (Boys)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English Drama</p>
+<p><a href="https://yusofishaksec.moe.edu.sg/english-drama/" rel="noopener nofollow" target="_blank">English Drama</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -98,13 +109,15 @@ by the school are as follows:</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="https://yusofishaksec.moe.edu.sg/art-club/" rel="noopener nofollow" target="_blank">Art Club</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://yusofishaksec.moe.edu.sg/fencing/" rel="noopener nofollow" target="_blank">Fencing</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fencing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art</p>
 </td>
 </tr>
 <tr>
