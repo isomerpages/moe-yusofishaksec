@@ -2,6 +2,7 @@ collections:
   yi-experience:
     output: true
     order:
+      - Co Curricular Activities/Basketball.md
       - Co Curricular Activities/STEM Club.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Co Curricular Activities.md
