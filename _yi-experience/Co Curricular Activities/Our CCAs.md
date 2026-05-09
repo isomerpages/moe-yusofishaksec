@@ -39,84 +39,101 @@ by the school are as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://yusofishaksec.moe.edu.sg/ncc-land/" rel="noopener nofollow" target="_blank">NCC (Land)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://yusofishaksec.moe.edu.sg/choir/" rel="noopener nofollow" target="_blank">Choir</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wushu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://yusofishaksec.moe.edu.sg/infocomm-technology-club/" rel="noopener nofollow" target="_blank">Infocomm Technology</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NPCC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://yusofishaksec.moe.edu.sg/concert-band/" rel="noopener nofollow" target="_blank">Concert Band</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Table Tennis</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Robotics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://yusofishaksec.moe.edu.sg/boys-brigade/" rel="noopener nofollow" target="_blank">Boys' Brigade</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://yusofishaksec.moe.edu.sg/modern-dance/" rel="noopener nofollow" target="_blank">Modern Dance</a>
+<p><a href="https://yusofishaksec.moe.edu.sg/art-club/" rel="noopener nofollow" target="_blank">Art Club</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://yusofishaksec.moe.edu.sg/badminton/" rel="noopener nofollow" target="_blank">Badminton</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM Club</p>
+<p><a href="https://yusofishaksec.moe.edu.sg/english-drama/" rel="noopener nofollow" target="_blank">English Drama</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://yusofishaksec.moe.edu.sg/girls-brigade/" rel="noopener nofollow" target="_blank">Girls' Brigade</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://yusofishaksec.moe.edu.sg/chinese-orchestra/" rel="noopener nofollow" target="_blank">Chinese Orchestra</a>
 </p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><a href="https://yusofishaksec.moe.edu.sg/basketball/" rel="noopener nofollow" target="_blank">Basketball (Boys)</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://yusofishaksec.moe.edu.sg/english-drama/" rel="noopener nofollow" target="_blank">English Drama</a>
+<p><a href="https://yusofishaksec.moe.edu.sg/infocomm-technology-club/" rel="noopener nofollow" target="_blank">Infocomm Technology</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://yusofishaksec.moe.edu.sg/ncc-land/" rel="noopener nofollow" target="_blank">NCC (Land)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://yusofishaksec.moe.edu.sg/art-club/" rel="noopener nofollow" target="_blank">Art Club</a>
+<p><a href="https://yusofishaksec.moe.edu.sg/choir/" rel="noopener nofollow" target="_blank">Choir</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://yusofishaksec.moe.edu.sg/fencing/" rel="noopener nofollow" target="_blank">Fencing</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="https://yusofishaksec.moe.edu.sg/robotics-club/" rel="noopener nofollow" target="_blank">Robotics</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://yusofishaksec.moe.edu.sg/npcc/" rel="noopener nofollow" target="_blank">NPCC</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://yusofishaksec.moe.edu.sg/concert-band/" rel="noopener nofollow" target="_blank">Concert Band</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://yusofishaksec.moe.edu.sg/softball/" rel="noopener nofollow" target="_blank">Softball (Girls)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://yusofishaksec.moe.edu.sg/stem-club/" rel="noopener nofollow" target="_blank">STEM Club</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://yusofishaksec.moe.edu.sg/modern-dance/" rel="noopener nofollow" target="_blank">Modern Dance</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://yusofishaksec.moe.edu.sg/table-tennis/" rel="noopener nofollow" target="_blank">Table Tennis</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -128,7 +145,8 @@ by the school are as follows:</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Softball (Girls)</p>
+<p><a href="https://yusofishaksec.moe.edu.sg/wushu/" rel="noopener nofollow" target="_blank">Wushu</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
