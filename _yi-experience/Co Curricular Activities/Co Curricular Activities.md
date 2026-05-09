@@ -6,9 +6,9 @@ variant: tiptap
 third_nav_title: Co Curricular Activities
 ---
 <h1><strong>Co-Curricular Activities</strong></h1>
-<p><strong>VISION</strong>
-</p>
+<h4><strong>VISION</strong></h4>
 <p>To provide students with a holistic experience in education.</p>
+<p></p>
 <p>CCA is an integral part of the school curriculum. It complements the school’s
 academic programme. Each CCA seeks to teach students the skills and knowledge
 necessary and relevant in their own areas, as well as to instill in students
@@ -39,7 +39,7 @@ by the school are as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NCC</p>
+<p>NCC (Land)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Choir</p>
@@ -48,7 +48,7 @@ by the school are as follows:</p>
 <p>Wushu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Infocomm/Media</p>
+<p>Infocomm Technology</p>
 </td>
 </tr>
 <tr>
@@ -123,6 +123,4 @@ by the school are as follows:</p>
 </tr>
 </tbody>
 </table>
-<p>CCAs are mainly conducted on Fridays between 2:30 pm and 5:30 pm. Additional
-training may be scheduled on Wednesdays between 2:30 pm and 5:30 pm to
-prepare students for competitions and performances.</p>
+<p></p>
