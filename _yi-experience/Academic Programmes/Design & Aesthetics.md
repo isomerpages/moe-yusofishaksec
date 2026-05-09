@@ -26,6 +26,9 @@ and inquiry-based learning, students can grow at a different pace to reach
 their full potential.</p>
 <p><strong><u>DESIGN &amp; TECHNOLOGY (D&amp;T)</u></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/DNA/dna1.png">
+</div>
 <p>Design and Technology equips students with future ready skills such as
 user empathy and design thinking, and prepares students to explore ever
 evolving technologies. Iterative design and making is taught at Lower Secondary
@@ -52,14 +55,16 @@ functionality and the environment</p>
 </li>
 <li>
 <p>Develop confidence and pride through turning ideas into physical objects</p>
+<hr>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong><u>FOOD AND CONSUMER EDUCATION (FCE) – Lower Secondary</u></strong>
 </p>
 <p><strong><u>NUTRITION AND FOOD SCIENCE (NFS) – Upper Secondary</u></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/DNA/dna2.png">
+</div>
 <p>Food and Consumer Education (FCE) is offered at Lower Secondary while
 Nutrition and Food Science (NFS) is offered at Upper Secondary. Through
 these subjects, students stay abreast of the latest developments in culinary
@@ -122,9 +127,12 @@ and sustainable food consumption.</p>
 ingredients) to modify and improve recipes.</p>
 <p>o&nbsp;&nbsp; Innovate nutritious, appealing, and sustainable food products
 for diverse needs.</p>
-<p>&nbsp;</p>
+<hr>
 <p><strong><u>ART</u></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/DNA/dna3.png">
+</div>
 <p>The Art curriculum seeks to provide students with a balanced and well-rounded
 education in the aesthetic, cognitive and affective domains. Through engagement
 in art discourse and art making, the curriculum offered at both Lower and
@@ -168,18 +176,22 @@ and processes</p>
 problems</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong><u>MUSIC</u></strong><u><br></u>Music is offered at both Lower
-Secondary (in school) and Upper Secondary (external centre) where students
-will be introduced to a wide range of genres and styles as they acquire
-and apply musical skills and knowledge through Listening, Creating and
-Performing. This provides the natural platform for students to build social-emotional
-dispositions due to the collaborative nature of music-making which include
-teamwork and resilience to strive to do their best. In addition, building
-and deepening their understanding of musical and cultural diversity hones
-critical thinking and creative expression, contributing to the holistic
-development of our students, fostering a life-long interest and involvement
-in music.</p>
+<hr>
+<p><strong><u>MUSIC</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/DNA/dna4.png">
+</div>
+<p><u><br></u>Music is offered at both Lower Secondary (in school) and Upper
+Secondary (external centre) where students will be introduced to a wide
+range of genres and styles as they acquire and apply musical skills and
+knowledge through Listening, Creating and Performing. This provides the
+natural platform for students to build social-emotional dispositions due
+to the collaborative nature of music-making which include teamwork and
+resilience to strive to do their best. In addition, building and deepening
+their understanding of musical and cultural diversity hones critical thinking
+and creative expression, contributing to the holistic development of our
+students, fostering a life-long interest and involvement in music.</p>
 <p><strong>Learning Outcomes</strong>
 </p>
 <ul data-tight="true" class="tight">
