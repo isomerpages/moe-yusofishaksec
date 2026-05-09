@@ -30,6 +30,6 @@ seek improvements for themselves and others.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Table Tennis/tabletennis4.jpg">
 </div>
 <h4><strong>CCA Training Information</strong></h4>
-<p>Every Mondays: 3.45 – 5.45pm</p>
+<p>Every Monday: 3.45 – 5.45pm</p>
 <p>Every Wednesday: 3.30 – 5.30pm</p>
-<p>Every Fridays: 2.30 – 4.30pm</p>
+<p>Every Friday: 2.30 - 4.30pm</p>
