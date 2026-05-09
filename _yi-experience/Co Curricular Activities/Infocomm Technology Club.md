@@ -22,7 +22,6 @@ that are relevant to current events of today.</p>
 visual storytellers who effectively document real-world issues, developing
 core journalism skills (planning, filming, interviewing, and editing) using
 iPads and Apple’s creative tools.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm Club/infocomm1.jpg">
 </div>
