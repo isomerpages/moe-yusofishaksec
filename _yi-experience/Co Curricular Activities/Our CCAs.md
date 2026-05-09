@@ -72,7 +72,6 @@ by the school are as follows:</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><a href="https://yusofishaksec.moe.edu.sg/basketball/" rel="noopener nofollow" target="_blank">Basketball (Boys)</a>
 </p>
 <p></p>
