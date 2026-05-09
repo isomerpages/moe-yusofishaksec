@@ -62,19 +62,22 @@ engagement with themes in the Curriculum of Identity.</p>
 </p>
 </li>
 </ul>
-<p><a rel="noopener noreferrer nofollow" target="_blank">The</a><a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[G(1]</a>&nbsp;
-Learning Oasis, our school’s library, is a vibrant hub where students come
-together to discover the joy of reading and learning. As the heart of our
-school's reading programme, it offers a diverse collection of books, digital
-resources and cozy reading corners that encourage students to explore new
-genres and ideas. Students are involved in selecting books for the Learning
-Oasis, giving them ownership of the reading programme while ensuring the
-collection remains relevant, engaging, and reflective of their interests.
+<p>The Learning Oasis, our school’s library, is a vibrant hub where students
+come together to discover the joy of reading and learning. As the heart
+of our school's reading programme, it offers a diverse collection of books,
+digital resources and cozy reading corners that encourage students to explore
+new genres and ideas. Students are involved in selecting books for the
+Learning Oasis, giving them ownership of the reading programme while ensuring
+the collection remains relevant, engaging, and reflective of their interests.
 The Learning Oasis is more than a resource centre, it is a welcoming space
 that fosters curiosity, creativity and a strong reading culture across
 the school.</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/EL/EL1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/EL/EL2.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>YI Reads</strong>
@@ -91,7 +94,9 @@ science and technology to current events and pop culture. These initiatives,
 together with regular book fairs, cater to different interests and ensure
 that every student finds something engaging to read, fostering a lifelong
 love for reading and broadening their knowledge across multiple subjects.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/EL/EL3.jpg">
+</div>
 <p><strong>Programmes, Workshops and Learning Journeys</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Nurturing Aspiring Writers</strong>
@@ -107,8 +112,12 @@ a prestigious Gold Award in the <strong>2025 Queen’s&nbsp;Commonwealth&nbsp;Es
 This remarkable accomplishment highlights the calibre of our young writers
 and their ability to craft compelling narratives that resonate with a global
 audience.</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/EL/EL4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/EL/EL5.jpg">
+</div>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Writers’ Talks</strong>
 </p>
 <p>As part of our commitment to nurturing thoughtful and articulate readers,
@@ -123,6 +132,9 @@ self-doubt, and the importance of finding one’s unique voice. Many sessions
 also include interactive Q&amp;A segments, allowing students to pose questions
 about character development, world-building and the realities of publishing.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/EL/EL6.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Introduction to Drama Workshop</strong>
@@ -148,5 +160,10 @@ to themes of self-discovery and independence (e.g. <em>Hard Mode)</em>,
 for instance, encourages deep reflection. Students also bring back their
 experience to the classroom where they further engage in discussions about
 humanity, compassion and the consequences of prejudice.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/EL/EL7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/EL/EL8.jpg">
+</div>
 <p></p>
