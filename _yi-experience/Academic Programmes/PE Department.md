@@ -78,23 +78,25 @@ with and without disabilities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/PE/PE4.png">
 </div>
-<p></p>
-<p></p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/PE/PE5.png">
+</div>
 <p><strong>Cohort Camp</strong>
 <br>The Secondary 3 Outdoor Adventure Learning Camp aims to instill leadership
 qualities in students through outdoor experiential learning. In alternate
 years, our students participate in the MOE–OBS Challenge Course, a five-day,
 four-night expedition-based programme. In the other years, the school conducts
 its own OAL camp for the Secondary 3 cohort. &nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/PE/PE6.jpg">
+</div>
 <p><strong>NAPFA Test</strong>
 <br>The NAPFA Test is conducted annually for all Secondary 2, 4 and 5 students.
 It encourages students to maintain their fitness through regular physical
 exercise and reinforces the importance of a healthy lifestyle.</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/PE/PE7.png">
+</div>
 <p><strong>Olympic Society</strong>
 <br>Our Olympic Society engages students in healthy living programmes. Games,
 nutritional talks, and fun fitness activities are thoughtfully woven into
