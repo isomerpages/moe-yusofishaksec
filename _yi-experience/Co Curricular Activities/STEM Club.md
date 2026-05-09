@@ -49,4 +49,4 @@ precise flight.</p>
 </div>
 <h4><strong>CCA Training Information</strong></h4>
 <p>Every Friday: 2:30 PM – 5:30 PM</p>
-<p>Additional Training for competition: 3.30 PM to 5:30&nbsp;</p>
+<p>Additional Training for Competitions: 3.30 PM - 5.30 PM on selected weekdays</p>
