@@ -5,8 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-<p><strong>English Drama Club</strong>
-</p>
 <p>The English Drama Club is a vibrant community of storytellers, performers,
 and technicians. We believe that theatre is more than just "acting", it
 is a journey of self-discovery, teamwork, and building the confidence to
