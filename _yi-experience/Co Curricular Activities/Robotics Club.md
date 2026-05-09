@@ -18,24 +18,22 @@ resilience, and responsible use of emerging technologies.</p>
 <p>Our students go from basic coding to hands-on robotics programme developing
 engineering design, problem-solving, and computational thinking through
 the use of LEGO SPIKE with CSARC-aligned certification.</p>
-<p>&nbsp;</p>
-<p></p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Robotics Club/robotics1.jpg">
+</div>
 <p><strong>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Drone Flying (Manual &amp; Automated)</u></strong>
 </p>
 <p>Students develop in the aerial robotics programme where students learn
 safe manual piloting and program autonomous drone flights using block-based
 tools and Python.</p>
-<p>&nbsp;</p>
-<p></p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Robotics Club/robotics2.png">
+</div>
 <p><strong>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Python Programming</u></strong>
 </p>
 <p>Students explore progressive text-based coding programme that equip students
 with Python skills for robotics control, automation, and advanced logical
 thinking.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <h4><strong>CCA Training Information</strong></h4>
 <p>[Lower Sec] Every Mondays: 3.00 – 5.30PM</p>
 <p>[Upper Sec] Wednesdays: 3.30 – 6.00PM</p>
