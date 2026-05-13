@@ -34,6 +34,8 @@ sections:
       title: Collection of School Graduation Certificate (SGC)
       subtitle: Sec 4E & 4NT Cohort of 2025
       id: infobar
-      description: Find out more on how to collect your School Graduation Certificates.
-      button: Button Text
+      description: Find out how to collect your School Graduation Certificates by
+        clicking the link below.
+      button: Click here
+      url: https://yusofishaksec.moe.edu.sg/collection-of-school-graduation-certificate/
 ---
