@@ -30,4 +30,12 @@ sections:
       url: https://go.gov.sg/yissdsaoh2026
       image: /images/YISS_DSA_e_Open_House_2026_e_Brochure.jpg
       alt: Image alt text
+  - infobar:
+      title: Collection of School Graduation Certificate (SGC)
+      subtitle: Sec 4E & 4NT Cohort of 2025
+      id: infobar
+      description: Find out how to collect your School Graduation Certificates by
+        clicking the link below.
+      button: Click here
+      url: https://yusofishaksec.moe.edu.sg/collection-of-school-graduation-certificate/
 ---
