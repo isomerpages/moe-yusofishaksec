@@ -13,9 +13,9 @@ We encourage you to come individually or in small groups to avoid congestion.</p
 for collection)</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>School Operation Hours</strong>
+<p><strong>Collection Hours</strong>
 </p>
-<p><strong>Mon - Fri</strong>:&nbsp;8.00am - 5.30pm
+<p><strong>Mon - Fri</strong>:&nbsp;8.00am - 4.30pm
 <br>Closed on Saturdays, Sundays and Public Holidays</p>
 <p><strong>Dates of Collection:</strong>
 </p>
