@@ -21,7 +21,7 @@ sections:
           url: https://www.instagram.com/y.i.official/
   - infobar:
       title: Collection of School Graduation Certificate (SGC)
-      subtitle: Sec 4E & 4NT Cohort of 2025
+      subtitle: Sec 4 Cohort of 2025
       id: infobar
       description: Find out how to collect your School Graduation Certificates by
         clicking the link below.
