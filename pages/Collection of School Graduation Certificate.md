@@ -4,13 +4,12 @@ permalink: /collection-of-school-graduation-certificate/
 variant: tiptap
 description: ""
 ---
-<p>Dear Sec 4E and 4NT Graduates,</p>
+<p>Dear Sec 4E, 4NA and 4NT Graduates,</p>
 <p>We are pleased to inform you that your School Graduation Certificates
 (SGC) is now ready for collection from the General Office.</p>
 <p>Please present your NRIC or student ID card upon entering the school.
 We encourage you to come individually or in small groups to avoid congestion.</p>
-<p>(An update to this message will be provided when the Sec 4NA SGC is ready
-for collection)</p>
+<p>(The Sec 4NA SGC is ready for collection as well.)</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Collection Hours</strong>
