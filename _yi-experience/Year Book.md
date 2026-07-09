@@ -7,10 +7,12 @@ description: ""
 <p><em>No part of the publications may be reproduced in any form without the permission of the school.</em>
 </p>
 <h4><strong>2025 e-Yearbook</strong></h4>
-<p>Please click <a href="https://go.gov.sg/yissyearbook2024" rel="noopener nofollow" target="_blank">here</a> to
+<p>Please click <a href="https://go.gov.sg/yissyearbook-2025" rel="noopener nofollow" target="_blank">here</a> to
 download the 2025 Yearbook. Please consult your Class Mentors if you have
 forgotten the password.</p>
-<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yearbook_2025.jpg">
+</div>
 <h4><strong>2024 e-Yearbook</strong></h4>
 <p>Please click <a href="https://go.gov.sg/yissyearbook2024" rel="noopener nofollow" target="_blank">here</a> to
 download the 2024 Yearbook. Please consult your Class Mentors if you have
